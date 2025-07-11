@@ -1,0 +1,17 @@
+---
+import MultiChoice from "@/components/MultiChoice";
+import Layout from "../layouts/Layout.astro";
+import { questions } from "../dbs/phrasal-verbs.json";
+---
+
+<Layout>
+  <div class="mt-8 flex flex-col items-center">
+    <h1 class="text-3xl font-bold mb-4">Frases Verbales</h1>
+    <p class="max-w-xl text-center mb-4">
+      Las frases verbales (phrasal verbs) en inglés son combinaciones de un
+      verbo con una preposición o adverbio que cambian el significado original
+      del verbo. Son muy comunes en el inglés cotidiano.
+    </p>
+  </div>
+  <MultiChoice type="phrasal-verbs" db={questions} client:load />
+</Layout>

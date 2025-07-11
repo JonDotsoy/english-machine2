@@ -1,0 +1,23 @@
+---
+import Layout from "../layouts/Layout.astro";
+import MultiChoice from "../components/MultiChoice";
+import { questions } from "../dbs/past-continuous.json";
+---
+
+<Layout>
+  <div class="mt-8 flex flex-col items-center">
+    <h1 class="text-3xl font-bold mb-4">Past Continuous</h1>
+    <p class="mb-2">Ejemplo: <span class="font-mono">I was eating.</span></p>
+    <p class="max-w-xl text-center">
+      El Past Continuous se usa para acciones que estaban ocurriendo en un
+      momento específico del pasado.
+    </p>
+    <a href="#" class="mt-4">
+      <button
+        class="px-4 py-2 bg-yellow-600 text-white rounded shadow hover:bg-yellow-700 transition"
+        >Frases Verbales</button
+      >
+    </a>
+  </div>
+  <MultiChoice type="past-continuous" db={questions} client:load />
+</Layout>

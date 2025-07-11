@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "title": "Base de datos de preguntas y respuestas",
+  "description": "Un esquema para una base de datos de preguntas, respuestas y ejemplos en inglés.",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "default": "./schema.json"
+    },
+    "language": {
+      "type": "string",
+      "title": "Lenguaje",
+      "description": "Lenguaje en el que están escritas las preguntas, respuestas y ejemplos. Por defecto: 'en' (inglés).",
+      "default": "en"
+    },
+    "questions": {
+      "type": "array",
+      "title": "Preguntas",
+      "description": "Lista de preguntas con sus respuestas y ejemplos.",
+      "items": {
+        "type": "object",
+        "title": "Pregunta",
+        "description": "Una pregunta con su respuesta y ejemplo.",
+        "properties": {
+          "question": { "type": "string", "title": "Pregunta" },
+          "anwer": { "type": "string", "title": "Respuesta" },
+          "example": { "type": "string", "title": "Ejemplo" },
+          "choices": {
+            "type": "array",
+            "title": "Opciones",
+            "description": "Opciones de respuesta para la pregunta.",
+            "items": { "type": "string" }
+          }
+        },
+        "required": ["question", "anwer"]
+      }
+    }
+  },
+  "required": ["questions"]
+}

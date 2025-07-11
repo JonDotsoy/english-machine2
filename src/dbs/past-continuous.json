@@ -1,0 +1,396 @@
+{
+  "$schema": "./schema.json",
+  "language": "en",
+  "questions": [
+    {
+      "question": "Julie ___ (sleep) at three o'clock.",
+      "anwer": "was sleeping",
+      "choices": ["was sleeping", "were sleeping", "is sleeping", "slept"]
+    },
+    {
+      "question": "We ___ (watch) TV when the power went out.",
+      "anwer": "were watching",
+      "choices": ["were watching", "watched", "are watching", "watch"]
+    },
+    {
+      "question": "I ___ (not/listen) to music when you called.",
+      "anwer": "was not listening",
+      "choices": [
+        "was not listening",
+        "were not listening",
+        "am not listening",
+        "did not listen"
+      ]
+    },
+    {
+      "question": "___ (you/do) your homework at 7 PM?",
+      "anwer": "Were you doing",
+      "choices": ["Were you doing", "Did you do", "Are you doing", "Do you do"]
+    },
+    {
+      "question": "The children ___ (play) in the garden all afternoon.",
+      "anwer": "were playing",
+      "choices": ["were playing", "played", "are playing", "play"]
+    },
+    {
+      "question": "He ___ (drive) to work when it started to rain.",
+      "anwer": "was driving",
+      "choices": ["was driving", "drove", "is driving", "drives"]
+    },
+    {
+      "question": "They ___ (not/pay) attention during the lesson.",
+      "anwer": "were not paying",
+      "choices": [
+        "were not paying",
+        "are not paying",
+        "did not pay",
+        "do not pay"
+      ]
+    },
+    {
+      "question": "What ___ (she/do) at 10 o'clock last night?",
+      "anwer": "was she doing",
+      "choices": ["was she doing", "did she do", "is she doing", "does she do"]
+    },
+    {
+      "question": "I ___ (read) a book while my brother ___ (play) video games.",
+      "anwer": "was reading, was playing",
+      "choices": [
+        "was reading, was playing",
+        "read, played",
+        "am reading, is playing",
+        "read, plays"
+      ]
+    },
+    {
+      "question": "You ___ (not/sleep) when I got home.",
+      "anwer": "were not sleeping",
+      "choices": [
+        "were not sleeping",
+        "are not sleeping",
+        "did not sleep",
+        "do not sleep"
+      ]
+    },
+    {
+      "question": "She ___ (cook) dinner when the phone rang.",
+      "anwer": "was cooking",
+      "choices": ["was cooking", "were cooking", "cooked", "is cooking"]
+    },
+    {
+      "question": "They ___ (not/study) when the teacher arrived.",
+      "anwer": "were not studying",
+      "choices": [
+        "were not studying",
+        "are not studying",
+        "did not study",
+        "was not studying"
+      ]
+    },
+    {
+      "question": "What ___ (you/wear) at the party last night?",
+      "anwer": "were you wearing",
+      "choices": [
+        "were you wearing",
+        "did you wear",
+        "are you wearing",
+        "was you wearing"
+      ]
+    },
+    {
+      "question": "My parents ___ (travel) to Europe last summer.",
+      "anwer": "were traveling",
+      "choices": [
+        "were traveling",
+        "traveled",
+        "are traveling",
+        "was traveling"
+      ]
+    },
+    {
+      "question": "I ___ (not/work) yesterday because I was sick.",
+      "anwer": "was not working",
+      "choices": [
+        "was not working",
+        "were not working",
+        "did not work",
+        "am not working"
+      ]
+    },
+    {
+      "question": "___ (it/rain) when you left the house?",
+      "anwer": "Was it raining",
+      "choices": [
+        "Was it raining",
+        "Were it raining",
+        "Did it rain",
+        "Is it raining"
+      ]
+    },
+    {
+      "question": "The students ___ (take) notes during the lecture.",
+      "anwer": "were taking",
+      "choices": ["were taking", "took", "are taking", "was taking"]
+    },
+    {
+      "question": "He ___ (not/pay) attention to the movie.",
+      "anwer": "was not paying",
+      "choices": [
+        "was not paying",
+        "were not paying",
+        "did not pay",
+        "is not paying"
+      ]
+    },
+    {
+      "question": "Where ___ (she/go) when you saw her?",
+      "anwer": "was she going",
+      "choices": [
+        "was she going",
+        "were she going",
+        "did she go",
+        "is she going"
+      ]
+    },
+    {
+      "question": "We ___ (have) lunch when the earthquake happened.",
+      "anwer": "were having",
+      "choices": ["were having", "had", "are having", "was having"]
+    },
+    {
+      "question": "The dog ___ (bark) all night long.",
+      "anwer": "was barking",
+      "choices": ["was barking", "were barking", "barked", "is barking"]
+    },
+    {
+      "question": "They ___ (not/listen) to the teacher's explanation.",
+      "anwer": "were not listening",
+      "choices": [
+        "were not listening",
+        "are not listening",
+        "did not listen",
+        "was not listening"
+      ]
+    },
+    {
+      "question": "I ___ (swim) in the pool when it started to thunder.",
+      "anwer": "was swimming",
+      "choices": ["was swimming", "were swimming", "swam", "am swimming"]
+    },
+    {
+      "question": "___ (you/study) English last year?",
+      "anwer": "Were you studying",
+      "choices": [
+        "Were you studying",
+        "Did you study",
+        "Are you studying",
+        "Was you studying"
+      ]
+    },
+    {
+      "question": "My sister ___ (write) a letter to her friend.",
+      "anwer": "was writing",
+      "choices": ["was writing", "were writing", "wrote", "is writing"]
+    },
+    {
+      "question": "The children ___ (not/behave) well in class.",
+      "anwer": "were not behaving",
+      "choices": [
+        "were not behaving",
+        "are not behaving",
+        "did not behave",
+        "was not behaving"
+      ]
+    },
+    {
+      "question": "What ___ (they/discuss) at the meeting?",
+      "anwer": "were they discussing",
+      "choices": [
+        "were they discussing",
+        "did they discuss",
+        "are they discussing",
+        "was they discussing"
+      ]
+    },
+    {
+      "question": "She ___ (sing) in the shower when I knocked.",
+      "anwer": "was singing",
+      "choices": ["was singing", "were singing", "sang", "is singing"]
+    },
+    {
+      "question": "We ___ (not/expect) such a big crowd.",
+      "anwer": "were not expecting",
+      "choices": [
+        "were not expecting",
+        "are not expecting",
+        "did not expect",
+        "was not expecting"
+      ]
+    },
+    {
+      "question": "The baby ___ (cry) when I woke up.",
+      "anwer": "was crying",
+      "choices": ["was crying", "were crying", "cried", "is crying"]
+    },
+    {
+      "question": "___ (you/think) about the problem yesterday?",
+      "anwer": "Were you thinking",
+      "choices": [
+        "Were you thinking",
+        "Did you think",
+        "Are you thinking",
+        "Was you thinking"
+      ]
+    },
+    {
+      "question": "They ___ (build) a new house in the neighborhood.",
+      "anwer": "were building",
+      "choices": ["were building", "built", "are building", "was building"]
+    },
+    {
+      "question": "I ___ (not/feel) well during the flight.",
+      "anwer": "was not feeling",
+      "choices": [
+        "was not feeling",
+        "were not feeling",
+        "did not feel",
+        "am not feeling"
+      ]
+    },
+    {
+      "question": "How ___ (he/react) to the news?",
+      "anwer": "was he reacting",
+      "choices": [
+        "was he reacting",
+        "were he reacting",
+        "did he react",
+        "is he reacting"
+      ]
+    },
+    {
+      "question": "The team ___ (practice) for the championship.",
+      "anwer": "was practicing",
+      "choices": [
+        "was practicing",
+        "were practicing",
+        "practiced",
+        "is practicing"
+      ]
+    },
+    {
+      "question": "She ___ (not/wear) her glasses yesterday.",
+      "anwer": "was not wearing",
+      "choices": [
+        "was not wearing",
+        "were not wearing",
+        "did not wear",
+        "is not wearing"
+      ]
+    },
+    {
+      "question": "What ___ (you/eat) for breakfast this morning?",
+      "anwer": "were you eating",
+      "choices": [
+        "were you eating",
+        "did you eat",
+        "are you eating",
+        "was you eating"
+      ]
+    },
+    {
+      "question": "The workers ___ (fix) the road during rush hour.",
+      "anwer": "were fixing",
+      "choices": ["were fixing", "fixed", "are fixing", "was fixing"]
+    },
+    {
+      "question": "I ___ (not/enjoy) the movie at all.",
+      "anwer": "was not enjoying",
+      "choices": [
+        "was not enjoying",
+        "were not enjoying",
+        "did not enjoy",
+        "am not enjoying"
+      ]
+    },
+    {
+      "question": "The cat ___ (sleep) on the sofa all day.",
+      "anwer": "was sleeping",
+      "choices": ["was sleeping", "were sleeping", "slept", "is sleeping"]
+    },
+    {
+      "question": "___ (they/argue) about money again?",
+      "anwer": "Were they arguing",
+      "choices": [
+        "Were they arguing",
+        "Did they argue",
+        "Are they arguing",
+        "Was they arguing"
+      ]
+    },
+    {
+      "question": "My brother ___ (learn) to play the guitar.",
+      "anwer": "was learning",
+      "choices": ["was learning", "were learning", "learned", "is learning"]
+    },
+    {
+      "question": "The doctor ___ (not/see) patients yesterday afternoon.",
+      "anwer": "was not seeing",
+      "choices": [
+        "was not seeing",
+        "were not seeing",
+        "did not see",
+        "is not seeing"
+      ]
+    },
+    {
+      "question": "Where ___ (you/live) before you moved here?",
+      "anwer": "were you living",
+      "choices": [
+        "were you living",
+        "did you live",
+        "are you living",
+        "was you living"
+      ]
+    },
+    {
+      "question": "The birds ___ (fly) south for the winter.",
+      "anwer": "were flying",
+      "choices": ["were flying", "flew", "are flying", "was flying"]
+    },
+    {
+      "question": "She ___ (not/understand) the instructions.",
+      "anwer": "was not understanding",
+      "choices": [
+        "was not understanding",
+        "were not understanding",
+        "did not understand",
+        "is not understanding"
+      ]
+    },
+    {
+      "question": "What ___ (he/say) when you told him the truth?",
+      "anwer": "was he saying",
+      "choices": [
+        "was he saying",
+        "were he saying",
+        "did he say",
+        "is he saying"
+      ]
+    },
+    {
+      "question": "The employees ___ (work) overtime to finish the project.",
+      "anwer": "were working",
+      "choices": ["were working", "worked", "are working", "was working"]
+    },
+    {
+      "question": "I ___ (not/drive) because my car was broken.",
+      "anwer": "was not driving",
+      "choices": [
+        "was not driving",
+        "were not driving",
+        "did not drive",
+        "am not driving"
+      ]
+    }
+  ]
+}
