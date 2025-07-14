@@ -412,199 +412,452 @@
     {
       "question": "find out",
       "answer": "To discover or learn information.",
-      "example": "I need to find out what time the store closes.",
+      "example": "I need to find out some information about the new policy.",
       "choices": [
         "To discover or learn information.",
-        "To reduce or fell a tree.",
-        "To support or make a copy.",
-        "To establish or arrange something."
+        "To search for information.",
+        "To invent something.",
+        "To return something."
       ]
     },
     {
-      "question": "wake up",
-      "answer": "To stop sleeping or become alert.",
-      "example": "I wake up at 6 AM every morning.",
+      "question": "call off",
+      "answer": "To cancel an event or activity.",
+      "example": "The rain caused the picnic to be called off.",
       "choices": [
-        "To stop sleeping or become alert.",
-        "To discover or learn information.",
-        "To reduce or fell a tree.",
-        "To arrive or appear."
+        "To cancel an event or activity.",
+        "To postpone something.",
+        "To return something.",
+        "To increase the volume."
+      ]
+    },
+    {
+      "question": "break away from",
+      "answer": "To leave or escape from someone or something that is holding you.",
+      "example": "She decided to break away from her old habits.",
+      "choices": [
+        "To leave or escape from someone or something that is holding you.",
+        "To break something into pieces.",
+        "To stop working.",
+        "To reconcile after a fight."
+      ]
+    },
+    {
+      "question": "break down",
+      "answer": "To stop working or to analyze something.",
+      "example": "The computer suddenly broke down.",
+      "choices": [
+        "To stop working or to analyze something.",
+        "To break something into pieces.",
+        "To leave or escape.",
+        "To invent something."
+      ]
+    },
+    {
+      "question": "break up",
+      "answer": "To end a relationship.",
+      "example": "They broke up after five years of marriage.",
+      "choices": [
+        "To end a relationship.",
+        "To break something into pieces.",
+        "To stop working.",
+        "To reconcile after a fight."
+      ]
+    },
+    {
+      "question": "break into",
+      "answer": "To enter a place by force.",
+      "example": "The thief tried to break into the house.",
+      "choices": [
+        "To enter a place by force.",
+        "To end a relationship.",
+        "To stop working.",
+        "To invent something."
+      ]
+    },
+    {
+      "question": "break out",
+      "answer": "To start suddenly (for something bad, like war, fire, etc.).",
+      "example": "War broke out between the two countries.",
+      "choices": [
+        "To start suddenly (for something bad, like war, fire, etc.).",
+        "To end a relationship.",
+        "To break something into pieces.",
+        "To reconcile after a fight."
+      ]
+    },
+    {
+      "question": "drop off",
+      "answer": "To take someone or something to a place and leave them there.",
+      "example": "Can you drop me off at the mall?",
+      "choices": [
+        "To take someone or something to a place and leave them there.",
+        "To stop attending something.",
+        "To visit briefly.",
+        "To enter a place by force."
+      ]
+    },
+    {
+      "question": "drop out",
+      "answer": "To stop participating or being involved.",
+      "example": "He decided to drop out of college.",
+      "choices": [
+        "To stop participating or being involved.",
+        "To take someone to a place.",
+        "To visit briefly.",
+        "To enter a place by force."
+      ]
+    },
+    {
+      "question": "drop by",
+      "answer": "To visit someone for a short time.",
+      "example": "I'll drop by your house later today.",
+      "choices": [
+        "To visit someone for a short time.",
+        "To stop participating.",
+        "To take someone to a place.",
+        "To enter a place by force."
+      ]
+    },
+    {
+      "question": "show around",
+      "answer": "To give someone a tour of a place.",
+      "example": "The manager will show around the new employee tomorrow.",
+      "choices": [
+        "To give someone a tour of a place.",
+        "To arrive or appear.",
+        "To behave in a way to attract attention.",
+        "To leave a place."
+      ]
+    },
+    {
+      "question": "show off",
+      "answer": "To behave in a way to attract attention.",
+      "example": "Don't show off in front of your friends.",
+      "choices": [
+        "To behave in a way to attract attention.",
+        "To arrive or appear.",
+        "To give a tour.",
+        "To leave a place."
+      ]
+    },
+    {
+      "question": "show up",
+      "answer": "To arrive or appear.",
+      "example": "She didn't show up to the party.",
+      "choices": [
+        "To arrive or appear.",
+        "To behave in a way to attract attention.",
+        "To give a tour.",
+        "To leave a place."
+      ]
+    },
+    {
+      "question": "go over",
+      "answer": "To review or check something carefully.",
+      "example": "The teacher will go over the homework tomorrow.",
+      "choices": [
+        "To review or check something carefully.",
+        "To increase.",
+        "To decrease.",
+        "To leave a place."
+      ]
+    },
+    {
+      "question": "hang out",
+      "answer": "To spend time relaxing or socializing.",
+      "example": "I hung out with my friends last night.",
+      "choices": [
+        "To spend time relaxing or socializing.",
+        "To suspend something.",
+        "To wait.",
+        "To be affected by alcohol."
+      ]
+    },
+    {
+      "question": "hang up",
+      "answer": "To suspend something or end a phone call.",
+      "example": "Please hang up your dirty clothes.",
+      "choices": [
+        "To suspend something or end a phone call.",
+        "To spend time relaxing.",
+        "To wait.",
+        "To be affected by alcohol."
+      ]
+    },
+    {
+      "question": "hang on",
+      "answer": "To wait for a short time.",
+      "example": "Hang on a minute, I'll be right there.",
+      "choices": [
+        "To wait for a short time.",
+        "To suspend something.",
+        "To spend time relaxing.",
+        "To be affected by alcohol."
+      ]
+    },
+    {
+      "question": "close down",
+      "answer": "To stop operating permanently.",
+      "example": "The store will close down next month.",
+      "choices": [
+        "To stop operating permanently.",
+        "To close something completely.",
+        "To block an entrance.",
+        "To finish something."
+      ]
+    },
+    {
+      "question": "closed off",
+      "answer": "To block an entrance or access.",
+      "example": "The police closed off the road due to an accident.",
+      "choices": [
+        "To block an entrance or access.",
+        "To stop operating permanently.",
+        "To close something completely.",
+        "To finish something."
+      ]
+    },
+    {
+      "question": "shut down",
+      "answer": "To stop operating or turn off.",
+      "example": "She shut down her business last year.",
+      "choices": [
+        "To stop operating or turn off.",
+        "To be quiet.",
+        "To block an entrance.",
+        "To finish something."
+      ]
+    },
+    {
+      "question": "shut up",
+      "answer": "To be quiet or stop talking.",
+      "example": "Please shut up the noise!",
+      "choices": [
+        "To be quiet or stop talking.",
+        "To stop operating.",
+        "To block an entrance.",
+        "To finish something."
+      ]
+    },
+    {
+      "question": "shut off",
+      "answer": "To turn off a device or stop the flow of something.",
+      "example": "Don't forget to shut off the lights.",
+      "choices": [
+        "To turn off a device or stop the flow of something.",
+        "To stop operating.",
+        "To be quiet.",
+        "To finish something."
       ]
     },
     {
       "question": "clean up",
       "answer": "To tidy or remove dirt and mess.",
-      "example": "Please clean up your room before dinner.",
+      "example": "I need to clean up this mess.",
       "choices": [
         "To tidy or remove dirt and mess.",
-        "To stop sleeping.",
-        "To discover or learn information.",
-        "To support or make a copy."
+        "To empty something completely.",
+        "To remove a small amount.",
+        "To clean downwards."
       ]
     },
     {
-      "question": "hang up",
-      "answer": "To end a phone call or suspend something.",
-      "example": "She hung up the phone after the conversation.",
+      "question": "cleaned out",
+      "answer": "To empty something completely.",
+      "example": "She cleaned out her closet yesterday.",
       "choices": [
-        "To end a phone call or suspend something.",
-        "To tidy or remove dirt.",
-        "To stop sleeping.",
-        "To reduce or fell a tree."
+        "To empty something completely.",
+        "To tidy or remove dirt and mess.",
+        "To remove a small amount.",
+        "To clean downwards."
       ]
     },
     {
-      "question": "speak up",
-      "answer": "To talk louder or express an opinion.",
-      "example": "Please speak up, I can't hear you.",
+      "question": "worked out",
+      "answer": "To have a good result or to exercise.",
+      "example": "The project worked out successfully.",
       "choices": [
-        "To talk louder or express an opinion.",
-        "To end a phone call.",
-        "To tidy or remove dirt.",
-        "To discover or learn information."
+        "To have a good result or to exercise.",
+        "To become angry.",
+        "To spend time on something.",
+        "To treat someone harshly."
       ]
     },
     {
-      "question": "grow up",
-      "answer": "To mature or become an adult.",
-      "example": "I grew up in a small town.",
+      "question": "work out",
+      "answer": "To exercise or solve a problem.",
+      "example": "I work out at the gym every morning.",
       "choices": [
-        "To mature or become an adult.",
-        "To talk louder.",
-        "To end a phone call.",
-        "To stop sleeping."
+        "To exercise or solve a problem.",
+        "To become angry.",
+        "To spend time on something.",
+        "To treat someone harshly."
       ]
     },
     {
-      "question": "make up",
-      "answer": "To invent or reconcile after a fight.",
-      "example": "She made up a story about why she was late.",
+      "question": "working off",
+      "answer": "To get rid of something by using energy.",
+      "example": "The kids are working off too much energy.",
       "choices": [
-        "To invent or reconcile after a fight.",
-        "To mature or become an adult.",
-        "To talk louder.",
-        "To tidy or remove dirt."
+        "To get rid of something by using energy.",
+        "To exercise.",
+        "To become angry.",
+        "To spend time on something."
       ]
     },
     {
-      "question": "keep up",
-      "answer": "To maintain the same pace or continue.",
-      "example": "It's hard to keep up with all the changes.",
+      "question": "come up with",
+      "answer": "To think of or produce an idea or solution.",
+      "example": "We need to come up with a solution to this problem.",
       "choices": [
-        "To maintain the same pace or continue.",
-        "To invent or reconcile.",
-        "To mature or become an adult.",
-        "To end a phone call."
+        "To think of or produce an idea or solution.",
+        "To become sick.",
+        "To release something.",
+        "To visit someone."
       ]
     },
     {
-      "question": "catch up",
-      "answer": "To reach the same level or get updated.",
-      "example": "I need to catch up on my reading.",
+      "question": "coming down with",
+      "answer": "To become sick with an illness.",
+      "example": "I think I'm coming down with a cold.",
       "choices": [
-        "To reach the same level or get updated.",
-        "To maintain the same pace.",
-        "To invent or reconcile.",
-        "To talk louder."
+        "To become sick with an illness.",
+        "To think of an idea.",
+        "To release something.",
+        "To visit someone."
       ]
     },
     {
-      "question": "give in",
-      "answer": "To surrender or yield to pressure.",
-      "example": "After hours of arguing, he finally gave in.",
+      "question": "come out with",
+      "answer": "To release or produce something.",
+      "example": "The company will come out with a new product next month.",
       "choices": [
-        "To surrender or yield to pressure.",
-        "To reach the same level.",
-        "To maintain the same pace.",
-        "To mature or become an adult."
+        "To release or produce something.",
+        "To think of an idea.",
+        "To become sick.",
+        "To visit someone."
       ]
     },
     {
-      "question": "come back",
-      "answer": "To return to a place or position.",
-      "example": "What time will you come back from work?",
+      "question": "come over",
+      "answer": "To visit someone at their place.",
+      "example": "Would you like to come over for dinner?",
       "choices": [
-        "To return to a place or position.",
-        "To surrender or yield to pressure.",
-        "To reach the same level.",
-        "To invent or reconcile."
+        "To visit someone at their place.",
+        "To go up.",
+        "To go down.",
+        "To go out."
       ]
     },
     {
-      "question": "go back",
-      "answer": "To return to a previous place or time.",
-      "example": "I want to go back to my hometown someday.",
+      "question": "come out",
+      "answer": "To become known or to appear.",
+      "example": "The truth will come out eventually.",
       "choices": [
-        "To return to a previous place or time.",
-        "To return to a place or position.",
-        "To surrender or yield to pressure.",
-        "To maintain the same pace."
+        "To become known or to appear.",
+        "To go up.",
+        "To go down.",
+        "To visit someone."
       ]
     },
     {
-      "question": "look back",
-      "answer": "To think about or remember the past.",
-      "example": "Looking back, I realize I made the right decision.",
+      "question": "comes up",
+      "answer": "To arise or be mentioned.",
+      "example": "This topic comes up in every meeting.",
       "choices": [
-        "To think about or remember the past.",
-        "To return to a previous place.",
-        "To return to a place or position.",
-        "To reach the same level."
+        "To arise or be mentioned.",
+        "To go down.",
+        "To come out.",
+        "To visit someone."
       ]
     },
     {
-      "question": "hold on",
-      "answer": "To wait or grip something tightly.",
-      "example": "Hold on, I'll be right back.",
+      "question": "look over",
+      "answer": "To examine or review something.",
+      "example": "I need to look over my notes before the exam.",
       "choices": [
-        "To wait or grip something tightly.",
-        "To think about the past.",
-        "To return to a previous place.",
-        "To surrender or yield to pressure."
+        "To examine or review something.",
+        "To search for information.",
+        "To look down.",
+        "To be careful."
       ]
     },
     {
-      "question": "move on",
-      "answer": "To continue to the next thing or place.",
-      "example": "It's time to move on and forget the past.",
+      "question": "look out",
+      "answer": "To be careful or pay attention to danger.",
+      "example": "Look out! There's a car coming.",
       "choices": [
-        "To continue to the next thing or place.",
-        "To wait or grip something tightly.",
-        "To think about the past.",
-        "To return to a place or position."
+        "To be careful or pay attention to danger.",
+        "To search for information.",
+        "To look down.",
+        "To review something."
       ]
     },
     {
-      "question": "calm down",
-      "answer": "To become less angry or excited.",
-      "example": "Please calm down and tell me what happened.",
+      "question": "takes after",
+      "answer": "To resemble a family member.",
+      "example": "He takes after his father in many ways.",
       "choices": [
-        "To become less angry or excited.",
-        "To continue to the next thing.",
-        "To wait or grip something tightly.",
-        "To return to a previous place."
+        "To resemble a family member.",
+        "To start a new activity.",
+        "To remove something.",
+        "To take control."
       ]
     },
     {
-      "question": "slow down",
-      "answer": "To reduce speed or pace.",
-      "example": "You need to slow down when driving in the rain.",
+      "question": "take back",
+      "answer": "To retract a statement or return something.",
+      "example": "I take back what I said about him.",
       "choices": [
-        "To reduce speed or pace.",
-        "To become less angry or excited.",
-        "To continue to the next thing.",
-        "To think about the past."
+        "To retract a statement or return something.",
+        "To start a new activity.",
+        "To remove something.",
+        "To take control."
       ]
     },
     {
-      "question": "speed up",
-      "answer": "To increase speed or pace.",
-      "example": "We need to speed up if we want to finish on time.",
+      "question": "step down",
+      "answer": "To leave an important job or position.",
+      "example": "The CEO will step down next month.",
       "choices": [
-        "To increase speed or pace.",
-        "To reduce speed or pace.",
-        "To become less angry or excited.",
-        "To wait or grip something tightly."
+        "To leave an important job or position.",
+        "To take more responsibility.",
+        "To leave a place.",
+        "To enter a place."
+      ]
+    },
+    {
+      "question": "step up",
+      "answer": "To take action when something needs to be done.",
+      "example": "Someone needs to step up and take responsibility.",
+      "choices": [
+        "To take action when something needs to be done.",
+        "To leave a job.",
+        "To leave a place.",
+        "To enter a place."
+      ]
+    },
+    {
+      "question": "step out",
+      "answer": "To leave a place for a short time.",
+      "example": "I need to step out for a moment.",
+      "choices": [
+        "To leave a place for a short time.",
+        "To take action.",
+        "To leave a job.",
+        "To enter a place."
+      ]
+    },
+    {
+      "question": "step in",
+      "answer": "To become involved in a difficult situation or replace someone.",
+      "example": "The substitute teacher will step in today.",
+      "choices": [
+        "To become involved in a difficult situation or replace someone.",
+        "To take action.",
+        "To leave a job.",
+        "To leave a place."
       ]
     }
   ]
