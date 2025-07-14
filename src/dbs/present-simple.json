@@ -26,6 +26,281 @@
       "question": "We ____ (read) books at night.",
       "choices": ["reads", "read", "reading", "readed"],
       "answer": "read"
+    },
+    {
+      "question": "The cat ____ (sleep) on the sofa.",
+      "choices": ["sleep", "sleeps", "sleeping", "slept"],
+      "answer": "sleeps"
+    },
+    {
+      "question": "My parents ____ (watch) TV in the evening.",
+      "choices": ["watch", "watches", "watching", "watched"],
+      "answer": "watch"
+    },
+    {
+      "question": "She ____ (study) French at university.",
+      "choices": ["study", "studies", "studying", "studied"],
+      "answer": "studies"
+    },
+    {
+      "question": "I ____ (drink) coffee every morning.",
+      "choices": ["drink", "drinks", "drinking", "drank"],
+      "answer": "drink"
+    },
+    {
+      "question": "He ____ (drive) to work every day.",
+      "choices": ["drive", "drives", "driving", "drove"],
+      "answer": "drives"
+    },
+    {
+      "question": "We ____ (eat) lunch at 12 o'clock.",
+      "choices": ["eat", "eats", "eating", "ate"],
+      "answer": "eat"
+    },
+    {
+      "question": "The dog ____ (bark) loudly.",
+      "choices": ["bark", "barks", "barking", "barked"],
+      "answer": "barks"
+    },
+    {
+      "question": "They ____ (swim) in the pool.",
+      "choices": ["swim", "swims", "swimming", "swam"],
+      "answer": "swim"
+    },
+    {
+      "question": "She ____ (write) letters to her friends.",
+      "choices": ["write", "writes", "writing", "wrote"],
+      "answer": "writes"
+    },
+    {
+      "question": "I ____ (run) in the park every morning.",
+      "choices": ["run", "runs", "running", "ran"],
+      "answer": "run"
+    },
+    {
+      "question": "He ____ (teach) mathematics at school.",
+      "choices": ["teach", "teaches", "teaching", "taught"],
+      "answer": "teaches"
+    },
+    {
+      "question": "We ____ (live) in a small town.",
+      "choices": ["live", "lives", "living", "lived"],
+      "answer": "live"
+    },
+    {
+      "question": "The sun ____ (rise) in the east.",
+      "choices": ["rise", "rises", "rising", "rose"],
+      "answer": "rises"
+    },
+    {
+      "question": "They ____ (speak) Spanish fluently.",
+      "choices": ["speak", "speaks", "speaking", "spoke"],
+      "answer": "speak"
+    },
+    {
+      "question": "She ____ (cook) dinner for her family.",
+      "choices": ["cook", "cooks", "cooking", "cooked"],
+      "answer": "cooks"
+    },
+    {
+      "question": "I ____ (walk) to school every day.",
+      "choices": ["walk", "walks", "walking", "walked"],
+      "answer": "walk"
+    },
+    {
+      "question": "He ____ (sing) in the choir.",
+      "choices": ["sing", "sings", "singing", "sang"],
+      "answer": "sings"
+    },
+    {
+      "question": "We ____ (dance) at the party.",
+      "choices": ["dance", "dances", "dancing", "danced"],
+      "answer": "dance"
+    },
+    {
+      "question": "The baby ____ (cry) when hungry.",
+      "choices": ["cry", "cries", "crying", "cried"],
+      "answer": "cries"
+    },
+    {
+      "question": "They ____ (travel) to Europe every summer.",
+      "choices": ["travel", "travels", "traveling", "traveled"],
+      "answer": "travel"
+    },
+    {
+      "question": "She ____ (clean) her room on weekends.",
+      "choices": ["clean", "cleans", "cleaning", "cleaned"],
+      "answer": "cleans"
+    },
+    {
+      "question": "I ____ (buy) groceries on Fridays.",
+      "choices": ["buy", "buys", "buying", "bought"],
+      "answer": "buy"
+    },
+    {
+      "question": "He ____ (fix) cars at the garage.",
+      "choices": ["fix", "fixes", "fixing", "fixed"],
+      "answer": "fixes"
+    },
+    {
+      "question": "We ____ (visit) our grandparents monthly.",
+      "choices": ["visit", "visits", "visiting", "visited"],
+      "answer": "visit"
+    },
+    {
+      "question": "The train ____ (arrive) at 8 PM.",
+      "choices": ["arrive", "arrives", "arriving", "arrived"],
+      "answer": "arrives"
+    },
+    {
+      "question": "They ____ (help) their neighbors.",
+      "choices": ["help", "helps", "helping", "helped"],
+      "answer": "help"
+    },
+    {
+      "question": "She ____ (paint) beautiful pictures.",
+      "choices": ["paint", "paints", "painting", "painted"],
+      "answer": "paints"
+    },
+    {
+      "question": "I ____ (open) the window in the morning.",
+      "choices": ["open", "opens", "opening", "opened"],
+      "answer": "open"
+    },
+    {
+      "question": "He ____ (close) the door carefully.",
+      "choices": ["close", "closes", "closing", "closed"],
+      "answer": "closes"
+    },
+    {
+      "question": "We ____ (listen) to music together.",
+      "choices": ["listen", "listens", "listening", "listened"],
+      "answer": "listen"
+    },
+    {
+      "question": "The bird ____ (fly) high in the sky.",
+      "choices": ["fly", "flies", "flying", "flew"],
+      "answer": "flies"
+    },
+    {
+      "question": "They ____ (build) houses for a living.",
+      "choices": ["build", "builds", "building", "built"],
+      "answer": "build"
+    },
+    {
+      "question": "She ____ (wear) a blue dress today.",
+      "choices": ["wear", "wears", "wearing", "wore"],
+      "answer": "wears"
+    },
+    {
+      "question": "I ____ (call) my mother every Sunday.",
+      "choices": ["call", "calls", "calling", "called"],
+      "answer": "call"
+    },
+    {
+      "question": "He ____ (laugh) at funny jokes.",
+      "choices": ["laugh", "laughs", "laughing", "laughed"],
+      "answer": "laughs"
+    },
+    {
+      "question": "We ____ (meet) at the coffee shop.",
+      "choices": ["meet", "meets", "meeting", "met"],
+      "answer": "meet"
+    },
+    {
+      "question": "The flowers ____ (bloom) in spring.",
+      "choices": ["bloom", "blooms", "blooming", "bloomed"],
+      "answer": "bloom"
+    },
+    {
+      "question": "They ____ (sell) fresh vegetables.",
+      "choices": ["sell", "sells", "selling", "sold"],
+      "answer": "sell"
+    },
+    {
+      "question": "She ____ (push) the shopping cart.",
+      "choices": ["push", "pushes", "pushing", "pushed"],
+      "answer": "pushes"
+    },
+    {
+      "question": "I ____ (pull) the rope tightly.",
+      "choices": ["pull", "pulls", "pulling", "pulled"],
+      "answer": "pull"
+    },
+    {
+      "question": "He ____ (cut) the paper with scissors.",
+      "choices": ["cut", "cuts", "cutting", "cutted"],
+      "answer": "cuts"
+    },
+    {
+      "question": "We ____ (wait) for the bus every morning.",
+      "choices": ["wait", "waits", "waiting", "waited"],
+      "answer": "wait"
+    },
+    {
+      "question": "The clock ____ (tick) loudly.",
+      "choices": ["tick", "ticks", "ticking", "ticked"],
+      "answer": "ticks"
+    },
+    {
+      "question": "They ____ (jump) over the fence.",
+      "choices": ["jump", "jumps", "jumping", "jumped"],
+      "answer": "jump"
+    },
+    {
+      "question": "She ____ (hate) spicy food.",
+      "choices": ["hate", "hates", "hating", "hated"],
+      "answer": "hates"
+    },
+    {
+      "question": "I ____ (love) chocolate ice cream.",
+      "choices": ["love", "loves", "loving", "loved"],
+      "answer": "love"
+    },
+    {
+      "question": "He ____ (need) a new computer.",
+      "choices": ["need", "needs", "needing", "needed"],
+      "answer": "needs"
+    },
+    {
+      "question": "We ____ (want) to go on vacation.",
+      "choices": ["want", "wants", "wanting", "wanted"],
+      "answer": "want"
+    },
+    {
+      "question": "The water ____ (boil) at 100 degrees.",
+      "choices": ["boil", "boils", "boiling", "boiled"],
+      "answer": "boils"
+    },
+    {
+      "question": "They ____ (share) their toys with friends.",
+      "choices": ["share", "shares", "sharing", "shared"],
+      "answer": "share"
+    },
+    {
+      "question": "She ____ (remember) her childhood clearly.",
+      "choices": ["remember", "remembers", "remembering", "remembered"],
+      "answer": "remembers"
+    },
+    {
+      "question": "I ____ (forget) names easily.",
+      "choices": ["forget", "forgets", "forgetting", "forgot"],
+      "answer": "forget"
+    },
+    {
+      "question": "He ____ (believe) in fairy tales.",
+      "choices": ["believe", "believes", "believing", "believed"],
+      "answer": "believes"
+    },
+    {
+      "question": "We ____ (think) about our future.",
+      "choices": ["think", "thinks", "thinking", "thought"],
+      "answer": "think"
+    },
+    {
+      "question": "The grass ____ (grow) quickly in summer.",
+      "choices": ["grow", "grows", "growing", "grew"],
+      "answer": "grows"
     }
   ]
 }
