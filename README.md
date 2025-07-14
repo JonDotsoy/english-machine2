@@ -1,52 +1,29 @@
-# Astro Starter Kit: Basics
+# English Machine
 
-```sh
-bun create astro@latest -- --template basics
-```
+English Machine es una plataforma libre y open source diseñada para el desarrollo de habilidades en el aprendizaje del inglés. Utiliza una base de datos abierta y pública que contiene preguntas para reforzar conocimientos del idioma, abarcando tiempos verbales y phrasal verbs. Esta herramienta está orientada exclusivamente al aprendizaje y refuerzo del lenguaje, proporcionando un set de preguntas para practicar y mejorar el dominio del inglés.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## Características
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+- Proyecto open source bajo licencia MIT.
+- Base de datos pública y abierta de preguntas.
+- Cobertura de tiempos verbales y phrasal verbs.
+- Enfoque educativo para el refuerzo del idioma inglés.
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+## Setup rápido en ambiente local
 
-## 🚀 Project Structure
+1. Instala las dependencias:
+   ```sh
+   npm install
+   ```
+2. Inicia el entorno de desarrollo:
+   ```sh
+   npm run dev
+   ```
+3. Para crear un paquete de producción:
+   ```sh
+   npm run build
+   ```
 
-Inside of your Astro project, you'll see the following folders and files:
+## Licencia
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
-```
-
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command               | Action                                           |
-| :-------------------- | :----------------------------------------------- |
-| `bun install`         | Installs dependencies                            |
-| `bun dev`             | Starts local dev server at `localhost:4321`      |
-| `bun build`           | Build your production site to `./dist/`          |
-| `bun preview`         | Preview your build locally, before deploying     |
-| `bun astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `bun astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Este proyecto está licenciado bajo los términos de la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
