@@ -1,0 +1,17 @@
+{
+  "name": "English Machine",
+  "short_name": "EnglishMachine",
+  "description": "Plataforma para el aprendizaje y refuerzo del inglés.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a202c",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "es"
+}
