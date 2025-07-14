@@ -73,10 +73,7 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
       return choice === currentQuestion.answer ? "default" : "destructive";
     }
 
-    if (choice === currentQuestion.answer) {
-      return "default";
-    }
-
+    // No mostrar la respuesta correcta si se seleccionó incorrecta
     return "outline";
   };
 
@@ -89,10 +86,7 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
         : "w-full mb-2 bg-red-600 hover:bg-red-700 text-white";
     }
 
-    if (choice === currentQuestion.answer) {
-      return "w-full mb-2 bg-green-600 hover:bg-green-700 text-white";
-    }
-
+    // No resaltar la respuesta correcta si se seleccionó incorrecta
     return "w-full mb-2 bg-gray-300 hover:bg-gray-400";
   };
 
@@ -193,9 +187,10 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
               {currentQuestion.isCorrect ? "✓ Correcto" : "✗ Incorrecto"}
             </span>
           </div>
-          {!currentQuestion.isCorrect && (
+          {/* Solo mostrar la respuesta correcta si se respondió correctamente */}
+          {currentQuestion.isCorrect && (
             <p className="text-sm text-gray-600 mt-2">
-              Respuesta correcta: <strong>{currentQuestion.answer}</strong>
+              ¡Excelente! Has seleccionado la respuesta correcta.
             </p>
           )}
         </div>
