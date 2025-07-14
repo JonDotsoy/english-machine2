@@ -1,0 +1,611 @@
+{
+  "$schema": "./schema.json",
+  "language": "en",
+  "questions": [
+    {
+      "question": "give up",
+      "anwer": "To stop trying; to quit something.",
+      "example": "She decided to give up smoking for her health.",
+      "choices": [
+        "To stop trying; to quit something.",
+        "To return something.",
+        "To increase the volume.",
+        "To search for information."
+      ]
+    },
+    {
+      "question": "look up",
+      "anwer": "To search for information.",
+      "example": "I need to look up this word in the dictionary.",
+      "choices": [
+        "To search for information.",
+        "To stop trying.",
+        "To take care of someone.",
+        "To postpone something."
+      ]
+    },
+    {
+      "question": "put off",
+      "anwer": "To postpone something.",
+      "example": "The meeting was put off until next week.",
+      "choices": [
+        "To postpone something.",
+        "To remove clothing.",
+        "To search for information.",
+        "To stop trying."
+      ]
+    },
+    {
+      "question": "look after",
+      "anwer": "To take care of someone or something.",
+      "example": "Can you look after the children while I'm at work?",
+      "choices": [
+        "To take care of someone or something.",
+        "To postpone something.",
+        "To stop trying.",
+        "To search for information."
+      ]
+    },
+    {
+      "question": "turn down",
+      "anwer": "To reduce the volume or intensity.",
+      "example": "Can you turn down the volume? It's too loud.",
+      "choices": [
+        "To reduce the volume or intensity.",
+        "To stop trying.",
+        "To postpone something.",
+        "To take care of someone."
+      ]
+    },
+    {
+      "question": "take off",
+      "anwer": "To remove clothing or to leave the ground (plane).",
+      "example": "Please take off your shoes before entering the house.",
+      "choices": [
+        "To remove clothing or to leave the ground (plane).",
+        "To postpone something.",
+        "To reduce volume.",
+        "To search for information."
+      ]
+    },
+    {
+      "question": "run into",
+      "anwer": "To meet someone unexpectedly.",
+      "example": "I ran into my old friend at the grocery store.",
+      "choices": [
+        "To meet someone unexpectedly.",
+        "To stop trying.",
+        "To take care of someone.",
+        "To remove clothing."
+      ]
+    },
+    {
+      "question": "turn on",
+      "anwer": "To activate or start a device.",
+      "example": "Please turn on the TV. I want to watch the news.",
+      "choices": [
+        "To activate or start a device.",
+        "To meet someone unexpectedly.",
+        "To postpone something.",
+        "To reduce volume."
+      ]
+    },
+    {
+      "question": "run out",
+      "anwer": "To use up all of something.",
+      "example": "The car ran out of gas on the highway.",
+      "choices": [
+        "To use up all of something.",
+        "To activate a device.",
+        "To meet someone unexpectedly.",
+        "To remove clothing."
+      ]
+    },
+    {
+      "question": "get up",
+      "anwer": "To rise from bed or a sitting position.",
+      "example": "I got up early this morning to go jogging.",
+      "choices": [
+        "To rise from bed or a sitting position.",
+        "To use up all of something.",
+        "To activate a device.",
+        "To postpone something."
+      ]
+    },
+    {
+      "question": "put on",
+      "anwer": "To wear or dress in clothing.",
+      "example": "She put on her jacket because it was cold.",
+      "choices": [
+        "To wear or dress in clothing.",
+        "To rise from bed.",
+        "To use up all of something.",
+        "To meet someone unexpectedly."
+      ]
+    },
+    {
+      "question": "hand in",
+      "anwer": "To submit or deliver something.",
+      "example": "The teacher asked us to hand in our papers.",
+      "choices": [
+        "To submit or deliver something.",
+        "To wear clothing.",
+        "To rise from bed.",
+        "To activate a device."
+      ]
+    },
+    {
+      "question": "look through",
+      "anwer": "To examine or search through something.",
+      "example": "I looked through my old photos last weekend.",
+      "choices": [
+        "To examine or search through something.",
+        "To submit something.",
+        "To wear clothing.",
+        "To use up all of something."
+      ]
+    },
+    {
+      "question": "take on",
+      "anwer": "To accept responsibility or hire someone.",
+      "example": "The company will take on 50 new employees next month.",
+      "choices": [
+        "To accept responsibility or hire someone.",
+        "To examine something.",
+        "To submit something.",
+        "To rise from bed."
+      ]
+    },
+    {
+      "question": "bring up",
+      "anwer": "To mention or raise a topic.",
+      "example": "I need to bring up this problem with my manager.",
+      "choices": [
+        "To mention or raise a topic.",
+        "To accept responsibility.",
+        "To examine something.",
+        "To wear clothing."
+      ]
+    },
+    {
+      "question": "burn down",
+      "anwer": "To destroy completely by fire.",
+      "example": "The fire burned down the entire forest.",
+      "choices": [
+        "To destroy completely by fire.",
+        "To mention a topic.",
+        "To accept responsibility.",
+        "To submit something."
+      ]
+    },
+    {
+      "question": "pick up",
+      "anwer": "To collect or lift something.",
+      "example": "Can you pick me up at the airport tomorrow?",
+      "choices": [
+        "To collect or lift something.",
+        "To destroy by fire.",
+        "To mention a topic.",
+        "To examine something."
+      ]
+    },
+    {
+      "question": "knock down",
+      "anwer": "To cause something to fall by hitting it.",
+      "example": "The storm knocked down many trees in the park.",
+      "choices": [
+        "To cause something to fall by hitting it.",
+        "To collect something.",
+        "To destroy by fire.",
+        "To accept responsibility."
+      ]
+    },
+    {
+      "question": "fill out",
+      "anwer": "To complete a form or document.",
+      "example": "I need to fill out this application form.",
+      "choices": [
+        "To complete a form or document.",
+        "To cause something to fall.",
+        "To collect something.",
+        "To mention a topic."
+      ]
+    },
+    {
+      "question": "call off",
+      "anwer": "To cancel an event or activity.",
+      "example": "The concert was called off due to bad weather.",
+      "choices": [
+        "To cancel an event or activity.",
+        "To complete a form.",
+        "To cause something to fall.",
+        "To destroy by fire."
+      ]
+    },
+    {
+      "question": "work on",
+      "anwer": "To spend time improving or fixing something.",
+      "example": "I worked on my homework after dinner.",
+      "choices": [
+        "To spend time improving or fixing something.",
+        "To cancel an event.",
+        "To complete a form.",
+        "To collect something."
+      ]
+    },
+    {
+      "question": "look into",
+      "anwer": "To investigate or examine something.",
+      "example": "The police are looking into the robbery case.",
+      "choices": [
+        "To investigate or examine something.",
+        "To spend time improving something.",
+        "To cancel an event.",
+        "To cause something to fall."
+      ]
+    },
+    {
+      "question": "bring out",
+      "anwer": "To release or publish something.",
+      "example": "The company brought out a new product line.",
+      "choices": [
+        "To release or publish something.",
+        "To investigate something.",
+        "To spend time improving something.",
+        "To complete a form."
+      ]
+    },
+    {
+      "question": "go through",
+      "anwer": "To examine or experience something.",
+      "example": "I need to go through these documents before the meeting.",
+      "choices": [
+        "To examine or experience something.",
+        "To release or publish something.",
+        "To investigate something.",
+        "To cancel an event."
+      ]
+    },
+    {
+      "question": "go up",
+      "anwer": "To increase or rise.",
+      "example": "The price of gas went up again this month.",
+      "choices": [
+        "To increase or rise.",
+        "To examine or experience something.",
+        "To release or publish something.",
+        "To spend time improving something."
+      ]
+    },
+    {
+      "question": "give away",
+      "anwer": "To donate or give something for free.",
+      "example": "I gave away my old clothes to charity.",
+      "choices": [
+        "To donate or give something for free.",
+        "To increase or rise.",
+        "To examine or experience something.",
+        "To investigate something."
+      ]
+    },
+    {
+      "question": "run down",
+      "anwer": "To lose power or become exhausted.",
+      "example": "The batteries in my phone ran down yesterday.",
+      "choices": [
+        "To lose power or become exhausted.",
+        "To donate something.",
+        "To increase or rise.",
+        "To release or publish something."
+      ]
+    },
+    {
+      "question": "turn off",
+      "anwer": "To deactivate or stop a device.",
+      "example": "I turned off my computer because it was frozen.",
+      "choices": [
+        "To deactivate or stop a device.",
+        "To lose power.",
+        "To donate something.",
+        "To examine or experience something."
+      ]
+    },
+    {
+      "question": "hand out",
+      "anwer": "To distribute or give something to people.",
+      "example": "The teacher handed out the exam papers to the students.",
+      "choices": [
+        "To distribute or give something to people.",
+        "To deactivate a device.",
+        "To lose power.",
+        "To increase or rise."
+      ]
+    },
+    {
+      "question": "see through",
+      "anwer": "To recognize deception or understand the truth.",
+      "example": "I saw through my friend's lie immediately.",
+      "choices": [
+        "To recognize deception or understand the truth.",
+        "To distribute something.",
+        "To deactivate a device.",
+        "To donate something."
+      ]
+    },
+    {
+      "question": "tear down",
+      "anwer": "To demolish or destroy a building.",
+      "example": "The old factory was torn down to make room for apartments.",
+      "choices": [
+        "To demolish or destroy a building.",
+        "To recognize deception.",
+        "To distribute something.",
+        "To lose power."
+      ]
+    },
+    {
+      "question": "break down",
+      "anwer": "To stop working or to analyze something.",
+      "example": "My car broke down on the way to work.",
+      "choices": [
+        "To stop working or to analyze something.",
+        "To demolish a building.",
+        "To recognize deception.",
+        "To deactivate a device."
+      ]
+    },
+    {
+      "question": "come up",
+      "anwer": "To arise or be mentioned.",
+      "example": "An important issue came up during the meeting.",
+      "choices": [
+        "To arise or be mentioned.",
+        "To stop working.",
+        "To demolish a building.",
+        "To distribute something."
+      ]
+    },
+    {
+      "question": "set up",
+      "anwer": "To establish or arrange something.",
+      "example": "We need to set up a meeting for next week.",
+      "choices": [
+        "To establish or arrange something.",
+        "To arise or be mentioned.",
+        "To stop working.",
+        "To recognize deception."
+      ]
+    },
+    {
+      "question": "show up",
+      "anwer": "To arrive or appear.",
+      "example": "He didn't show up for the appointment.",
+      "choices": [
+        "To arrive or appear.",
+        "To establish or arrange something.",
+        "To arise or be mentioned.",
+        "To demolish a building."
+      ]
+    },
+    {
+      "question": "back up",
+      "anwer": "To support or make a copy of data.",
+      "example": "Don't forget to back up your important files.",
+      "choices": [
+        "To support or make a copy of data.",
+        "To arrive or appear.",
+        "To establish or arrange something.",
+        "To stop working."
+      ]
+    },
+    {
+      "question": "cut down",
+      "anwer": "To reduce or fell a tree.",
+      "example": "The doctor told him to cut down on sugar.",
+      "choices": [
+        "To reduce or fell a tree.",
+        "To support or make a copy.",
+        "To arrive or appear.",
+        "To arise or be mentioned."
+      ]
+    },
+    {
+      "question": "find out",
+      "anwer": "To discover or learn information.",
+      "example": "I need to find out what time the store closes.",
+      "choices": [
+        "To discover or learn information.",
+        "To reduce or fell a tree.",
+        "To support or make a copy.",
+        "To establish or arrange something."
+      ]
+    },
+    {
+      "question": "wake up",
+      "anwer": "To stop sleeping or become alert.",
+      "example": "I wake up at 6 AM every morning.",
+      "choices": [
+        "To stop sleeping or become alert.",
+        "To discover or learn information.",
+        "To reduce or fell a tree.",
+        "To arrive or appear."
+      ]
+    },
+    {
+      "question": "clean up",
+      "anwer": "To tidy or remove dirt and mess.",
+      "example": "Please clean up your room before dinner.",
+      "choices": [
+        "To tidy or remove dirt and mess.",
+        "To stop sleeping.",
+        "To discover or learn information.",
+        "To support or make a copy."
+      ]
+    },
+    {
+      "question": "hang up",
+      "anwer": "To end a phone call or suspend something.",
+      "example": "She hung up the phone after the conversation.",
+      "choices": [
+        "To end a phone call or suspend something.",
+        "To tidy or remove dirt.",
+        "To stop sleeping.",
+        "To reduce or fell a tree."
+      ]
+    },
+    {
+      "question": "speak up",
+      "anwer": "To talk louder or express an opinion.",
+      "example": "Please speak up, I can't hear you.",
+      "choices": [
+        "To talk louder or express an opinion.",
+        "To end a phone call.",
+        "To tidy or remove dirt.",
+        "To discover or learn information."
+      ]
+    },
+    {
+      "question": "grow up",
+      "anwer": "To mature or become an adult.",
+      "example": "I grew up in a small town.",
+      "choices": [
+        "To mature or become an adult.",
+        "To talk louder.",
+        "To end a phone call.",
+        "To stop sleeping."
+      ]
+    },
+    {
+      "question": "make up",
+      "anwer": "To invent or reconcile after a fight.",
+      "example": "She made up a story about why she was late.",
+      "choices": [
+        "To invent or reconcile after a fight.",
+        "To mature or become an adult.",
+        "To talk louder.",
+        "To tidy or remove dirt."
+      ]
+    },
+    {
+      "question": "keep up",
+      "anwer": "To maintain the same pace or continue.",
+      "example": "It's hard to keep up with all the changes.",
+      "choices": [
+        "To maintain the same pace or continue.",
+        "To invent or reconcile.",
+        "To mature or become an adult.",
+        "To end a phone call."
+      ]
+    },
+    {
+      "question": "catch up",
+      "anwer": "To reach the same level or get updated.",
+      "example": "I need to catch up on my reading.",
+      "choices": [
+        "To reach the same level or get updated.",
+        "To maintain the same pace.",
+        "To invent or reconcile.",
+        "To talk louder."
+      ]
+    },
+    {
+      "question": "give in",
+      "anwer": "To surrender or yield to pressure.",
+      "example": "After hours of arguing, he finally gave in.",
+      "choices": [
+        "To surrender or yield to pressure.",
+        "To reach the same level.",
+        "To maintain the same pace.",
+        "To mature or become an adult."
+      ]
+    },
+    {
+      "question": "come back",
+      "anwer": "To return to a place or position.",
+      "example": "What time will you come back from work?",
+      "choices": [
+        "To return to a place or position.",
+        "To surrender or yield to pressure.",
+        "To reach the same level.",
+        "To invent or reconcile."
+      ]
+    },
+    {
+      "question": "go back",
+      "anwer": "To return to a previous place or time.",
+      "example": "I want to go back to my hometown someday.",
+      "choices": [
+        "To return to a previous place or time.",
+        "To return to a place or position.",
+        "To surrender or yield to pressure.",
+        "To maintain the same pace."
+      ]
+    },
+    {
+      "question": "look back",
+      "anwer": "To think about or remember the past.",
+      "example": "Looking back, I realize I made the right decision.",
+      "choices": [
+        "To think about or remember the past.",
+        "To return to a previous place.",
+        "To return to a place or position.",
+        "To reach the same level."
+      ]
+    },
+    {
+      "question": "hold on",
+      "anwer": "To wait or grip something tightly.",
+      "example": "Hold on, I'll be right back.",
+      "choices": [
+        "To wait or grip something tightly.",
+        "To think about the past.",
+        "To return to a previous place.",
+        "To surrender or yield to pressure."
+      ]
+    },
+    {
+      "question": "move on",
+      "anwer": "To continue to the next thing or place.",
+      "example": "It's time to move on and forget the past.",
+      "choices": [
+        "To continue to the next thing or place.",
+        "To wait or grip something tightly.",
+        "To think about the past.",
+        "To return to a place or position."
+      ]
+    },
+    {
+      "question": "calm down",
+      "anwer": "To become less angry or excited.",
+      "example": "Please calm down and tell me what happened.",
+      "choices": [
+        "To become less angry or excited.",
+        "To continue to the next thing.",
+        "To wait or grip something tightly.",
+        "To return to a previous place."
+      ]
+    },
+    {
+      "question": "slow down",
+      "anwer": "To reduce speed or pace.",
+      "example": "You need to slow down when driving in the rain.",
+      "choices": [
+        "To reduce speed or pace.",
+        "To become less angry or excited.",
+        "To continue to the next thing.",
+        "To think about the past."
+      ]
+    },
+    {
+      "question": "speed up",
+      "anwer": "To increase speed or pace.",
+      "example": "We need to speed up if we want to finish on time.",
+      "choices": [
+        "To increase speed or pace.",
+        "To reduce speed or pace.",
+        "To become less angry or excited.",
+        "To wait or grip something tightly."
+      ]
+    }
+  ]
+}
