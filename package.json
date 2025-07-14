@@ -1,7 +1,9 @@
 {
   "name": "english-machine",
+  "private": true,
   "type": "module",
   "version": "0.0.1",
+  "description": "Plataforma open source y libre para el aprendizaje y refuerzo del inglés, con base de datos pública de preguntas sobre tiempos verbales y phrasal verbs.",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
