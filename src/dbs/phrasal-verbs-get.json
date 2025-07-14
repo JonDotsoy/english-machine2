@@ -4,7 +4,7 @@
   "questions": [
     {
       "question": "get up",
-      "anwer": "To rise from bed or a sitting position.",
+      "answer": "To rise from bed or a sitting position.",
       "example": "I get up at 6 AM every morning.",
       "choices": [
         "To rise from bed or a sitting position.",
@@ -15,7 +15,7 @@
     },
     {
       "question": "get on",
-      "anwer": "To board a vehicle or to have a good relationship.",
+      "answer": "To board a vehicle or to have a good relationship.",
       "example": "I need to get on the bus before it leaves.",
       "choices": [
         "To board a vehicle or to have a good relationship.",
@@ -26,7 +26,7 @@
     },
     {
       "question": "get off",
-      "anwer": "To leave a vehicle or to stop working.",
+      "answer": "To leave a vehicle or to stop working.",
       "example": "I get off work at 5 PM.",
       "choices": [
         "To leave a vehicle or to stop working.",
@@ -37,7 +37,7 @@
     },
     {
       "question": "get over",
-      "anwer": "To recover from illness or overcome a problem.",
+      "answer": "To recover from illness or overcome a problem.",
       "example": "It took me weeks to get over the flu.",
       "choices": [
         "To recover from illness or overcome a problem.",
@@ -48,7 +48,7 @@
     },
     {
       "question": "get in",
-      "anwer": "To enter a vehicle or building.",
+      "answer": "To enter a vehicle or building.",
       "example": "Get in the car, we're late!",
       "choices": [
         "To enter a vehicle or building.",
@@ -59,7 +59,7 @@
     },
     {
       "question": "get out",
-      "anwer": "To leave or exit a place.",
+      "answer": "To leave or exit a place.",
       "example": "I need to get out of this traffic jam.",
       "choices": [
         "To leave or exit a place.",
@@ -70,7 +70,7 @@
     },
     {
       "question": "get away",
-      "anwer": "To escape or go on vacation.",
+      "answer": "To escape or go on vacation.",
       "example": "I need to get away from the city for a while.",
       "choices": [
         "To escape or go on vacation.",
@@ -81,7 +81,7 @@
     },
     {
       "question": "get back",
-      "anwer": "To return to a place or recover something.",
+      "answer": "To return to a place or recover something.",
       "example": "What time did you get back from your trip?",
       "choices": [
         "To return to a place or recover something.",
@@ -92,7 +92,7 @@
     },
     {
       "question": "get through",
-      "anwer": "To complete something or make contact.",
+      "answer": "To complete something or make contact.",
       "example": "I finally got through all my homework.",
       "choices": [
         "To complete something or make contact.",
@@ -103,7 +103,7 @@
     },
     {
       "question": "get along",
-      "anwer": "To have a good relationship with someone.",
+      "answer": "To have a good relationship with someone.",
       "example": "I get along well with my coworkers.",
       "choices": [
         "To have a good relationship with someone.",
@@ -114,7 +114,7 @@
     },
     {
       "question": "get by",
-      "anwer": "To manage or survive with limited resources.",
+      "answer": "To manage or survive with limited resources.",
       "example": "We can get by on a small budget.",
       "choices": [
         "To manage or survive with limited resources.",
@@ -125,7 +125,7 @@
     },
     {
       "question": "get down",
-      "anwer": "To descend or feel depressed.",
+      "answer": "To descend or feel depressed.",
       "example": "Get down from that tree, it's dangerous!",
       "choices": [
         "To descend or feel depressed.",
@@ -136,7 +136,7 @@
     },
     {
       "question": "get into",
-      "anwer": "To become involved in or enter something.",
+      "answer": "To become involved in or enter something.",
       "example": "I got into reading mystery novels.",
       "choices": [
         "To become involved in or enter something.",
@@ -147,7 +147,7 @@
     },
     {
       "question": "get around",
-      "anwer": "To travel or move from place to place.",
+      "answer": "To travel or move from place to place.",
       "example": "It's hard to get around the city without a car.",
       "choices": [
         "To travel or move from place to place.",
@@ -158,7 +158,7 @@
     },
     {
       "question": "get ahead",
-      "anwer": "To make progress or advance in life.",
+      "answer": "To make progress or advance in life.",
       "example": "Hard work will help you get ahead in your career.",
       "choices": [
         "To make progress or advance in life.",
@@ -169,7 +169,7 @@
     },
     {
       "question": "get together",
-      "anwer": "To meet or gather with others.",
+      "answer": "To meet or gather with others.",
       "example": "Let's get together for dinner this weekend.",
       "choices": [
         "To meet or gather with others.",
@@ -180,7 +180,7 @@
     },
     {
       "question": "get rid of",
-      "anwer": "To eliminate or throw away something.",
+      "answer": "To eliminate or throw away something.",
       "example": "I need to get rid of these old clothes.",
       "choices": [
         "To eliminate or throw away something.",
@@ -191,7 +191,7 @@
     },
     {
       "question": "get used to",
-      "anwer": "To become accustomed or familiar with something.",
+      "answer": "To become accustomed or familiar with something.",
       "example": "It took time to get used to the new schedule.",
       "choices": [
         "To become accustomed or familiar with something.",
@@ -202,7 +202,7 @@
     },
     {
       "question": "get across",
-      "anwer": "To communicate or convey a message clearly.",
+      "answer": "To communicate or convey a message clearly.",
       "example": "I'm trying to get my point across to the team.",
       "choices": [
         "To communicate or convey a message clearly.",
@@ -213,7 +213,7 @@
     },
     {
       "question": "get behind",
-      "anwer": "To fall behind schedule or support someone.",
+      "answer": "To fall behind schedule or support someone.",
       "example": "I got behind on my work this week.",
       "choices": [
         "To fall behind schedule or support someone.",
@@ -224,7 +224,7 @@
     },
     {
       "question": "get hold of",
-      "anwer": "To obtain or contact someone.",
+      "answer": "To obtain or contact someone.",
       "example": "I need to get hold of a good lawyer.",
       "choices": [
         "To obtain or contact someone.",
@@ -235,7 +235,7 @@
     },
     {
       "question": "get lost",
-      "anwer": "To lose one's way or become confused.",
+      "answer": "To lose one's way or become confused.",
       "example": "We got lost trying to find the restaurant.",
       "choices": [
         "To lose one's way or become confused.",
@@ -246,7 +246,7 @@
     },
     {
       "question": "get stuck",
-      "anwer": "To become trapped or unable to move.",
+      "answer": "To become trapped or unable to move.",
       "example": "The car got stuck in the mud.",
       "choices": [
         "To become trapped or unable to move.",
@@ -257,7 +257,7 @@
     },
     {
       "question": "get ready",
-      "anwer": "To prepare for something.",
+      "answer": "To prepare for something.",
       "example": "Get ready for school, the bus is coming!",
       "choices": [
         "To prepare for something.",
@@ -268,7 +268,7 @@
     },
     {
       "question": "get married",
-      "anwer": "To join in marriage with someone.",
+      "answer": "To join in marriage with someone.",
       "example": "They got married last summer.",
       "choices": [
         "To join in marriage with someone.",
@@ -279,7 +279,7 @@
     },
     {
       "question": "get dressed",
-      "anwer": "To put on clothes.",
+      "answer": "To put on clothes.",
       "example": "I need to get dressed for the party.",
       "choices": [
         "To put on clothes.",
@@ -290,7 +290,7 @@
     },
     {
       "question": "get started",
-      "anwer": "To begin or commence something.",
+      "answer": "To begin or commence something.",
       "example": "Let's get started with the meeting.",
       "choices": [
         "To begin or commence something.",
@@ -301,7 +301,7 @@
     },
     {
       "question": "get worse",
-      "anwer": "To deteriorate or become more severe.",
+      "answer": "To deteriorate or become more severe.",
       "example": "The weather is getting worse.",
       "choices": [
         "To deteriorate or become more severe.",
@@ -312,7 +312,7 @@
     },
     {
       "question": "get better",
-      "anwer": "To improve or recover.",
+      "answer": "To improve or recover.",
       "example": "I hope your cold gets better soon.",
       "choices": [
         "To improve or recover.",
@@ -323,7 +323,7 @@
     },
     {
       "question": "get tired",
-      "anwer": "To become exhausted or weary.",
+      "answer": "To become exhausted or weary.",
       "example": "I get tired after working all day.",
       "choices": [
         "To become exhausted or weary.",
@@ -334,7 +334,7 @@
     },
     {
       "question": "get angry",
-      "anwer": "To become mad or irritated.",
+      "answer": "To become mad or irritated.",
       "example": "Don't get angry over small things.",
       "choices": [
         "To become mad or irritated.",
@@ -345,7 +345,7 @@
     },
     {
       "question": "get excited",
-      "anwer": "To become enthusiastic or thrilled.",
+      "answer": "To become enthusiastic or thrilled.",
       "example": "The kids got excited about the trip.",
       "choices": [
         "To become enthusiastic or thrilled.",
@@ -356,7 +356,7 @@
     },
     {
       "question": "get confused",
-      "anwer": "To become puzzled or uncertain.",
+      "answer": "To become puzzled or uncertain.",
       "example": "I got confused by the instructions.",
       "choices": [
         "To become puzzled or uncertain.",
@@ -367,7 +367,7 @@
     },
     {
       "question": "get involved",
-      "anwer": "To participate or become engaged in something.",
+      "answer": "To participate or become engaged in something.",
       "example": "I want to get involved in community service.",
       "choices": [
         "To participate or become engaged in something.",
@@ -378,7 +378,7 @@
     },
     {
       "question": "get caught",
-      "anwer": "To be discovered doing something wrong.",
+      "answer": "To be discovered doing something wrong.",
       "example": "He got caught cheating on the test.",
       "choices": [
         "To be discovered doing something wrong.",
@@ -389,7 +389,7 @@
     },
     {
       "question": "get fired",
-      "anwer": "To be dismissed from a job.",
+      "answer": "To be dismissed from a job.",
       "example": "She got fired for being late too often.",
       "choices": [
         "To be dismissed from a job.",
@@ -400,7 +400,7 @@
     },
     {
       "question": "get hired",
-      "anwer": "To be employed or given a job.",
+      "answer": "To be employed or given a job.",
       "example": "I got hired at the new restaurant.",
       "choices": [
         "To be employed or given a job.",
@@ -411,7 +411,7 @@
     },
     {
       "question": "get promoted",
-      "anwer": "To advance to a higher position.",
+      "answer": "To advance to a higher position.",
       "example": "She got promoted to manager last month.",
       "choices": [
         "To advance to a higher position.",
@@ -422,7 +422,7 @@
     },
     {
       "question": "get paid",
-      "anwer": "To receive money for work.",
+      "answer": "To receive money for work.",
       "example": "I get paid every two weeks.",
       "choices": [
         "To receive money for work.",
@@ -433,7 +433,7 @@
     },
     {
       "question": "get hurt",
-      "anwer": "To be injured or harmed.",
+      "answer": "To be injured or harmed.",
       "example": "Be careful not to get hurt on the playground.",
       "choices": [
         "To be injured or harmed.",
@@ -444,7 +444,7 @@
     },
     {
       "question": "get sick",
-      "anwer": "To become ill or unwell.",
+      "answer": "To become ill or unwell.",
       "example": "I got sick after eating that food.",
       "choices": [
         "To become ill or unwell.",
@@ -455,7 +455,7 @@
     },
     {
       "question": "get well",
-      "anwer": "To recover from illness.",
+      "answer": "To recover from illness.",
       "example": "I hope you get well soon.",
       "choices": [
         "To recover from illness.",
@@ -466,7 +466,7 @@
     },
     {
       "question": "get old",
-      "anwer": "To age or become elderly.",
+      "answer": "To age or become elderly.",
       "example": "We all get old eventually.",
       "choices": [
         "To age or become elderly.",
@@ -477,7 +477,7 @@
     },
     {
       "question": "get dark",
-      "anwer": "To become nighttime or lose light.",
+      "answer": "To become nighttime or lose light.",
       "example": "It gets dark early in winter.",
       "choices": [
         "To become nighttime or lose light.",
@@ -488,7 +488,7 @@
     },
     {
       "question": "get cold",
-      "anwer": "To become chilly or lower in temperature.",
+      "answer": "To become chilly or lower in temperature.",
       "example": "My hands get cold in winter.",
       "choices": [
         "To become chilly or lower in temperature.",
@@ -499,7 +499,7 @@
     },
     {
       "question": "get hot",
-      "anwer": "To become warm or increase in temperature.",
+      "answer": "To become warm or increase in temperature.",
       "example": "The room gets hot in the afternoon.",
       "choices": [
         "To become warm or increase in temperature.",
@@ -510,7 +510,7 @@
     },
     {
       "question": "get wet",
-      "anwer": "To become soaked with water.",
+      "answer": "To become soaked with water.",
       "example": "Don't get wet in the rain.",
       "choices": [
         "To become soaked with water.",
@@ -521,7 +521,7 @@
     },
     {
       "question": "get dry",
-      "anwer": "To become free of moisture.",
+      "answer": "To become free of moisture.",
       "example": "Hang the clothes outside to get dry.",
       "choices": [
         "To become free of moisture.",
@@ -532,7 +532,7 @@
     },
     {
       "question": "get clean",
-      "anwer": "To become free of dirt or stains.",
+      "answer": "To become free of dirt or stains.",
       "example": "I need to get clean before dinner.",
       "choices": [
         "To become free of dirt or stains.",
@@ -543,7 +543,7 @@
     },
     {
       "question": "get dirty",
-      "anwer": "To become soiled or stained.",
+      "answer": "To become soiled or stained.",
       "example": "Kids always get dirty when they play outside.",
       "choices": [
         "To become soiled or stained.",
@@ -554,7 +554,7 @@
     },
     {
       "question": "get hungry",
-      "anwer": "To feel the need for food.",
+      "answer": "To feel the need for food.",
       "example": "I get hungry around lunchtime.",
       "choices": [
         "To feel the need for food.",
@@ -565,7 +565,7 @@
     },
     {
       "question": "get thirsty",
-      "anwer": "To feel the need for drink.",
+      "answer": "To feel the need for drink.",
       "example": "I get thirsty after exercising.",
       "choices": [
         "To feel the need for drink.",

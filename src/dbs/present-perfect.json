@@ -4,31 +4,31 @@
   "questions": [
     {
       "question": "I ____ (finish) my homework.",
-      "anwer": "have finished",
+      "answer": "have finished",
       "choices": ["finished", "have finished", "finish", "finishing"],
       "example": "I have finished my homework."
     },
     {
       "question": "She ____ (visit) Paris three times.",
-      "anwer": "has visited",
+      "answer": "has visited",
       "choices": ["visited", "has visited", "visits", "visiting"],
       "example": "She has visited Paris three times."
     },
     {
       "question": "They ____ (live) here for five years.",
-      "anwer": "have lived",
+      "answer": "have lived",
       "choices": ["lived", "have lived", "live", "living"],
       "example": "They have lived here for five years."
     },
     {
       "question": "We ____ (never see) that movie.",
-      "anwer": "have never seen",
+      "answer": "have never seen",
       "choices": ["never saw", "have never seen", "never see", "never seeing"],
       "example": "We have never seen that movie."
     },
     {
       "question": "He ____ (just arrive) at the station.",
-      "anwer": "has just arrived",
+      "answer": "has just arrived",
       "choices": [
         "just arrived",
         "has just arrived",
@@ -39,7 +39,7 @@
     },
     {
       "question": "You ____ (already eat) lunch.",
-      "anwer": "have already eaten",
+      "answer": "have already eaten",
       "choices": [
         "already ate",
         "have already eaten",

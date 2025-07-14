@@ -41,7 +41,7 @@ export function initializeSession(questionType: string, questions: Question[]) {
     .sort(() => Math.random() - 0.5)
     .map((q, index) => ({
       question: q.question,
-      answer: q.anwer, // mantenemos el typo del esquema original
+      answer: q.answer, // mantenemos el typo del esquema original
       example: q.example,
       choices: q.choices || [],
       originalIndex: index,

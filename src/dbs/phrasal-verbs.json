@@ -4,241 +4,241 @@
   "questions": [
     {
       "question": "I need to ___ my homework before dinner.",
-      "anwer": "finish up",
+      "answer": "finish up",
       "example": "I need to finish up my homework before dinner.",
       "choices": ["finish up", "give up", "look up", "turn up"]
     },
     {
       "question": "Can you ___ the volume? It's too loud.",
-      "anwer": "turn down",
+      "answer": "turn down",
       "example": "Can you turn down the volume? It's too loud.",
       "choices": ["turn down", "turn up", "turn on", "turn off"]
     },
     {
       "question": "I ___ my keys everywhere but I can't find them.",
-      "anwer": "looked for",
+      "answer": "looked for",
       "example": "I looked for my keys everywhere but I can't find them.",
       "choices": ["looked for", "looked up", "looked after", "looked into"]
     },
     {
       "question": "She decided to ___ smoking for her health.",
-      "anwer": "give up",
+      "answer": "give up",
       "example": "She decided to give up smoking for her health.",
       "choices": ["give up", "give in", "give out", "give away"]
     },
     {
       "question": "The meeting was ___ until next week.",
-      "anwer": "put off",
+      "answer": "put off",
       "example": "The meeting was put off until next week.",
       "choices": ["put off", "put on", "put up", "put down"]
     },
     {
       "question": "I need to ___ this word in the dictionary.",
-      "anwer": "look up",
+      "answer": "look up",
       "example": "I need to look up this word in the dictionary.",
       "choices": ["look up", "look for", "look after", "look into"]
     },
     {
       "question": "Please ___ your shoes before entering the house.",
-      "anwer": "take off",
+      "answer": "take off",
       "example": "Please take off your shoes before entering the house.",
       "choices": ["take off", "take on", "take up", "take over"]
     },
     {
       "question": "I ___ at 6 AM every morning.",
-      "anwer": "wake up",
+      "answer": "wake up",
       "example": "I wake up at 6 AM every morning.",
       "choices": ["wake up", "get up", "stand up", "grow up"]
     },
     {
       "question": "The plane will ___ in ten minutes.",
-      "anwer": "take off",
+      "answer": "take off",
       "example": "The plane will take off in ten minutes.",
       "choices": ["take off", "take up", "take over", "take down"]
     },
     {
       "question": "Can you ___ the children while I'm at work?",
-      "anwer": "look after",
+      "answer": "look after",
       "example": "Can you look after the children while I'm at work?",
       "choices": ["look after", "look for", "look up", "look into"]
     },
     {
       "question": "I ___ my old friend at the grocery store.",
-      "anwer": "ran into",
+      "answer": "ran into",
       "example": "I ran into my old friend at the grocery store.",
       "choices": ["ran into", "ran out", "ran away", "ran over"]
     },
     {
       "question": "They ___ the whole building last month.",
-      "anwer": "tore down",
+      "answer": "tore down",
       "example": "They tore down the whole building last month.",
       "choices": ["tore down", "tore up", "tore off", "tore apart"]
     },
     {
       "question": "I need to ___ some money for my vacation.",
-      "anwer": "save up",
+      "answer": "save up",
       "example": "I need to save up some money for my vacation.",
       "choices": ["save up", "give up", "use up", "take up"]
     },
     {
       "question": "Please ___ the TV. I want to watch the news.",
-      "anwer": "turn on",
+      "answer": "turn on",
       "example": "Please turn on the TV. I want to watch the news.",
       "choices": ["turn on", "turn off", "turn up", "turn down"]
     },
     {
       "question": "The car ___ of gas on the highway.",
-      "anwer": "ran out",
+      "answer": "ran out",
       "example": "The car ran out of gas on the highway.",
       "choices": ["ran out", "ran into", "ran over", "ran away"]
     },
     {
       "question": "I ___ early this morning to go jogging.",
-      "anwer": "got up",
+      "answer": "got up",
       "example": "I got up early this morning to go jogging.",
       "choices": ["got up", "got on", "got off", "got over"]
     },
     {
       "question": "She ___ her jacket because it was cold.",
-      "anwer": "put on",
+      "answer": "put on",
       "example": "She put on her jacket because it was cold.",
       "choices": ["put on", "put off", "put up", "put down"]
     },
     {
       "question": "The teacher asked us to ___ our papers.",
-      "anwer": "hand in",
+      "answer": "hand in",
       "example": "The teacher asked us to hand in our papers.",
       "choices": ["hand in", "hand out", "hand over", "hand down"]
     },
     {
       "question": "I ___ my old photos last weekend.",
-      "anwer": "looked through",
+      "answer": "looked through",
       "example": "I looked through my old photos last weekend.",
       "choices": ["looked through", "looked for", "looked up", "looked after"]
     },
     {
       "question": "The company will ___ 50 new employees next month.",
-      "anwer": "take on",
+      "answer": "take on",
       "example": "The company will take on 50 new employees next month.",
       "choices": ["take on", "take off", "take up", "take over"]
     },
     {
       "question": "I need to ___ this problem with my manager.",
-      "anwer": "bring up",
+      "answer": "bring up",
       "example": "I need to bring up this problem with my manager.",
       "choices": ["bring up", "bring down", "bring out", "bring back"]
     },
     {
       "question": "The fire ___ the entire forest.",
-      "anwer": "burned down",
+      "answer": "burned down",
       "example": "The fire burned down the entire forest.",
       "choices": ["burned down", "burned up", "burned out", "burned off"]
     },
     {
       "question": "Can you ___ me at the airport tomorrow?",
-      "anwer": "pick up",
+      "answer": "pick up",
       "example": "Can you pick up me at the airport tomorrow?",
       "choices": ["pick up", "pick out", "pick on", "pick over"]
     },
     {
       "question": "I ___ playing tennis when I was young.",
-      "anwer": "took up",
+      "answer": "took up",
       "example": "I took up playing tennis when I was young.",
       "choices": ["took up", "took off", "took on", "took over"]
     },
     {
       "question": "The storm ___ many trees in the park.",
-      "anwer": "knocked down",
+      "answer": "knocked down",
       "example": "The storm knocked down many trees in the park.",
       "choices": ["knocked down", "knocked out", "knocked over", "knocked up"]
     },
     {
       "question": "I need to ___ this application form.",
-      "anwer": "fill out",
+      "answer": "fill out",
       "example": "I need to fill out this application form.",
       "choices": ["fill out", "fill in", "fill up", "fill down"]
     },
     {
       "question": "The concert was ___ due to bad weather.",
-      "anwer": "called off",
+      "answer": "called off",
       "example": "The concert was called off due to bad weather.",
       "choices": ["called off", "called up", "called in", "called out"]
     },
     {
       "question": "She ___ her grandmother every Sunday.",
-      "anwer": "calls on",
+      "answer": "calls on",
       "example": "She calls on her grandmother every Sunday.",
       "choices": ["calls on", "calls up", "calls off", "calls out"]
     },
     {
       "question": "I ___ my homework after dinner.",
-      "anwer": "worked on",
+      "answer": "worked on",
       "example": "I worked on my homework after dinner.",
       "choices": ["worked on", "worked out", "worked up", "worked over"]
     },
     {
       "question": "The police are ___ the robbery case.",
-      "anwer": "looking into",
+      "answer": "looking into",
       "example": "The police are looking into the robbery case.",
       "choices": ["looking into", "looking for", "looking up", "looking after"]
     },
     {
       "question": "I ___ my brother at the train station.",
-      "anwer": "saw off",
+      "answer": "saw off",
       "example": "I saw off my brother at the train station.",
       "choices": ["saw off", "saw through", "saw out", "saw over"]
     },
     {
       "question": "The company ___ a new product line.",
-      "anwer": "brought out",
+      "answer": "brought out",
       "example": "The company brought out a new product line.",
       "choices": ["brought out", "brought up", "brought in", "brought down"]
     },
     {
       "question": "I need to ___ these documents before the meeting.",
-      "anwer": "go through",
+      "answer": "go through",
       "example": "I need to go through these documents before the meeting.",
       "choices": ["go through", "go over", "go up", "go down"]
     },
     {
       "question": "The price of gas ___ again this month.",
-      "anwer": "went up",
+      "answer": "went up",
       "example": "The price of gas went up again this month.",
       "choices": ["went up", "went down", "went out", "went over"]
     },
     {
       "question": "I ___ my old clothes to charity.",
-      "anwer": "gave away",
+      "answer": "gave away",
       "example": "I gave away my old clothes to charity.",
       "choices": ["gave away", "gave up", "gave in", "gave out"]
     },
     {
       "question": "The batteries in my phone ___ yesterday.",
-      "anwer": "ran down",
+      "answer": "ran down",
       "example": "The batteries in my phone ran down yesterday.",
       "choices": ["ran down", "ran out", "ran up", "ran over"]
     },
     {
       "question": "I ___ my computer because it was frozen.",
-      "anwer": "turned off",
+      "answer": "turned off",
       "example": "I turned off my computer because it was frozen.",
       "choices": ["turned off", "turned on", "turned up", "turned down"]
     },
     {
       "question": "The teacher ___ the exam papers to the students.",
-      "anwer": "handed out",
+      "answer": "handed out",
       "example": "The teacher handed out the exam papers to the students.",
       "choices": ["handed out", "handed in", "handed over", "handed down"]
     },
     {
       "question": "I ___ my friend's lie immediately.",
-      "anwer": "saw through",
+      "answer": "saw through",
       "example": "I saw through my friend's lie immediately.",
       "choices": ["saw through", "saw off", "saw out", "saw over"]
     },
     {
       "question": "The old factory was ___ to make room for apartments.",
-      "anwer": "torn down",
+      "answer": "torn down",
       "example": "The old factory was torn down to make room for apartments.",
       "choices": ["torn down", "torn up", "torn off", "torn apart"]
     }

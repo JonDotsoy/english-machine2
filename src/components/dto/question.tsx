@@ -2,7 +2,7 @@
 
 export type Question = {
   question: string;
-  anwer: string; // typo intencional para coincidir con el esquema
+  answer: string; // typo intencional para coincidir con el esquema
   example?: string;
   choices?: string[];
 };

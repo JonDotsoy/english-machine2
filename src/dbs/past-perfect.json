@@ -4,31 +4,31 @@
   "questions": [
     {
       "question": "I ____ (finish) my work before he arrived.",
-      "anwer": "had finished",
+      "answer": "had finished",
       "choices": ["finished", "had finished", "finish", "finishing"],
       "example": "I had finished my work before he arrived."
     },
     {
       "question": "She ____ (leave) when I got there.",
-      "anwer": "had left",
+      "answer": "had left",
       "choices": ["left", "had left", "leaves", "leaving"],
       "example": "She had left when I got there."
     },
     {
       "question": "They ____ (study) English for two years before moving to London.",
-      "anwer": "had studied",
+      "answer": "had studied",
       "choices": ["studied", "had studied", "study", "studying"],
       "example": "They had studied English for two years before moving to London."
     },
     {
       "question": "We ____ (eat) dinner when she called.",
-      "anwer": "had eaten",
+      "answer": "had eaten",
       "choices": ["ate", "had eaten", "eat", "eating"],
       "example": "We had eaten dinner when she called."
     },
     {
       "question": "He ____ (already see) the movie twice before.",
-      "anwer": "had already seen",
+      "answer": "had already seen",
       "choices": [
         "already saw",
         "had already seen",
@@ -39,7 +39,7 @@
     },
     {
       "question": "You ____ (never visit) that place until last year.",
-      "anwer": "had never visited",
+      "answer": "had never visited",
       "choices": [
         "never visited",
         "had never visited",

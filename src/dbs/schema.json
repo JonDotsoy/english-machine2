@@ -24,7 +24,7 @@
         "description": "Una pregunta con su respuesta y ejemplo.",
         "properties": {
           "question": { "type": "string", "title": "Pregunta" },
-          "anwer": { "type": "string", "title": "Respuesta" },
+          "answer": { "type": "string", "title": "Respuesta" },
           "example": { "type": "string", "title": "Ejemplo" },
           "choices": {
             "type": "array",
@@ -33,7 +33,7 @@
             "items": { "type": "string" }
           }
         },
-        "required": ["question", "anwer"]
+        "required": ["question", "answer"]
       }
     }
   },

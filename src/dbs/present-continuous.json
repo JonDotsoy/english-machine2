@@ -4,31 +4,31 @@
   "questions": [
     {
       "question": "She ____ (read) a book now.",
-      "anwer": "is reading",
+      "answer": "is reading",
       "choices": ["reads", "is reading", "read", "reading"],
       "example": "She is reading a book now."
     },
     {
       "question": "They ____ (play) football at the moment.",
-      "anwer": "are playing",
+      "answer": "are playing",
       "choices": ["play", "are playing", "playing", "plays"],
       "example": "They are playing football at the moment."
     },
     {
       "question": "I ____ (write) an email right now.",
-      "anwer": "am writing",
+      "answer": "am writing",
       "choices": ["write", "am writing", "writing", "writes"],
       "example": "I am writing an email right now."
     },
     {
       "question": "He ____ (watch) TV.",
-      "anwer": "is watching",
+      "answer": "is watching",
       "choices": ["watch", "is watching", "watches", "watching"],
       "example": "He is watching TV."
     },
     {
       "question": "We ____ (study) for the test.",
-      "anwer": "are studying",
+      "answer": "are studying",
       "choices": ["study", "are studying", "studies", "studying"],
       "example": "We are studying for the test."
     }

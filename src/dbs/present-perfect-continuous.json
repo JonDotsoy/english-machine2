@@ -4,37 +4,37 @@
   "questions": [
     {
       "question": "I ____ (work) here for three years.",
-      "anwer": "have been working",
+      "answer": "have been working",
       "choices": ["work", "have been working", "worked", "working"],
       "example": "I have been working here for three years."
     },
     {
       "question": "She ____ (study) English since 2020.",
-      "anwer": "has been studying",
+      "answer": "has been studying",
       "choices": ["studies", "has been studying", "studied", "studying"],
       "example": "She has been studying English since 2020."
     },
     {
       "question": "They ____ (live) in that house for ten years.",
-      "anwer": "have been living",
+      "answer": "have been living",
       "choices": ["live", "have been living", "lived", "living"],
       "example": "They have been living in that house for ten years."
     },
     {
       "question": "We ____ (wait) for the bus for twenty minutes.",
-      "anwer": "have been waiting",
+      "answer": "have been waiting",
       "choices": ["wait", "have been waiting", "waited", "waiting"],
       "example": "We have been waiting for the bus for twenty minutes."
     },
     {
       "question": "He ____ (play) guitar since he was a child.",
-      "anwer": "has been playing",
+      "answer": "has been playing",
       "choices": ["plays", "has been playing", "played", "playing"],
       "example": "He has been playing guitar since he was a child."
     },
     {
       "question": "You ____ (learn) French for six months.",
-      "anwer": "have been learning",
+      "answer": "have been learning",
       "choices": ["learn", "have been learning", "learned", "learning"],
       "example": "You have been learning French for six months."
     }

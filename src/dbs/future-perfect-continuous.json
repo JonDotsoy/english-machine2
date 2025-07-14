@@ -4,13 +4,13 @@
   "questions": [
     {
       "question": "I ____ (work) here for ten years by next month.",
-      "anwer": "will have been working",
+      "answer": "will have been working",
       "choices": ["will work", "will have been working", "work", "working"],
       "example": "I will have been working here for ten years by next month."
     },
     {
       "question": "She ____ (study) English for five years by the time she graduates.",
-      "anwer": "will have been studying",
+      "answer": "will have been studying",
       "choices": [
         "will study",
         "will have been studying",
@@ -21,25 +21,25 @@
     },
     {
       "question": "They ____ (live) in that house for twenty years by 2025.",
-      "anwer": "will have been living",
+      "answer": "will have been living",
       "choices": ["will live", "will have been living", "live", "living"],
       "example": "They will have been living in that house for twenty years by 2025."
     },
     {
       "question": "We ____ (wait) for two hours by the time the concert starts.",
-      "anwer": "will have been waiting",
+      "answer": "will have been waiting",
       "choices": ["will wait", "will have been waiting", "wait", "waiting"],
       "example": "We will have been waiting for two hours by the time the concert starts."
     },
     {
       "question": "He ____ (play) guitar for fifteen years by his next birthday.",
-      "anwer": "will have been playing",
+      "answer": "will have been playing",
       "choices": ["will play", "will have been playing", "plays", "playing"],
       "example": "He will have been playing guitar for fifteen years by his next birthday."
     },
     {
       "question": "You ____ (learn) French for a whole year by December.",
-      "anwer": "will have been learning",
+      "answer": "will have been learning",
       "choices": ["will learn", "will have been learning", "learn", "learning"],
       "example": "You will have been learning French for a whole year by December."
     }

@@ -1,16 +1,9 @@
-import {
-  Accordion,
-  AccordionContent,
-  AccordionItem,
-  AccordionTrigger,
-} from "@/components/ui/accordion";
 import { Button } from "@/components/ui/button";
 import React, { useEffect } from "react";
 import type { Question } from "./dto/question";
 import { useStore } from "@nanostores/react";
 import {
   sessionStore,
-  currentQuestionTypeStore,
   initializeSession,
   getCurrentQuestion,
   getSessionProgress,

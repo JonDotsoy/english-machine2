@@ -1,4 +1,6 @@
 {
+  "$schema": "./schema.json",
+  "language": "en",
   "questions": [
     {
       "question": "She ____ (work) every day.",

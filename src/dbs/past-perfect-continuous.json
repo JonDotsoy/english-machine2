@@ -4,37 +4,37 @@
   "questions": [
     {
       "question": "I ____ (work) there for two years when I got promoted.",
-      "anwer": "had been working",
+      "answer": "had been working",
       "choices": ["worked", "had been working", "work", "working"],
       "example": "I had been working there for two years when I got promoted."
     },
     {
       "question": "She ____ (study) for three hours before the exam started.",
-      "anwer": "had been studying",
+      "answer": "had been studying",
       "choices": ["studied", "had been studying", "studies", "studying"],
       "example": "She had been studying for three hours before the exam started."
     },
     {
       "question": "They ____ (live) in London for five years before moving to Paris.",
-      "anwer": "had been living",
+      "answer": "had been living",
       "choices": ["lived", "had been living", "live", "living"],
       "example": "They had been living in London for five years before moving to Paris."
     },
     {
       "question": "We ____ (wait) for an hour when the train finally arrived.",
-      "anwer": "had been waiting",
+      "answer": "had been waiting",
       "choices": ["waited", "had been waiting", "wait", "waiting"],
       "example": "We had been waiting for an hour when the train finally arrived."
     },
     {
       "question": "He ____ (play) tennis since morning when it started raining.",
-      "anwer": "had been playing",
+      "answer": "had been playing",
       "choices": ["played", "had been playing", "plays", "playing"],
       "example": "He had been playing tennis since morning when it started raining."
     },
     {
       "question": "You ____ (learn) Spanish for months before you went to Spain.",
-      "anwer": "had been learning",
+      "answer": "had been learning",
       "choices": ["learned", "had been learning", "learn", "learning"],
       "example": "You had been learning Spanish for months before you went to Spain."
     }
