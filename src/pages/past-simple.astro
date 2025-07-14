@@ -1,14 +1,10 @@
 ---
-import Layout from "../layouts/Layout.astro";
+import MultiChoiceLayout from "../layouts/MultiChoiceLayout.astro";
+import pastSimple from "../dbs/past-simple.json";
 ---
 
-<Layout>
-  <div class="mt-8 flex flex-col items-center">
-    <h1 class="text-3xl font-bold mb-4">Past Simple</h1>
-    <p class="mb-2">Ejemplo: <span class="font-mono">I ate.</span></p>
-    <p class="max-w-xl text-center">
-      El Past Simple se usa para acciones que ocurrieron y terminaron en el
-      pasado.
-    </p>
-  </div>
-</Layout>
+<MultiChoiceLayout
+  id="past-simple"
+  title="Past Simple"
+  db={pastSimple.questions}
+/>

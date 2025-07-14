@@ -1,14 +1,10 @@
 ---
-import Layout from "../layouts/Layout.astro";
+import MultiChoiceLayout from "../layouts/MultiChoiceLayout.astro";
+import futureSimple from "../dbs/future-simple.json";
 ---
 
-<Layout>
-  <div class="mt-8 flex flex-col items-center">
-    <h1 class="text-3xl font-bold mb-4">Future Simple</h1>
-    <p class="mb-2">Ejemplo: <span class="font-mono">I will eat.</span></p>
-    <p class="max-w-xl text-center">
-      El Future Simple se usa para hablar de acciones que ocurrirán en el
-      futuro.
-    </p>
-  </div>
-</Layout>
+<MultiChoiceLayout
+  id="future-simple"
+  title="Future Simple"
+  db={futureSimple.questions}
+/>

@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "She ____ (work) every day.",
+      "choices": ["work", "works", "worked", "working"],
+      "answer": "works"
+    },
+    {
+      "question": "They ____ (play) football on Sundays.",
+      "choices": ["plays", "play", "played", "playing"],
+      "answer": "play"
+    },
+    {
+      "question": "I ____ (like) ice cream.",
+      "choices": ["likes", "like", "liked", "liking"],
+      "answer": "like"
+    },
+    {
+      "question": "He ____ (go) to school by bus.",
+      "choices": ["go", "goes", "going", "gone"],
+      "answer": "goes"
+    },
+    {
+      "question": "We ____ (read) books at night.",
+      "choices": ["reads", "read", "reading", "readed"],
+      "answer": "read"
+    }
+  ]
+}

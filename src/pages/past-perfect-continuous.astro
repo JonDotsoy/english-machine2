@@ -1,16 +1,10 @@
 ---
-import Layout from "../layouts/Layout.astro";
+import MultiChoiceLayout from "../layouts/MultiChoiceLayout.astro";
+import pastPerfectContinuous from "../dbs/past-perfect-continuous.json";
 ---
 
-<Layout>
-  <div class="mt-8 flex flex-col items-center">
-    <h1 class="text-3xl font-bold mb-4">Past Perfect Continuous</h1>
-    <p class="mb-2">
-      Ejemplo: <span class="font-mono">I had been eating.</span>
-    </p>
-    <p class="max-w-xl text-center">
-      El Past Perfect Continuous se usa para acciones que estaban ocurriendo
-      antes de otra acción pasada.
-    </p>
-  </div>
-</Layout>
+<MultiChoiceLayout
+  id="past-perfect-continuous"
+  title="Past Perfect Continuous"
+  db={pastPerfectContinuous.questions}
+/>

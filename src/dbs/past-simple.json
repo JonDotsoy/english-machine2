@@ -1,0 +1,36 @@
+{
+  "$schema": "./schema.json",
+  "language": "en",
+  "questions": [
+    {
+      "question": "She ____ (walk) to school yesterday.",
+      "anwer": "walked",
+      "choices": ["walk", "walks", "walked", "walking"],
+      "example": "She walked to school yesterday."
+    },
+    {
+      "question": "They ____ (play) football last weekend.",
+      "anwer": "played",
+      "choices": ["play", "plays", "played", "playing"],
+      "example": "They played football last weekend."
+    },
+    {
+      "question": "I ____ (like) the movie.",
+      "anwer": "liked",
+      "choices": ["like", "likes", "liked", "liking"],
+      "example": "I liked the movie."
+    },
+    {
+      "question": "He ____ (go) to the party last night.",
+      "anwer": "went",
+      "choices": ["go", "goes", "went", "gone"],
+      "example": "He went to the party last night."
+    },
+    {
+      "question": "We ____ (read) that book last year.",
+      "anwer": "read",
+      "choices": ["reads", "read", "reading", "readed"],
+      "example": "We read that book last year."
+    }
+  ]
+}

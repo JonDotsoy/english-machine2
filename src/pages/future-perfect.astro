@@ -1,16 +1,10 @@
 ---
-import Layout from "../layouts/Layout.astro";
+import MultiChoiceLayout from "../layouts/MultiChoiceLayout.astro";
+import futurePerfect from "../dbs/future-perfect.json";
 ---
 
-<Layout>
-  <div class="mt-8 flex flex-col items-center">
-    <h1 class="text-3xl font-bold mb-4">Future Perfect</h1>
-    <p class="mb-2">
-      Ejemplo: <span class="font-mono">I will have eaten.</span>
-    </p>
-    <p class="max-w-xl text-center">
-      El Future Perfect se usa para acciones que habrán terminado antes de un
-      momento específico en el futuro.
-    </p>
-  </div>
-</Layout>
+<MultiChoiceLayout
+  id="future-perfect"
+  title="Future Perfect"
+  db={futurePerfect.questions}
+/>

@@ -1,0 +1,36 @@
+{
+  "$schema": "./schema.json",
+  "language": "en",
+  "questions": [
+    {
+      "question": "She ____ (go) to the party tomorrow.",
+      "anwer": "will go",
+      "choices": ["go", "goes", "will go", "going"],
+      "example": "She will go to the party tomorrow."
+    },
+    {
+      "question": "They ____ (visit) us next week.",
+      "anwer": "will visit",
+      "choices": ["visit", "visits", "will visit", "visiting"],
+      "example": "They will visit us next week."
+    },
+    {
+      "question": "I ____ (call) you later.",
+      "anwer": "will call",
+      "choices": ["call", "calls", "will call", "calling"],
+      "example": "I will call you later."
+    },
+    {
+      "question": "He ____ (buy) a new car soon.",
+      "anwer": "will buy",
+      "choices": ["buy", "buys", "will buy", "buying"],
+      "example": "He will buy a new car soon."
+    },
+    {
+      "question": "We ____ (travel) to Spain next year.",
+      "anwer": "will travel",
+      "choices": ["travel", "travels", "will travel", "traveling"],
+      "example": "We will travel to Spain next year."
+    }
+  ]
+}
