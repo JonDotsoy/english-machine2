@@ -24,6 +24,21 @@
       "description": "Lenguaje en el que están escritas las preguntas, respuestas y ejemplos. Por defecto: 'en' (inglés).",
       "default": "en"
     },
+    "questionType": {
+      "type": "string",
+      "title": "Tipo de pregunta",
+      "description": "Tipo de pregunta según la taxonomía del quiz.",
+      "enum": [
+        "fill_in_the_blank",
+        "definition_matching",
+        "synonym_selection",
+        "usage_in_context",
+        "sentence_transformation",
+        "multiple_choice_meaning",
+        "identify_phrasal_verb",
+        "error_correction"
+      ]
+    },
     "questions": {
       "type": "array",
       "title": "Preguntas",
