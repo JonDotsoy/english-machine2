@@ -1,0 +1,1174 @@
+{
+  "$schema": "./schema.json",
+  "language": "en",
+  "questions": [
+    {
+      "question": "take off",
+      "answer": "To remove something or to leave the ground (airplane).",
+      "example": "The plane will take off at 3 PM.",
+      "choices": [
+        "To remove something or to leave the ground (airplane).",
+        "To put on clothes.",
+        "To land on the ground.",
+        "To start a journey."
+      ]
+    },
+    {
+      "question": "take out",
+      "answer": "To remove something or to go on a date.",
+      "example": "I need to take out the trash.",
+      "choices": [
+        "To remove something or to go on a date.",
+        "To put something inside.",
+        "To start a journey.",
+        "To land on the ground."
+      ]
+    },
+    {
+      "question": "take in",
+      "answer": "To absorb or understand something.",
+      "example": "It was hard to take in all the information at once.",
+      "choices": [
+        "To absorb or understand something.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take over",
+      "answer": "To assume control or responsibility.",
+      "example": "She will take over the project next week.",
+      "choices": [
+        "To assume control or responsibility.",
+        "To remove something.",
+        "To absorb or understand something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take up",
+      "answer": "To begin a new activity or occupy space.",
+      "example": "I want to take up painting as a hobby.",
+      "choices": [
+        "To begin a new activity or occupy space.",
+        "To remove something.",
+        "To assume control or responsibility.",
+        "To absorb or understand something."
+      ]
+    },
+    {
+      "question": "take back",
+      "answer": "To return something or retract a statement.",
+      "example": "I need to take back the book I borrowed.",
+      "choices": [
+        "To return something or retract a statement.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take apart",
+      "answer": "To disassemble something.",
+      "example": "He took apart the clock to fix it.",
+      "choices": [
+        "To disassemble something.",
+        "To return something.",
+        "To begin a new activity.",
+        "To remove something."
+      ]
+    },
+    {
+      "question": "take down",
+      "answer": "To remove or write something down.",
+      "example": "Please take down the notes from the meeting.",
+      "choices": [
+        "To remove or write something down.",
+        "To disassemble something.",
+        "To return something.",
+        "To begin a new activity."
+      ]
+    },
+    {
+      "question": "take on",
+      "answer": "To accept a challenge or responsibility.",
+      "example": "She decided to take on the new project.",
+      "choices": [
+        "To accept a challenge or responsibility.",
+        "To remove or write something down.",
+        "To disassemble something.",
+        "To return something."
+      ]
+    },
+    {
+      "question": "take off",
+      "answer": "To become successful or popular.",
+      "example": "Her career took off after the first album.",
+      "choices": [
+        "To become successful or popular.",
+        "To accept a challenge.",
+        "To remove or write something down.",
+        "To disassemble something."
+      ]
+    },
+    {
+      "question": "take after",
+      "answer": "To resemble a family member.",
+      "example": "She takes after her mother in looks.",
+      "choices": [
+        "To resemble a family member.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take aside",
+      "answer": "To separate someone from a group to talk privately.",
+      "example": "He took me aside to discuss the plan.",
+      "choices": [
+        "To separate someone from a group to talk privately.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take away",
+      "answer": "To remove something from a place.",
+      "example": "Please take away the dishes from the table.",
+      "choices": [
+        "To remove something from a place.",
+        "To begin a new activity.",
+        "To disassemble something.",
+        "To return something."
+      ]
+    },
+    {
+      "question": "take back",
+      "answer": "To retract a statement or opinion.",
+      "example": "I take back what I said about him.",
+      "choices": [
+        "To retract a statement or opinion.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take down",
+      "answer": "To write down or record.",
+      "example": "Can you take down my number?",
+      "choices": [
+        "To write down or record.",
+        "To disassemble something.",
+        "To return something.",
+        "To begin a new activity."
+      ]
+    },
+    {
+      "question": "take in",
+      "answer": "To fully understand or comprehend.",
+      "example": "It was a lot of information to take in.",
+      "choices": [
+        "To fully understand or comprehend.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take off",
+      "answer": "To remove something, especially clothing.",
+      "example": "Please take off your shoes before entering.",
+      "choices": [
+        "To remove something, especially clothing.",
+        "To put on clothes.",
+        "To land on the ground.",
+        "To start a journey."
+      ]
+    },
+    {
+      "question": "take out",
+      "answer": "To remove something from a place.",
+      "example": "I will take out the garbage.",
+      "choices": [
+        "To remove something from a place.",
+        "To put something inside.",
+        "To start a journey.",
+        "To land on the ground."
+      ]
+    },
+    {
+      "question": "take over",
+      "answer": "To gain control of something.",
+      "example": "The company was taken over by a larger firm.",
+      "choices": [
+        "To gain control of something.",
+        "To remove something.",
+        "To absorb or understand something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take up",
+      "answer": "To start a new hobby or activity.",
+      "example": "I have decided to take up jogging.",
+      "choices": [
+        "To start a new hobby or activity.",
+        "To remove something.",
+        "To assume control or responsibility.",
+        "To absorb or understand something."
+      ]
+    },
+    {
+      "question": "take after",
+      "answer": "To resemble someone in appearance or character.",
+      "example": "He takes after his father.",
+      "choices": [
+        "To resemble someone in appearance or character.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take aside",
+      "answer": "To talk to someone privately.",
+      "example": "Can you take me aside for a moment?",
+      "choices": [
+        "To talk to someone privately.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take away",
+      "answer": "To remove something to another place.",
+      "example": "They took away my doubts after the explanation.",
+      "choices": [
+        "To remove something to another place.",
+        "To begin a new activity.",
+        "To disassemble something.",
+        "To return something."
+      ]
+    },
+    {
+      "question": "take back",
+      "answer": "To return to a previous state or condition.",
+      "example": "The software update took back some features.",
+      "choices": [
+        "To return to a previous state or condition.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take down",
+      "answer": "To remove something from a high place.",
+      "example": "Please take down the flag.",
+      "choices": [
+        "To remove something from a high place.",
+        "To disassemble something.",
+        "To return something.",
+        "To begin a new activity."
+      ]
+    },
+    {
+      "question": "take in",
+      "answer": "To absorb information or experiences.",
+      "example": "She takes in everything he says.",
+      "choices": [
+        "To absorb information or experiences.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take off",
+      "answer": "To leave the ground and begin to fly.",
+      "example": "The bird will take off at dawn.",
+      "choices": [
+        "To leave the ground and begin to fly.",
+        "To put on clothes.",
+        "To land on the ground.",
+        "To start a journey."
+      ]
+    },
+    {
+      "question": "take out",
+      "answer": "To remove something from its place.",
+      "example": "I will take out the old batteries.",
+      "choices": [
+        "To remove something from its place.",
+        "To put something inside.",
+        "To start a journey.",
+        "To land on the ground."
+      ]
+    },
+    {
+      "question": "take over",
+      "answer": "To control something completely.",
+      "example": "He will take over the family business.",
+      "choices": [
+        "To control something completely.",
+        "To remove something.",
+        "To absorb or understand something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take up",
+      "answer": "To occupy space or time.",
+      "example": "This desk takes up too much space.",
+      "choices": [
+        "To occupy space or time.",
+        "To remove something.",
+        "To assume control or responsibility.",
+        "To absorb or understand something."
+      ]
+    },
+    {
+      "question": "take after",
+      "answer": "To look or behave like an older relative.",
+      "example": "She takes after her grandmother.",
+      "choices": [
+        "To look or behave like an older relative.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take aside",
+      "answer": "To remove from consideration or discussion.",
+      "example": "Let's take that issue aside for now.",
+      "choices": [
+        "To remove from consideration or discussion.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take away",
+      "answer": "To subtract or remove a part from the whole.",
+      "example": "If you take away 10 from 50, you get 40.",
+      "choices": [
+        "To subtract or remove a part from the whole.",
+        "To begin a new activity.",
+        "To disassemble something.",
+        "To return something."
+      ]
+    },
+    {
+      "question": "take back",
+      "answer": "To withdraw a statement or offer.",
+      "example": "I take back my words; I was wrong.",
+      "choices": [
+        "To withdraw a statement or offer.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take down",
+      "answer": "To reduce in size or importance.",
+      "example": "The CEO had to take down his expectations.",
+      "choices": [
+        "To reduce in size or importance.",
+        "To disassemble something.",
+        "To return something.",
+        "To begin a new activity."
+      ]
+    },
+    {
+      "question": "take in",
+      "answer": "To include or contain.",
+      "example": "The bill does not take in the service charge.",
+      "choices": [
+        "To include or contain.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take off",
+      "answer": "To remove someone from a job or position.",
+      "example": "The manager had to take off an employee for misconduct.",
+      "choices": [
+        "To remove someone from a job or position.",
+        "To put on clothes.",
+        "To land on the ground.",
+        "To start a journey."
+      ]
+    },
+    {
+      "question": "take out",
+      "answer": "To kill or destroy.",
+      "example": "The sniper was ordered to take out the target.",
+      "choices": [
+        "To kill or destroy.",
+        "To put something inside.",
+        "To start a journey.",
+        "To land on the ground."
+      ]
+    },
+    {
+      "question": "take over",
+      "answer": "To take control of a situation.",
+      "example": "He will take over the negotiations.",
+      "choices": [
+        "To take control of a situation.",
+        "To remove something.",
+        "To absorb or understand something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take up",
+      "answer": "To resume after an interruption.",
+      "example": "Let's take up where we left off.",
+      "choices": [
+        "To resume after an interruption.",
+        "To remove something.",
+        "To assume control or responsibility.",
+        "To absorb or understand something."
+      ]
+    },
+    {
+      "question": "take after",
+      "answer": "To follow or pursue.",
+      "example": "The dog will take after the cat.",
+      "choices": [
+        "To follow or pursue.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take aside",
+      "answer": "To reserve or set apart for a particular purpose.",
+      "example": "I will take aside some money for your gift.",
+      "choices": [
+        "To reserve or set apart for a particular purpose.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take away",
+      "answer": "To carry something away.",
+      "example": "The police took away the evidence.",
+      "choices": [
+        "To carry something away.",
+        "To begin a new activity.",
+        "To disassemble something.",
+        "To return something."
+      ]
+    },
+    {
+      "question": "take back",
+      "answer": "To regain possession of something.",
+      "example": "He managed to take back his stolen bike.",
+      "choices": [
+        "To regain possession of something.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take down",
+      "answer": "To dismantle or destroy.",
+      "example": "They had to take down the old building.",
+      "choices": [
+        "To dismantle or destroy.",
+        "To disassemble something.",
+        "To return something.",
+        "To begin a new activity."
+      ]
+    },
+    {
+      "question": "take in",
+      "answer": "To take something into one's possession.",
+      "example": "The police took in the suspect for questioning.",
+      "choices": [
+        "To take something into one's possession.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take off",
+      "answer": "To become airborne.",
+      "example": "The helicopter will take off from the roof.",
+      "choices": [
+        "To become airborne.",
+        "To put on clothes.",
+        "To land on the ground.",
+        "To start a journey."
+      ]
+    },
+    {
+      "question": "take out",
+      "answer": "To remove someone from a dangerous situation.",
+      "example": "The hero took out the villain.",
+      "choices": [
+        "To remove someone from a dangerous situation.",
+        "To put something inside.",
+        "To start a journey.",
+        "To land on the ground."
+      ]
+    },
+    {
+      "question": "take over",
+      "answer": "To take control of someone else's responsibilities.",
+      "example": "I will take over your duties while you're away.",
+      "choices": [
+        "To take control of someone else's responsibilities.",
+        "To remove something.",
+        "To absorb or understand something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take up",
+      "answer": "To fill a particular amount of space or time.",
+      "example": "This project will take up most of my time.",
+      "choices": [
+        "To fill a particular amount of space or time.",
+        "To remove something.",
+        "To assume control or responsibility.",
+        "To absorb or understand something."
+      ]
+    },
+    {
+      "question": "take after",
+      "answer": "To resemble or be similar to.",
+      "example": "You take after your mother.",
+      "choices": [
+        "To resemble or be similar to.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take aside",
+      "answer": "To separate from the group for a specific purpose.",
+      "example": "He was taken aside for a private conversation.",
+      "choices": [
+        "To separate from the group for a specific purpose.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take away",
+      "answer": "To remove something from a particular place.",
+      "example": "Please take away these old newspapers.",
+      "choices": [
+        "To remove something from a particular place.",
+        "To begin a new activity.",
+        "To disassemble something.",
+        "To return something."
+      ]
+    },
+    {
+      "question": "take back",
+      "answer": "To retract or withdraw a previous statement.",
+      "example": "I take back my criticism; it was unwarranted.",
+      "choices": [
+        "To retract or withdraw a previous statement.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take down",
+      "answer": "To remove from a higher to a lower position.",
+      "example": "Can you take down that picture?",
+      "choices": [
+        "To remove from a higher to a lower position.",
+        "To disassemble something.",
+        "To return something.",
+        "To begin a new activity."
+      ]
+    },
+    {
+      "question": "take in",
+      "answer": "To absorb or assimilate information.",
+      "example": "He couldn't take in all the details.",
+      "choices": [
+        "To absorb or assimilate information.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take off",
+      "answer": "To remove something quickly.",
+      "example": "He took off running when he saw the dog.",
+      "choices": [
+        "To remove something quickly.",
+        "To put on clothes.",
+        "To land on the ground.",
+        "To start a journey."
+      ]
+    },
+    {
+      "question": "take out",
+      "answer": "To remove someone from a group, often secretly.",
+      "example": "The spy was to take out the target discreetly.",
+      "choices": [
+        "To remove someone from a group, often secretly.",
+        "To put something inside.",
+        "To start a journey.",
+        "To land on the ground."
+      ]
+    },
+    {
+      "question": "take over",
+      "answer": "To assume control, often without the original owner's consent.",
+      "example": "The rebels managed to take over the city.",
+      "choices": [
+        "To assume control, often without the original owner's consent.",
+        "To remove something.",
+        "To absorb or understand something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take up",
+      "answer": "To start doing a new activity or hobby.",
+      "example": "I think I will take up yoga.",
+      "choices": [
+        "To start doing a new activity or hobby.",
+        "To remove something.",
+        "To assume control or responsibility.",
+        "To absorb or understand something."
+      ]
+    },
+    {
+      "question": "take after",
+      "answer": "To behave or look like an older relative.",
+      "example": "He takes after his uncle.",
+      "choices": [
+        "To behave or look like an older relative.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take aside",
+      "answer": "To talk to someone privately about something important.",
+      "example": "I need to take you aside to discuss your performance.",
+      "choices": [
+        "To talk to someone privately about something important.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take away",
+      "answer": "To remove something from someone's possession.",
+      "example": "The teacher had to take away the student's phone.",
+      "choices": [
+        "To remove something from someone's possession.",
+        "To begin a new activity.",
+        "To disassemble something.",
+        "To return something."
+      ]
+    },
+    {
+      "question": "take back",
+      "answer": "To return to a previous place or condition.",
+      "example": "He had to take back his words after realizing the truth.",
+      "choices": [
+        "To return to a previous place or condition.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take down",
+      "answer": "To remove something from a vertical position.",
+      "example": "Please take down the curtains.",
+      "choices": [
+        "To remove something from a vertical position.",
+        "To disassemble something.",
+        "To return something.",
+        "To begin a new activity."
+      ]
+    },
+    {
+      "question": "take in",
+      "answer": "To fully understand or grasp an idea.",
+      "example": "It took a while to take in the new policy changes.",
+      "choices": [
+        "To fully understand or grasp an idea.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take off",
+      "answer": "To remove something that is worn.",
+      "example": "He took off his hat indoors.",
+      "choices": [
+        "To remove something that is worn.",
+        "To put on clothes.",
+        "To land on the ground.",
+        "To start a journey."
+      ]
+    },
+    {
+      "question": "take out",
+      "answer": "To remove someone from a place, often with force.",
+      "example": "The bouncer had to take out the troublemaker.",
+      "choices": [
+        "To remove someone from a place, often with force.",
+        "To put something inside.",
+        "To start a journey.",
+        "To land on the ground."
+      ]
+    },
+    {
+      "question": "take over",
+      "answer": "To take control of something, often suddenly.",
+      "example": "The manager will take over the project from here.",
+      "choices": [
+        "To take control of something, often suddenly.",
+        "To remove something.",
+        "To absorb or understand something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take up",
+      "answer": "To begin a new activity or hobby.",
+      "example": "I have decided to take up painting.",
+      "choices": [
+        "To begin a new activity or hobby.",
+        "To remove something.",
+        "To assume control or responsibility.",
+        "To absorb or understand something."
+      ]
+    },
+    {
+      "question": "take after",
+      "answer": "To resemble or look like a family member.",
+      "example": "You take after your father.",
+      "choices": [
+        "To resemble or look like a family member.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take aside",
+      "answer": "To separate someone from a group for a private conversation.",
+      "example": "The teacher took the student aside to talk.",
+      "choices": [
+        "To separate someone from a group for a private conversation.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take away",
+      "answer": "To remove something to another place.",
+      "example": "They took away the old furniture.",
+      "choices": [
+        "To remove something to another place.",
+        "To begin a new activity.",
+        "To disassemble something.",
+        "To return something."
+      ]
+    },
+    {
+      "question": "take back",
+      "answer": "To retract a statement or opinion.",
+      "example": "I take back my words; I was mistaken.",
+      "choices": [
+        "To retract a statement or opinion.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take down",
+      "answer": "To remove something from a higher to a lower position.",
+      "example": "Can you take down that painting?",
+      "choices": [
+        "To remove something from a higher to a lower position.",
+        "To disassemble something.",
+        "To return something.",
+        "To begin a new activity."
+      ]
+    },
+    {
+      "question": "take in",
+      "answer": "To absorb or assimilate information.",
+      "example": "He couldn't take in all the details.",
+      "choices": [
+        "To absorb or assimilate information.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take off",
+      "answer": "To remove something quickly.",
+      "example": "He took off running when he saw the dog.",
+      "choices": [
+        "To remove something quickly.",
+        "To put on clothes.",
+        "To land on the ground.",
+        "To start a journey."
+      ]
+    },
+    {
+      "question": "take out",
+      "answer": "To remove someone from a group, often secretly.",
+      "example": "The spy was to take out the target discreetly.",
+      "choices": [
+        "To remove someone from a group, often secretly.",
+        "To put something inside.",
+        "To start a journey.",
+        "To land on the ground."
+      ]
+    },
+    {
+      "question": "take over",
+      "answer": "To assume control, often without the original owner's consent.",
+      "example": "The rebels managed to take over the city.",
+      "choices": [
+        "To assume control, often without the original owner's consent.",
+        "To remove something.",
+        "To absorb or understand something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take up",
+      "answer": "To start doing a new activity or hobby.",
+      "example": "I think I will take up yoga.",
+      "choices": [
+        "To start doing a new activity or hobby.",
+        "To remove something.",
+        "To assume control or responsibility.",
+        "To absorb or understand something."
+      ]
+    },
+    {
+      "question": "take after",
+      "answer": "To behave or look like an older relative.",
+      "example": "He takes after his uncle.",
+      "choices": [
+        "To behave or look like an older relative.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take aside",
+      "answer": "To talk to someone privately about something important.",
+      "example": "I need to take you aside to discuss your performance.",
+      "choices": [
+        "To talk to someone privately about something important.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take away",
+      "answer": "To remove something from someone's possession.",
+      "example": "The teacher had to take away the student's phone.",
+      "choices": [
+        "To remove something from someone's possession.",
+        "To begin a new activity.",
+        "To disassemble something.",
+        "To return something."
+      ]
+    },
+    {
+      "question": "take back",
+      "answer": "To return to a previous place or condition.",
+      "example": "He had to take back his words after realizing the truth.",
+      "choices": [
+        "To return to a previous place or condition.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take down",
+      "answer": "To remove something from a vertical position.",
+      "example": "Please take down the curtains.",
+      "choices": [
+        "To remove something from a vertical position.",
+        "To disassemble something.",
+        "To return something.",
+        "To begin a new activity."
+      ]
+    },
+    {
+      "question": "take in",
+      "answer": "To fully understand or grasp an idea.",
+      "example": "It took a while to take in the new policy changes.",
+      "choices": [
+        "To fully understand or grasp an idea.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take off",
+      "answer": "To remove something that is worn.",
+      "example": "He took off his hat indoors.",
+      "choices": [
+        "To remove something that is worn.",
+        "To put on clothes.",
+        "To land on the ground.",
+        "To start a journey."
+      ]
+    },
+    {
+      "question": "take out",
+      "answer": "To remove someone from a place, often with force.",
+      "example": "The bouncer had to take out the troublemaker.",
+      "choices": [
+        "To remove someone from a place, often with force.",
+        "To put something inside.",
+        "To start a journey.",
+        "To land on the ground."
+      ]
+    },
+    {
+      "question": "take over",
+      "answer": "To take control of something, often suddenly.",
+      "example": "The manager will take over the project from here.",
+      "choices": [
+        "To take control of something, often suddenly.",
+        "To remove something.",
+        "To absorb or understand something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take up",
+      "answer": "To begin a new activity or hobby.",
+      "example": "I have decided to take up painting.",
+      "choices": [
+        "To begin a new activity or hobby.",
+        "To remove something.",
+        "To assume control or responsibility.",
+        "To absorb or understand something."
+      ]
+    },
+    {
+      "question": "take after",
+      "answer": "To resemble or look like a family member.",
+      "example": "You take after your father.",
+      "choices": [
+        "To resemble or look like a family member.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take aside",
+      "answer": "To separate someone from a group for a private conversation.",
+      "example": "The teacher took the student aside to talk.",
+      "choices": [
+        "To separate someone from a group for a private conversation.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take away",
+      "answer": "To remove something to another place.",
+      "example": "They took away the old furniture.",
+      "choices": [
+        "To remove something to another place.",
+        "To begin a new activity.",
+        "To disassemble something.",
+        "To return something."
+      ]
+    },
+    {
+      "question": "take back",
+      "answer": "To retract a statement or opinion.",
+      "example": "I take back my words; I was mistaken.",
+      "choices": [
+        "To retract a statement or opinion.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take down",
+      "answer": "To remove something from a higher to a lower position.",
+      "example": "Can you take down that painting?",
+      "choices": [
+        "To remove something from a higher to a lower position.",
+        "To disassemble something.",
+        "To return something.",
+        "To begin a new activity."
+      ]
+    },
+    {
+      "question": "take in",
+      "answer": "To absorb or assimilate information.",
+      "example": "He couldn't take in all the details.",
+      "choices": [
+        "To absorb or assimilate information.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take off",
+      "answer": "To remove something quickly.",
+      "example": "He took off running when he saw the dog.",
+      "choices": [
+        "To remove something quickly.",
+        "To put on clothes.",
+        "To land on the ground.",
+        "To start a journey."
+      ]
+    },
+    {
+      "question": "take out",
+      "answer": "To remove someone from a group, often secretly.",
+      "example": "The spy was to take out the target discreetly.",
+      "choices": [
+        "To remove someone from a group, often secretly.",
+        "To put something inside.",
+        "To start a journey.",
+        "To land on the ground."
+      ]
+    },
+    {
+      "question": "take over",
+      "answer": "To assume control, often without the original owner's consent.",
+      "example": "The rebels managed to take over the city.",
+      "choices": [
+        "To assume control, often without the original owner's consent.",
+        "To remove something.",
+        "To absorb or understand something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take up",
+      "answer": "To start doing a new activity or hobby.",
+      "example": "I think I will take up yoga.",
+      "choices": [
+        "To start doing a new activity or hobby.",
+        "To remove something.",
+        "To assume control or responsibility.",
+        "To absorb or understand something."
+      ]
+    },
+    {
+      "question": "take after",
+      "answer": "To behave or look like an older relative.",
+      "example": "He takes after his uncle.",
+      "choices": [
+        "To behave or look like an older relative.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    },
+    {
+      "question": "take aside",
+      "answer": "To talk to someone privately about something important.",
+      "example": "I need to take you aside to discuss your performance.",
+      "choices": [
+        "To talk to someone privately about something important.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take away",
+      "answer": "To remove something from someone's possession.",
+      "example": "The teacher had to take away the student's phone.",
+      "choices": [
+        "To remove something from someone's possession.",
+        "To begin a new activity.",
+        "To disassemble something.",
+        "To return something."
+      ]
+    },
+    {
+      "question": "take back",
+      "answer": "To return to a previous place or condition.",
+      "example": "He had to take back his words after realizing the truth.",
+      "choices": [
+        "To return to a previous place or condition.",
+        "To begin a new activity.",
+        "To remove something.",
+        "To leave the ground."
+      ]
+    },
+    {
+      "question": "take down",
+      "answer": "To remove something from a vertical position.",
+      "example": "Please take down the curtains.",
+      "choices": [
+        "To remove something from a vertical position.",
+        "To disassemble something.",
+        "To return something.",
+        "To begin a new activity."
+      ]
+    },
+    {
+      "question": "take in",
+      "answer": "To fully understand or grasp an idea.",
+      "example": "It took a while to take in the new policy changes.",
+      "choices": [
+        "To fully understand or grasp an idea.",
+        "To remove something.",
+        "To leave the ground.",
+        "To go on a date."
+      ]
+    }
+  ],
+  "slug": "phrasal-verbs-take",
+  "title": "Phrasal Verbs Take"
+}
