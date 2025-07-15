@@ -5,39 +5,133 @@
   "language": "en",
   "questions": [
     {
-      "question": "in",
-      "answer": "inside something",
+      "question": "aboard",
+      "answer": "on or into a ship, aircraft, train, or other vehicle",
       "choices": [
-        "inside something",
-        "on the surface of something",
-        "below something",
-        "at the back of something",
+        "on or into a ship, aircraft, train, or other vehicle",
+        "under something",
         "beside something",
         "in the space separating two things"
       ]
     },
     {
-      "question": "on",
-      "answer": "on the surface of something",
+      "question": "about",
+      "answer": "on the subject of; concerning",
       "choices": [
-        "on the surface of something",
+        "on the subject of; concerning",
+        "above something",
         "inside something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "above",
+      "answer": "at a higher level or layer than",
+      "choices": [
+        "at a higher level or layer than",
         "below something",
+        "beside something",
+        "on the surface of something"
+      ]
+    },
+    {
+      "question": "across",
+      "answer": "from one side to the other of something",
+      "choices": [
+        "from one side to the other of something",
+        "inside something",
         "at the back of something",
+        "on the surface of something"
+      ]
+    },
+    {
+      "question": "after",
+      "answer": "in the time following an event",
+      "choices": [
+        "in the time following an event",
+        "before something",
+        "beside something",
+        "under something"
+      ]
+    },
+    {
+      "question": "against",
+      "answer": "in opposition to",
+      "choices": [
+        "in opposition to",
+        "beside something",
+        "on the surface of something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "along",
+      "answer": "moving in a constant direction on a path",
+      "choices": [
+        "moving in a constant direction on a path",
+        "inside something",
+        "at the back of something",
+        "beside something"
+      ]
+    },
+    {
+      "question": "amid",
+      "answer": "surrounded by; in the middle of",
+      "choices": [
+        "surrounded by; in the middle of",
+        "on the surface of something",
+        "beside something",
+        "under something"
+      ]
+    },
+    {
+      "question": "among",
+      "answer": "surrounded by; in the company of",
+      "choices": [
+        "surrounded by; in the company of",
+        "beside something",
+        "at the back of something",
+        "on the surface of something"
+      ]
+    },
+    {
+      "question": "around",
+      "answer": "located or situated on every side",
+      "choices": [
+        "located or situated on every side",
+        "inside something",
+        "under something",
+        "beside something"
+      ]
+    },
+    {
+      "question": "as",
+      "answer": "used to indicate by comparison the way that something happens",
+      "choices": [
+        "used to indicate by comparison the way that something happens",
+        "on the surface of something",
         "beside something",
         "in the space separating two things"
       ]
     },
     {
-      "question": "under",
-      "answer": "below something",
+      "question": "at",
+      "answer": "used to indicate a specific location or time",
       "choices": [
-        "below something",
-        "on the surface of something",
+        "used to indicate a specific location or time",
         "inside something",
-        "at the back of something",
+        "on the surface of something",
+        "beside something"
+      ]
+    },
+    {
+      "question": "before",
+      "answer": "earlier than a particular time or event",
+      "choices": [
+        "earlier than a particular time or event",
+        "after something",
         "beside something",
-        "in the space separating two things"
+        "under something"
       ]
     },
     {
@@ -47,21 +141,37 @@
         "at the back of something",
         "inside something",
         "on the surface of something",
-        "below something",
+        "below something"
+      ]
+    },
+    {
+      "question": "below",
+      "answer": "at a lower level or layer than",
+      "choices": [
+        "at a lower level or layer than",
+        "above something",
+        "beside something",
+        "on the surface of something"
+      ]
+    },
+    {
+      "question": "beneath",
+      "answer": "directly under something",
+      "choices": [
+        "directly under something",
+        "on the surface of something",
         "beside something",
         "in the space separating two things"
       ]
     },
     {
-      "question": "next to",
-      "answer": "beside something",
+      "question": "beside",
+      "answer": "at the side of; next to",
       "choices": [
-        "beside something",
+        "at the side of; next to",
         "inside something",
         "on the surface of something",
-        "below something",
-        "at the back of something",
-        "in the space separating two things"
+        "below something"
       ]
     },
     {
@@ -71,9 +181,497 @@
         "in the space separating two things",
         "inside something",
         "on the surface of something",
+        "below something"
+      ]
+    },
+    {
+      "question": "beyond",
+      "answer": "at or to the further side of",
+      "choices": [
+        "at or to the further side of",
+        "beside something",
+        "on the surface of something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "but",
+      "answer": "except; other than",
+      "choices": [
+        "except; other than",
+        "beside something",
+        "on the surface of something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "by",
+      "answer": "identifying the agent performing an action",
+      "choices": [
+        "identifying the agent performing an action",
+        "beside something",
+        "on the surface of something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "concerning",
+      "answer": "about; regarding",
+      "choices": [
+        "about; regarding",
+        "beside something",
+        "on the surface of something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "considering",
+      "answer": "taking into account",
+      "choices": [
+        "taking into account",
+        "beside something",
+        "on the surface of something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "despite",
+      "answer": "without being affected by",
+      "choices": [
+        "without being affected by",
+        "beside something",
+        "on the surface of something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "down",
+      "answer": "from a higher to a lower place or position",
+      "choices": [
+        "from a higher to a lower place or position",
+        "beside something",
+        "on the surface of something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "during",
+      "answer": "throughout the duration of",
+      "choices": [
+        "throughout the duration of",
+        "beside something",
+        "on the surface of something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "except",
+      "answer": "not including; other than",
+      "choices": [
+        "not including; other than",
+        "beside something",
+        "on the surface of something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "excluding",
+      "answer": "not including",
+      "choices": [
+        "not including",
+        "beside something",
+        "on the surface of something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "following",
+      "answer": "coming after or as a result of",
+      "choices": [
+        "coming after or as a result of",
+        "beside something",
+        "on the surface of something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "for",
+      "answer": "used to indicate the purpose of something",
+      "choices": [
+        "used to indicate the purpose of something",
+        "beside something",
+        "on the surface of something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "from",
+      "answer": "indicating the point in space at which a journey, motion, or action starts",
+      "choices": [
+        "indicating the point in space at which a journey, motion, or action starts",
+        "beside something",
+        "on the surface of something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "in",
+      "answer": "inside something",
+      "choices": [
+        "inside something",
+        "on the surface of something",
         "below something",
-        "at the back of something",
-        "beside something"
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "inside",
+      "answer": "within the interior of something",
+      "choices": [
+        "within the interior of something",
+        "on the surface of something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "into",
+      "answer": "moving or being moved inside something",
+      "choices": [
+        "moving or being moved inside something",
+        "on the surface of something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "like",
+      "answer": "similar to",
+      "choices": [
+        "similar to",
+        "on the surface of something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "minus",
+      "answer": "less; reduced by",
+      "choices": [
+        "less; reduced by",
+        "on the surface of something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "near",
+      "answer": "at or to a short distance away",
+      "choices": [
+        "at or to a short distance away",
+        "on the surface of something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "of",
+      "answer": "expressing the relationship between a part and a whole",
+      "choices": [
+        "expressing the relationship between a part and a whole",
+        "on the surface of something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "off",
+      "answer": "away from the surface of something",
+      "choices": [
+        "away from the surface of something",
+        "on the surface of something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "on",
+      "answer": "on the surface of something",
+      "choices": [
+        "on the surface of something",
+        "inside something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "onto",
+      "answer": "moving to a position on the surface of something",
+      "choices": [
+        "moving to a position on the surface of something",
+        "inside something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "opposite",
+      "answer": "in a position facing something else",
+      "choices": [
+        "in a position facing something else",
+        "inside something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "outside",
+      "answer": "situated or moving beyond the confines of something",
+      "choices": [
+        "situated or moving beyond the confines of something",
+        "inside something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "over",
+      "answer": "extending directly upward from",
+      "choices": [
+        "extending directly upward from",
+        "inside something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "past",
+      "answer": "to or on the further side of",
+      "choices": [
+        "to or on the further side of",
+        "inside something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "per",
+      "answer": "for each; to each",
+      "choices": [
+        "for each; to each",
+        "inside something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "plus",
+      "answer": "with the addition of",
+      "choices": [
+        "with the addition of",
+        "inside something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "regarding",
+      "answer": "concerning; about",
+      "choices": [
+        "concerning; about",
+        "inside something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "round",
+      "answer": "located or situated on every side",
+      "choices": [
+        "located or situated on every side",
+        "inside something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "save",
+      "answer": "except; other than",
+      "choices": [
+        "except; other than",
+        "inside something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "since",
+      "answer": "from a past time until now",
+      "choices": [
+        "from a past time until now",
+        "inside something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "than",
+      "answer": "used in expressions introducing an exception or contrast",
+      "choices": [
+        "used in expressions introducing an exception or contrast",
+        "inside something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "through",
+      "answer": "moving in one side and out of the other side of",
+      "choices": [
+        "moving in one side and out of the other side of",
+        "inside something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "to",
+      "answer": "expressing motion in the direction of a particular location",
+      "choices": [
+        "expressing motion in the direction of a particular location",
+        "inside something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "toward",
+      "answer": "in the direction of",
+      "choices": [
+        "in the direction of",
+        "inside something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "towards",
+      "answer": "in the direction of",
+      "choices": [
+        "in the direction of",
+        "inside something",
+        "below something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "under",
+      "answer": "below something",
+      "choices": [
+        "below something",
+        "on the surface of something",
+        "inside something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "underneath",
+      "answer": "directly beneath something",
+      "choices": [
+        "directly beneath something",
+        "on the surface of something",
+        "inside something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "unlike",
+      "answer": "different from",
+      "choices": [
+        "different from",
+        "on the surface of something",
+        "inside something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "until",
+      "answer": "up to the point in time or the event mentioned",
+      "choices": [
+        "up to the point in time or the event mentioned",
+        "on the surface of something",
+        "inside something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "up",
+      "answer": "from a lower to a higher point",
+      "choices": [
+        "from a lower to a higher point",
+        "on the surface of something",
+        "inside something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "upon",
+      "answer": "more formal term for on",
+      "choices": [
+        "more formal term for on",
+        "on the surface of something",
+        "inside something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "versus",
+      "answer": "against; in contrast to",
+      "choices": [
+        "against; in contrast to",
+        "on the surface of something",
+        "inside something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "via",
+      "answer": "traveling through (a place) en route to a destination",
+      "choices": [
+        "traveling through (a place) en route to a destination",
+        "on the surface of something",
+        "inside something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "with",
+      "answer": "accompanied by",
+      "choices": [
+        "accompanied by",
+        "on the surface of something",
+        "inside something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "within",
+      "answer": "inside the limits of",
+      "choices": [
+        "inside the limits of",
+        "on the surface of something",
+        "inside something",
+        "at the back of something"
+      ]
+    },
+    {
+      "question": "without",
+      "answer": "not having; lacking",
+      "choices": [
+        "not having; lacking",
+        "on the surface of something",
+        "inside something",
+        "at the back of something"
       ]
     }
   ]
