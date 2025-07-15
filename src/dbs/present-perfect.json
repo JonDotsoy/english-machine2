@@ -5,26 +5,22 @@
     {
       "question": "I ____ (finish) my homework.",
       "answer": "have finished",
-      "choices": ["finished", "have finished", "finish", "finishing"],
-      "example": "I have finished my homework."
+      "choices": ["finished", "have finished", "finish", "finishing"]
     },
     {
       "question": "She ____ (visit) Paris three times.",
       "answer": "has visited",
-      "choices": ["visited", "has visited", "visits", "visiting"],
-      "example": "She has visited Paris three times."
+      "choices": ["visited", "has visited", "visits", "visiting"]
     },
     {
       "question": "They ____ (live) here for five years.",
       "answer": "have lived",
-      "choices": ["lived", "have lived", "live", "living"],
-      "example": "They have lived here for five years."
+      "choices": ["lived", "have lived", "live", "living"]
     },
     {
       "question": "We ____ (never see) that movie.",
       "answer": "have never seen",
-      "choices": ["never saw", "have never seen", "never see", "never seeing"],
-      "example": "We have never seen that movie."
+      "choices": ["never saw", "have never seen", "never see", "never seeing"]
     },
     {
       "question": "He ____ (just arrive) at the station.",
@@ -34,8 +30,7 @@
         "has just arrived",
         "just arrives",
         "just arriving"
-      ],
-      "example": "He has just arrived at the station."
+      ]
     },
     {
       "question": "You ____ (already eat) lunch.",
@@ -45,8 +40,7 @@
         "have already eaten",
         "already eat",
         "already eating"
-      ],
-      "example": "You have already eaten lunch."
+      ]
     }
   ],
   "slug": "present-perfect",

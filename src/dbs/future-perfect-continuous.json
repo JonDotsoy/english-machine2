@@ -5,8 +5,7 @@
     {
       "question": "I ____ (work) here for ten years by next month.",
       "answer": "will have been working",
-      "choices": ["will work", "will have been working", "work", "working"],
-      "example": "I will have been working here for ten years by next month."
+      "choices": ["will work", "will have been working", "work", "working"]
     },
     {
       "question": "She ____ (study) English for five years by the time she graduates.",
@@ -16,32 +15,27 @@
         "will have been studying",
         "studies",
         "studying"
-      ],
-      "example": "She will have been studying English for five years by the time she graduates."
+      ]
     },
     {
       "question": "They ____ (live) in that house for twenty years by 2025.",
       "answer": "will have been living",
-      "choices": ["will live", "will have been living", "live", "living"],
-      "example": "They will have been living in that house for twenty years by 2025."
+      "choices": ["will live", "will have been living", "live", "living"]
     },
     {
       "question": "We ____ (wait) for two hours by the time the concert starts.",
       "answer": "will have been waiting",
-      "choices": ["will wait", "will have been waiting", "wait", "waiting"],
-      "example": "We will have been waiting for two hours by the time the concert starts."
+      "choices": ["will wait", "will have been waiting", "wait", "waiting"]
     },
     {
       "question": "He ____ (play) guitar for fifteen years by his next birthday.",
       "answer": "will have been playing",
-      "choices": ["will play", "will have been playing", "plays", "playing"],
-      "example": "He will have been playing guitar for fifteen years by his next birthday."
+      "choices": ["will play", "will have been playing", "plays", "playing"]
     },
     {
       "question": "You ____ (learn) French for a whole year by December.",
       "answer": "will have been learning",
-      "choices": ["will learn", "will have been learning", "learn", "learning"],
-      "example": "You will have been learning French for a whole year by December."
+      "choices": ["will learn", "will have been learning", "learn", "learning"]
     }
   ],
   "slug": "future-perfect-continuous",

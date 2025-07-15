@@ -5,32 +5,27 @@
     {
       "question": "She ____ (read) a book now.",
       "answer": "is reading",
-      "choices": ["reads", "is reading", "read", "reading"],
-      "example": "She is reading a book now."
+      "choices": ["reads", "is reading", "read", "reading"]
     },
     {
       "question": "They ____ (play) football at the moment.",
       "answer": "are playing",
-      "choices": ["play", "are playing", "playing", "plays"],
-      "example": "They are playing football at the moment."
+      "choices": ["play", "are playing", "playing", "plays"]
     },
     {
       "question": "I ____ (write) an email right now.",
       "answer": "am writing",
-      "choices": ["write", "am writing", "writing", "writes"],
-      "example": "I am writing an email right now."
+      "choices": ["write", "am writing", "writing", "writes"]
     },
     {
       "question": "He ____ (watch) TV.",
       "answer": "is watching",
-      "choices": ["watch", "is watching", "watches", "watching"],
-      "example": "He is watching TV."
+      "choices": ["watch", "is watching", "watches", "watching"]
     },
     {
       "question": "We ____ (study) for the test.",
       "answer": "are studying",
-      "choices": ["study", "are studying", "studies", "studying"],
-      "example": "We are studying for the test."
+      "choices": ["study", "are studying", "studies", "studying"]
     }
   ],
   "slug": "present-continuous",

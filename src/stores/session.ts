@@ -11,6 +11,7 @@ export type SessionQuestion = {
   shuffledChoices: string[];
   selectedAnswer?: string;
   isCorrect?: boolean;
+  meaning?: string; // Added meaning field to align with Question type
 };
 
 // Tipo para el estado de una sesión por tipo de pregunta
@@ -46,6 +47,7 @@ export function initializeSession(questionType: string, questions: Question[]) {
       choices: q.choices || [],
       originalIndex: index,
       shuffledChoices: (q.choices || []).sort(() => Math.random() - 0.5),
+      meaning: q.meaning, // Added meaning field initialization
     }));
 
   const sessionState: SessionState = {

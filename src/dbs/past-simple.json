@@ -5,32 +5,27 @@
     {
       "question": "She ____ (walk) to school yesterday.",
       "answer": "walked",
-      "choices": ["walk", "walks", "walked", "walking"],
-      "example": "She walked to school yesterday."
+      "choices": ["walk", "walks", "walked", "walking"]
     },
     {
       "question": "They ____ (play) football last weekend.",
       "answer": "played",
-      "choices": ["play", "plays", "played", "playing"],
-      "example": "They played football last weekend."
+      "choices": ["play", "plays", "played", "playing"]
     },
     {
       "question": "I ____ (like) the movie.",
       "answer": "liked",
-      "choices": ["like", "likes", "liked", "liking"],
-      "example": "I liked the movie."
+      "choices": ["like", "likes", "liked", "liking"]
     },
     {
       "question": "He ____ (go) to the party last night.",
       "answer": "went",
-      "choices": ["go", "goes", "went", "gone"],
-      "example": "He went to the party last night."
+      "choices": ["go", "goes", "went", "gone"]
     },
     {
       "question": "We ____ (read) that book last year.",
       "answer": "read",
-      "choices": ["reads", "read", "reading", "readed"],
-      "example": "We read that book last year."
+      "choices": ["reads", "read", "reading", "readed"]
     }
   ],
   "slug": "past-simple",

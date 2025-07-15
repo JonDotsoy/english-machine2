@@ -41,6 +41,11 @@
             "type": "string",
             "title": "Respuesta"
           },
+          "meaning": {
+            "type": "string",
+            "title": "Meaning",
+            "description": "Explanation or meaning of the question or answer."
+          },
           "example": {
             "type": "string",
             "title": "Ejemplo"

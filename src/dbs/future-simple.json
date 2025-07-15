@@ -5,32 +5,27 @@
     {
       "question": "She ____ (go) to the party tomorrow.",
       "answer": "will go",
-      "choices": ["go", "goes", "will go", "going"],
-      "example": "She will go to the party tomorrow."
+      "choices": ["go", "goes", "will go", "going"]
     },
     {
       "question": "They ____ (visit) us next week.",
       "answer": "will visit",
-      "choices": ["visit", "visits", "will visit", "visiting"],
-      "example": "They will visit us next week."
+      "choices": ["visit", "visits", "will visit", "visiting"]
     },
     {
       "question": "I ____ (call) you later.",
       "answer": "will call",
-      "choices": ["call", "calls", "will call", "calling"],
-      "example": "I will call you later."
+      "choices": ["call", "calls", "will call", "calling"]
     },
     {
       "question": "He ____ (buy) a new car soon.",
       "answer": "will buy",
-      "choices": ["buy", "buys", "will buy", "buying"],
-      "example": "He will buy a new car soon."
+      "choices": ["buy", "buys", "will buy", "buying"]
     },
     {
       "question": "We ____ (travel) to Spain next year.",
       "answer": "will travel",
-      "choices": ["travel", "travels", "will travel", "traveling"],
-      "example": "We will travel to Spain next year."
+      "choices": ["travel", "travels", "will travel", "traveling"]
     }
   ],
   "slug": "future-simple",

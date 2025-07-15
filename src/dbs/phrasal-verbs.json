@@ -5,337 +5,404 @@
     {
       "question": "I need to ___ my homework before dinner.",
       "answer": "finish up",
-      "choices": ["finish up", "give up", "look up", "turn up"]
+      "choices": ["finish up", "give up", "look up", "turn up"],
+      "meaning": "Complete or finalize something."
     },
     {
       "question": "Can you ___ the volume? It's too loud.",
       "answer": "turn down",
-      "choices": ["turn down", "turn up", "turn on", "turn off"]
+      "choices": ["turn down", "turn up", "turn on", "turn off"],
+      "meaning": "Reduce the level of sound or intensity."
     },
     {
       "question": "I ___ my keys everywhere but I can't find them.",
       "answer": "looked for",
-      "choices": ["looked for", "looked up", "looked after", "looked into"]
+      "choices": ["looked for", "looked up", "looked after", "looked into"],
+      "meaning": "Search for something."
     },
     {
       "question": "She decided to ___ smoking for her health.",
       "answer": "give up",
-      "choices": ["give up", "give in", "give out", "give away"]
+      "choices": ["give up", "give in", "give out", "give away"],
+      "meaning": "Stop doing something permanently."
     },
     {
       "question": "The meeting was ___ until next week.",
       "answer": "put off",
-      "choices": ["put off", "put on", "put up", "put down"]
+      "choices": ["put off", "put on", "put up", "put down"],
+      "meaning": "Postpone or delay something."
     },
     {
       "question": "I need to ___ this word in the dictionary.",
       "answer": "look up",
-      "choices": ["look up", "look for", "look after", "look into"]
+      "choices": ["look up", "look for", "look after", "look into"],
+      "meaning": "Search for information in a reference source."
     },
     {
       "question": "Please ___ your shoes before entering the house.",
       "answer": "take off",
-      "choices": ["take off", "take on", "take up", "take over"]
+      "choices": ["take off", "take on", "take up", "take over"],
+      "meaning": "Remove an item of clothing or accessory."
     },
     {
       "question": "I ___ at 6 AM every morning.",
       "answer": "wake up",
-      "choices": ["wake up", "get up", "stand up", "grow up"]
+      "choices": ["wake up", "get up", "stand up", "grow up"],
+      "meaning": "Stop sleeping and become alert."
     },
     {
       "question": "The plane will ___ in ten minutes.",
       "answer": "take off",
-      "choices": ["take off", "take up", "take over", "take down"]
+      "choices": ["take off", "take up", "take over", "take down"],
+      "meaning": "Leave the ground and begin flying."
     },
     {
       "question": "Can you ___ the children while I'm at work?",
       "answer": "look after",
-      "choices": ["look after", "look for", "look up", "look into"]
+      "choices": ["look after", "look for", "look up", "look into"],
+      "meaning": "Take care of someone or something."
     },
     {
       "question": "I ___ my old friend at the grocery store.",
       "answer": "ran into",
-      "choices": ["ran into", "ran out", "ran away", "ran over"]
+      "choices": ["ran into", "ran out", "ran away", "ran over"],
+      "meaning": "Meet someone unexpectedly."
     },
     {
       "question": "They ___ the whole building last month.",
       "answer": "tore down",
-      "choices": ["tore down", "tore up", "tore off", "tore apart"]
+      "choices": ["tore down", "tore up", "tore off", "tore apart"],
+      "meaning": "Demolish or destroy a structure."
     },
     {
       "question": "I need to ___ some money for my vacation.",
       "answer": "save up",
-      "choices": ["save up", "give up", "use up", "take up"]
+      "choices": ["save up", "give up", "use up", "take up"],
+      "meaning": "Accumulate money for a specific purpose."
     },
     {
       "question": "Please ___ the TV. I want to watch the news.",
       "answer": "turn on",
-      "choices": ["turn on", "turn off", "turn up", "turn down"]
+      "choices": ["turn on", "turn off", "turn up", "turn down"],
+      "meaning": "Activate a device or machine."
     },
     {
       "question": "The car ___ of gas on the highway.",
       "answer": "ran out",
-      "choices": ["ran out", "ran into", "ran over", "ran away"]
+      "choices": ["ran out", "ran into", "ran over", "ran away"],
+      "meaning": "No longer have a supply of something."
     },
     {
       "question": "I ___ early this morning to go jogging.",
       "answer": "got up",
-      "choices": ["got up", "got on", "got off", "got over"]
+      "choices": ["got up", "got on", "got off", "got over"],
+      "meaning": "Rise from bed after sleeping."
     },
     {
       "question": "She ___ her jacket because it was cold.",
       "answer": "put on",
-      "choices": ["put on", "put off", "put up", "put down"]
+      "choices": ["put on", "put off", "put up", "put down"],
+      "meaning": "Wear an item of clothing."
     },
     {
       "question": "The teacher asked us to ___ our papers.",
       "answer": "hand in",
-      "choices": ["hand in", "hand out", "hand over", "hand down"]
+      "choices": ["hand in", "hand out", "hand over", "hand down"],
+      "meaning": "Submit or deliver something."
     },
     {
       "question": "I ___ my old photos last weekend.",
       "answer": "looked through",
-      "choices": ["looked through", "looked for", "looked up", "looked after"]
+      "choices": ["looked through", "looked for", "looked up", "looked after"],
+      "meaning": "Examine or review something."
     },
     {
       "question": "The company will ___ 50 new employees next month.",
       "answer": "take on",
-      "choices": ["take on", "take off", "take up", "take over"]
+      "choices": ["take on", "take off", "take up", "take over"],
+      "meaning": "Accept or employ new workers."
     },
     {
       "question": "I need to ___ this problem with my manager.",
       "answer": "bring up",
-      "choices": ["bring up", "bring down", "bring out", "bring back"]
+      "choices": ["bring up", "bring down", "bring out", "bring back"],
+      "meaning": "Mention or introduce a topic."
     },
     {
       "question": "The fire ___ the entire forest.",
       "answer": "burned down",
-      "choices": ["burned down", "burned up", "burned out", "burned off"]
+      "choices": ["burned down", "burned up", "burned out", "burned off"],
+      "meaning": "Destroy completely by fire."
     },
     {
       "question": "Can you ___ me at the airport tomorrow?",
       "answer": "pick up",
-      "choices": ["pick up", "pick out", "pick on", "pick over"]
+      "choices": ["pick up", "pick out", "pick on", "pick over"],
+      "meaning": "Collect or gather someone."
     },
     {
       "question": "I ___ playing tennis when I was young.",
       "answer": "took up",
-      "choices": ["took up", "took off", "took on", "took over"]
+      "choices": ["took up", "took off", "took on", "took over"],
+      "meaning": "Start or begin a new activity."
     },
     {
       "question": "The storm ___ many trees in the park.",
       "answer": "knocked down",
-      "choices": ["knocked down", "knocked out", "knocked over", "knocked up"]
+      "choices": ["knocked down", "knocked out", "knocked over", "knocked up"],
+      "meaning": "Cause to fall or be destroyed."
     },
     {
       "question": "I need to ___ this application form.",
       "answer": "fill out",
-      "choices": ["fill out", "fill in", "fill up", "fill down"]
+      "choices": ["fill out", "fill in", "fill up", "fill down"],
+      "meaning": "Complete a form by providing information."
     },
     {
       "question": "The concert was ___ due to bad weather.",
       "answer": "called off",
-      "choices": ["called off", "called up", "called in", "called out"]
+      "choices": ["called off", "called up", "called in", "called out"],
+      "meaning": "Cancel an event."
     },
     {
       "question": "She ___ her grandmother every Sunday.",
       "answer": "calls on",
-      "choices": ["calls on", "calls up", "calls off", "calls out"]
+      "choices": ["calls on", "calls up", "calls off", "calls out"],
+      "meaning": "Visit someone."
     },
     {
       "question": "I ___ my homework after dinner.",
       "answer": "worked on",
-      "choices": ["worked on", "worked out", "worked up", "worked over"]
+      "choices": ["worked on", "worked out", "worked up", "worked over"],
+      "meaning": "Spend time and effort on a task."
     },
     {
       "question": "The police are ___ the robbery case.",
       "answer": "looking into",
-      "choices": ["looking into", "looking for", "looking up", "looking after"]
+      "choices": ["looking into", "looking for", "looking up", "looking after"],
+      "meaning": "Investigate or examine."
     },
     {
       "question": "I ___ my brother at the train station.",
       "answer": "saw off",
-      "choices": ["saw off", "saw through", "saw out", "saw over"]
+      "choices": ["saw off", "saw through", "saw out", "saw over"],
+      "meaning": "Say goodbye to someone at a station."
     },
     {
       "question": "The company ___ a new product line.",
       "answer": "brought out",
-      "choices": ["brought out", "brought up", "brought in", "brought down"]
+      "choices": ["brought out", "brought up", "brought in", "brought down"],
+      "meaning": "Introduce a new product."
     },
     {
       "question": "I need to ___ these documents before the meeting.",
       "answer": "go through",
-      "choices": ["go through", "go over", "go up", "go down"]
+      "choices": ["go through", "go over", "go up", "go down"],
+      "meaning": "Examine or review carefully."
     },
     {
       "question": "The price of gas ___ again this month.",
       "answer": "went up",
-      "choices": ["went up", "went down", "went out", "went over"]
+      "choices": ["went up", "went down", "went out", "went over"],
+      "meaning": "Increase in price."
     },
     {
       "question": "I ___ my old clothes to charity.",
       "answer": "gave away",
-      "choices": ["gave away", "gave up", "gave in", "gave out"]
+      "choices": ["gave away", "gave up", "gave in", "gave out"],
+      "meaning": "Donate or present something to someone."
     },
     {
       "question": "The batteries in my phone ___ yesterday.",
       "answer": "ran down",
-      "choices": ["ran down", "ran out", "ran up", "ran over"]
+      "choices": ["ran down", "ran out", "ran up", "ran over"],
+      "meaning": "Deplete the energy or power of."
     },
     {
       "question": "I ___ my computer because it was frozen.",
       "answer": "turned off",
-      "choices": ["turned off", "turned on", "turned up", "turned down"]
+      "choices": ["turned off", "turned on", "turned up", "turned down"],
+      "meaning": "Deactivate a device."
     },
     {
       "question": "The teacher ___ the exam papers to the students.",
       "answer": "handed out",
-      "choices": ["handed out", "handed in", "handed over", "handed down"]
+      "choices": ["handed out", "handed in", "handed over", "handed down"],
+      "meaning": "Distribute something to a group."
     },
     {
       "question": "I ___ my friend's lie immediately.",
       "answer": "saw through",
-      "choices": ["saw through", "saw off", "saw out", "saw over"]
+      "choices": ["saw through", "saw off", "saw out", "saw over"],
+      "meaning": "Recognize the truth about something."
     },
     {
       "question": "The old factory was ___ to make room for apartments.",
       "answer": "torn down",
-      "choices": ["torn down", "torn up", "torn off", "torn apart"]
+      "choices": ["torn down", "torn up", "torn off", "torn apart"],
+      "meaning": "Demolish or destroy a building."
     },
     {
       "question": "I need to ___ some information about the new policy.",
       "answer": "find out",
-      "choices": ["find out", "find up", "find off", "find over"]
+      "choices": ["find out", "find up", "find off", "find over"],
+      "meaning": "Discover or learn something."
     },
     {
       "question": "The rain caused the picnic to be ___.",
       "answer": "called off",
-      "choices": ["called off", "called up", "called in", "called out"]
+      "choices": ["called off", "called up", "called in", "called out"],
+      "meaning": "Cancel an event or arrangement."
     },
     {
       "question": "She decided to ___ her old habits.",
       "answer": "break away from",
-      "choices": ["break away from", "break down", "break up", "break in"]
+      "choices": ["break away from", "break down", "break up", "break in"],
+      "meaning": "Stop doing something harmful."
     },
     {
       "question": "The computer suddenly ___.",
       "answer": "broke down",
-      "choices": ["broke down", "broke up", "broke in", "broke out"]
+      "choices": ["broke down", "broke up", "broke in", "broke out"],
+      "meaning": "Stop functioning or working."
     },
     {
       "question": "They ___ after five years of marriage.",
       "answer": "broke up",
-      "choices": ["broke up", "broke down", "broke in", "broke out"]
+      "choices": ["broke up", "broke down", "broke in", "broke out"],
+      "meaning": "End a relationship."
     },
     {
       "question": "The thief tried to ___ the house.",
       "answer": "break into",
-      "choices": ["break into", "break up", "break down", "break out"]
+      "choices": ["break into", "break up", "break down", "break out"],
+      "meaning": "Enter a place illegally."
     },
     {
       "question": "War ___ between the two countries.",
       "answer": "broke out",
-      "choices": ["broke out", "broke up", "broke down", "broke in"]
+      "choices": ["broke out", "broke up", "broke down", "broke in"],
+      "meaning": "Start suddenly (usually used for conflicts)."
     },
     {
       "question": "Can you ___ me ___ at the mall?",
       "answer": "drop off",
-      "choices": ["drop off", "drop out", "drop by", "drop in"]
+      "choices": ["drop off", "drop out", "drop by", "drop in"],
+      "meaning": "Take someone to a place and leave them there."
     },
     {
       "question": "He decided to ___ of college.",
       "answer": "drop out",
-      "choices": ["drop out", "drop off", "drop by", "drop in"]
+      "choices": ["drop out", "drop off", "drop by", "drop in"],
+      "meaning": "Leave school or college before completing."
     },
     {
       "question": "I'll ___ your house later today.",
       "answer": "drop by",
-      "choices": ["drop by", "drop off", "drop out", "drop in"]
+      "choices": ["drop by", "drop off", "drop out", "drop in"],
+      "meaning": "Visit someone informally."
     },
     {
       "question": "The manager will ___ the new employee tomorrow.",
       "answer": "show around",
-      "choices": ["show around", "show up", "show off", "show out"]
+      "choices": ["show around", "show up", "show off", "show out"],
+      "meaning": "Guide someone through a place."
     },
     {
       "question": "Don't ___ in front of your friends.",
       "answer": "show off",
-      "choices": ["show off", "show up", "show around", "show out"]
+      "choices": ["show off", "show up", "show around", "show out"],
+      "meaning": "Display something ostentatiously."
     },
     {
       "question": "She didn't ___ to the party.",
       "answer": "show up",
-      "choices": ["show up", "show off", "show around", "show out"]
+      "choices": ["show up", "show off", "show around", "show out"],
+      "meaning": "Arrive or appear at an event."
     },
     {
       "question": "The teacher will ___ the homework tomorrow.",
       "answer": "go over",
-      "choices": ["go over", "go up", "go down", "go out"]
+      "choices": ["go over", "go up", "go down", "go out"],
+      "meaning": "Review or check something."
     },
     {
       "question": "I ___ with my friends last night.",
       "answer": "hung out",
-      "choices": ["hung out", "hung up", "hung on", "hung over"]
+      "choices": ["hung out", "hung up", "hung on", "hung over"],
+      "meaning": "Spend time relaxing or enjoying oneself."
     },
     {
       "question": "Please ___ your dirty clothes.",
       "answer": "hang up",
-      "choices": ["hang up", "hang out", "hang on", "hang over"]
+      "choices": ["hang up", "hang out", "hang on", "hang over"],
+      "meaning": "Suspend something from a hook or hanger."
     },
     {
       "question": "___ a minute, I'll be right there.",
       "answer": "hang on",
-      "choices": ["hang on", "hang up", "hang out", "hang over"]
+      "choices": ["hang on", "hang up", "hang out", "hang over"],
+      "meaning": "Wait for a short time."
     },
     {
       "question": "The store will ___ next month.",
       "answer": "close down",
-      "choices": ["close down", "close up", "close off", "close out"]
+      "choices": ["close down", "close up", "close off", "close out"],
+      "meaning": "Cease operations or business."
     },
     {
       "question": "The police ___ the road due to an accident.",
       "answer": "closed off",
-      "choices": ["closed off", "closed down", "closed up", "closed out"]
+      "choices": ["closed off", "closed down", "closed up", "closed out"],
+      "meaning": "Prevent access to a place."
     },
     {
       "question": "She ___ her business last year.",
       "answer": "shut down",
-      "choices": ["shut down", "shut up", "shut off", "shut out"]
+      "choices": ["shut down", "shut up", "shut off", "shut out"],
+      "meaning": "Cease operation or close permanently."
     },
     {
       "question": "Please ___ the noise!",
       "answer": "shut up",
-      "choices": ["shut up", "shut down", "shut off", "shut out"]
+      "choices": ["shut up", "shut down", "shut off", "shut out"],
+      "meaning": "Stop talking or making noise."
     },
     {
       "question": "Don't forget to ___ the lights.",
       "answer": "shut off",
-      "choices": ["shut off", "shut down", "shut up", "shut out"]
+      "choices": ["shut off", "shut down", "shut up", "shut out"],
+      "meaning": "Turn off a device or light."
     },
     {
       "question": "I need to ___ this mess.",
       "answer": "clean up",
-      "choices": ["clean up", "clean out", "clean off", "clean down"]
+      "choices": ["clean up", "clean out", "clean off", "clean down"],
+      "meaning": "Remove dirt or mess from a place."
     },
     {
       "question": "She ___ her closet yesterday.",
       "answer": "cleaned out",
-      "choices": ["cleaned out", "cleaned up", "cleaned off", "cleaned down"]
+      "choices": ["cleaned out", "cleaned up", "cleaned off", "cleaned down"],
+      "meaning": "Remove unwanted items from a space."
     },
     {
       "question": "The project ___ successfully.",
       "answer": "worked out",
-      "choices": ["worked out", "worked up", "worked on", "worked over"]
+      "choices": ["worked out", "worked up", "worked on", "worked over"],
+      "meaning": "Have a good result or solution."
     },
     {
       "question": "I ___ at the gym every morning.",
       "answer": "work out",
-      "choices": ["work out", "work up", "work on", "work over"]
+      "choices": ["work out", "work up", "work on", "work over"],
+      "meaning": "Exercise to improve fitness."
     },
     {
       "question": "The kids are ___ too much energy.",
       "answer": "working off",
-      "choices": ["working off", "working out", "working up", "working on"]
+      "choices": ["working off", "working out", "working up", "working on"],
+      "meaning": "Reduce energy by doing something active."
     },
     {
       "question": "We need to ___ a solution to this problem.",
@@ -345,7 +412,8 @@
         "come down with",
         "come out with",
         "come over with"
-      ]
+      ],
+      "meaning": "Devise or think of a plan or idea."
     },
     {
       "question": "I think I'm ___ a cold.",
@@ -355,7 +423,8 @@
         "coming up with",
         "coming out with",
         "coming over with"
-      ]
+      ],
+      "meaning": "Begin to suffer from an illness."
     },
     {
       "question": "The company will ___ a new product next month.",
@@ -365,62 +434,74 @@
         "come up with",
         "come down with",
         "come over with"
-      ]
+      ],
+      "meaning": "Introduce or launch a new product."
     },
     {
       "question": "Would you like to ___ for dinner?",
       "answer": "come over",
-      "choices": ["come over", "come up", "come down", "come out"]
+      "choices": ["come over", "come up", "come down", "come out"],
+      "meaning": "Visit someone's house."
     },
     {
       "question": "The truth will ___ eventually.",
       "answer": "come out",
-      "choices": ["come out", "come up", "come down", "come over"]
+      "choices": ["come out", "come up", "come down", "come over"],
+      "meaning": "Become known or revealed."
     },
     {
       "question": "This topic ___ in every meeting.",
       "answer": "comes up",
-      "choices": ["comes up", "comes down", "comes out", "comes over"]
+      "choices": ["comes up", "comes down", "comes out", "comes over"],
+      "meaning": "Be mentioned or discussed."
     },
     {
       "question": "I need to ___ my notes before the exam.",
       "answer": "look over",
-      "choices": ["look over", "look up", "look down", "look out"]
+      "choices": ["look over", "look up", "look down", "look out"],
+      "meaning": "Review or examine notes."
     },
     {
       "question": "___ ! There's a car coming.",
       "answer": "look out",
-      "choices": ["look out", "look up", "look down", "look over"]
+      "choices": ["look out", "look up", "look down", "look over"],
+      "meaning": "Be careful or pay attention."
     },
     {
       "question": "He ___ his father in many ways.",
       "answer": "takes after",
-      "choices": ["takes after", "takes up", "takes down", "takes over"]
+      "choices": ["takes after", "takes up", "takes down", "takes over"],
+      "meaning": "Resemble or have similar characteristics."
     },
     {
       "question": "I ___ what I said about him.",
       "answer": "take back",
-      "choices": ["take back", "take up", "take down", "take over"]
+      "choices": ["take back", "take up", "take down", "take over"],
+      "meaning": "Retract or withdraw a statement."
     },
     {
       "question": "The CEO will ___ next month.",
       "answer": "step down",
-      "choices": ["step down", "step up", "step out", "step in"]
+      "choices": ["step down", "step up", "step out", "step in"],
+      "meaning": "Resign from a position."
     },
     {
       "question": "Someone needs to ___ and take responsibility.",
       "answer": "step up",
-      "choices": ["step up", "step down", "step out", "step in"]
+      "choices": ["step up", "step down", "step out", "step in"],
+      "meaning": "Take action or initiative."
     },
     {
       "question": "I need to ___ for a moment.",
       "answer": "step out",
-      "choices": ["step out", "step up", "step down", "step in"]
+      "choices": ["step out", "step up", "step down", "step in"],
+      "meaning": "Leave a place briefly."
     },
     {
       "question": "The substitute teacher will ___ today.",
       "answer": "step in",
-      "choices": ["step in", "step up", "step down", "step out"]
+      "choices": ["step in", "step up", "step down", "step out"],
+      "meaning": "Temporarily take the place of someone."
     }
   ],
   "slug": "phrasal-verbs",

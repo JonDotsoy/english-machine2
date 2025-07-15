@@ -5,26 +5,22 @@
     {
       "question": "I ____ (finish) my work before he arrived.",
       "answer": "had finished",
-      "choices": ["finished", "had finished", "finish", "finishing"],
-      "example": "I had finished my work before he arrived."
+      "choices": ["finished", "had finished", "finish", "finishing"]
     },
     {
       "question": "She ____ (leave) when I got there.",
       "answer": "had left",
-      "choices": ["left", "had left", "leaves", "leaving"],
-      "example": "She had left when I got there."
+      "choices": ["left", "had left", "leaves", "leaving"]
     },
     {
       "question": "They ____ (study) English for two years before moving to London.",
       "answer": "had studied",
-      "choices": ["studied", "had studied", "study", "studying"],
-      "example": "They had studied English for two years before moving to London."
+      "choices": ["studied", "had studied", "study", "studying"]
     },
     {
       "question": "We ____ (eat) dinner when she called.",
       "answer": "had eaten",
-      "choices": ["ate", "had eaten", "eat", "eating"],
-      "example": "We had eaten dinner when she called."
+      "choices": ["ate", "had eaten", "eat", "eating"]
     },
     {
       "question": "He ____ (already see) the movie twice before.",
@@ -34,8 +30,7 @@
         "had already seen",
         "already sees",
         "already seeing"
-      ],
-      "example": "He had already seen the movie twice before."
+      ]
     },
     {
       "question": "You ____ (never visit) that place until last year.",
@@ -45,8 +40,7 @@
         "had never visited",
         "never visit",
         "never visiting"
-      ],
-      "example": "You had never visited that place until last year."
+      ]
     }
   ],
   "slug": "past-perfect",

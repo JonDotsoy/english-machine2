@@ -24,18 +24,18 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
   const progress = getSessionProgress(type);
   const stats = getSessionStats(type);
 
-  // Inicializar sesión si no existe
+  // Initialize session if it doesn't exist
   useEffect(() => {
     if (!currentSession && db.length > 0) {
       initializeSession(type, db);
     }
   }, [type, db, currentSession]);
 
-  // Si no hay sesión aún, mostrar loading
+  // If there's no session yet, show loading
   if (!currentSession || !currentQuestion) {
     return (
       <div className="container mx-auto p-4 text-center">
-        <p>Cargando sesión...</p>
+        <p>Loading session...</p>
       </div>
     );
   }
@@ -66,7 +66,7 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
       return choice === currentQuestion.answer ? "default" : "destructive";
     }
 
-    // No mostrar la respuesta correcta si se seleccionó incorrecta
+    // Don't show the correct answer if an incorrect one is selected
     return "outline";
   };
 
@@ -79,17 +79,17 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
         : "w-full mb-2 bg-red-600 hover:bg-red-700 text-white";
     }
 
-    // No resaltar la respuesta correcta si se seleccionó incorrecta
+    // Don't highlight the correct answer if an incorrect one is selected
     return "w-full mb-2 bg-gray-300 hover:bg-gray-400";
   };
 
   return (
     <div className="container mx-auto p-4">
-      {/* Header con estadísticas */}
+      {/* Header with statistics */}
       <div className="mb-6 p-4 bg-gray-100 rounded-lg">
         <div className="flex justify-between items-center">
           <div className="text-sm text-gray-600">
-            Pregunta {progress.current} de {progress.total}
+            Question {progress.current} of {progress.total}
           </div>
           <div className="text-sm text-gray-600">
             Score: {stats.score}/{stats.totalQuestions} (
@@ -104,7 +104,7 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
         </div>
       </div>
 
-      {/* Navegación */}
+      {/* Navigation */}
       <div className="flex justify-between items-center mb-4">
         <Button
           onClick={handlePrevious}
@@ -113,7 +113,7 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
           size="sm"
         >
           <ChevronLeft className="w-4 h-4 mr-1" />
-          Anterior
+          Previous
         </Button>
 
         <span className="text-sm text-gray-500">
@@ -130,12 +130,12 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
           variant="outline"
           size="sm"
         >
-          Siguiente
+          Next
           <ChevronRight className="w-4 h-4 ml-1" />
         </Button>
       </div>
 
-      {/* Pregunta actual */}
+      {/* Current question */}
       <div className="mb-6 p-4 bg-white rounded-lg border">
         <h3 className="text-lg font-semibold mb-3">
           {currentQuestion.question}
@@ -144,12 +144,20 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
         {currentQuestion.example && (
           <div className="mb-4 p-3 bg-blue-50 rounded-lg border-l-4 border-blue-400">
             <p className="text-sm text-blue-800">
-              <strong>Ejemplo:</strong> {currentQuestion.example}
+              <strong>Example:</strong> {currentQuestion.example}
             </p>
           </div>
         )}
 
-        {/* Opciones de respuesta */}
+        {currentQuestion.meaning && (
+          <div className="mb-4 p-3 bg-green-50 rounded-lg border-l-4 border-green-400">
+            <p className="text-sm text-green-800">
+              <strong>Meaning:</strong> {currentQuestion.meaning}
+            </p>
+          </div>
+        )}
+
+        {/* Answer options */}
         <div className="space-y-2">
           {currentQuestion.shuffledChoices.map((choice, index) => (
             <Button
@@ -164,25 +172,25 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
         </div>
       </div>
 
-      {/* Información adicional si se ha respondido */}
+      {/* Additional information if answered */}
       {currentQuestion.selectedAnswer && (
         <div className="p-4 bg-gray-50 rounded-lg">
           <div className="flex items-center justify-between">
             <span className="text-sm">
-              Tu respuesta: <strong>{currentQuestion.selectedAnswer}</strong>
+              Your answer: <strong>{currentQuestion.selectedAnswer}</strong>
             </span>
             <span
               className={`text-sm font-semibold ${
                 currentQuestion.isCorrect ? "text-green-600" : "text-red-600"
               }`}
             >
-              {currentQuestion.isCorrect ? "✓ Correcto" : "✗ Incorrecto"}
+              {currentQuestion.isCorrect ? "✓ Correct" : "✗ Incorrect"}
             </span>
           </div>
-          {/* Solo mostrar la respuesta correcta si se respondió correctamente */}
+          {/* Only show the correct answer if answered correctly */}
           {currentQuestion.isCorrect && (
             <p className="text-sm text-gray-600 mt-2">
-              ¡Excelente! Has seleccionado la respuesta correcta.
+              Excellent! You selected the correct answer.
             </p>
           )}
         </div>

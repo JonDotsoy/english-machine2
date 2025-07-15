@@ -8,12 +8,14 @@
  * @property example - (Optional) Example usage of the answer.
  * @property slug - (Optional) Unique identifier for the question.
  * @property choices - (Optional) Answer choices for the question.
+ * @property meaning - (Optional) The meaning of the question or answer, if applicable.
  */
 export type Question = {
   question: string;
   answer: string;
   example?: string;
   choices?: string[];
+  meaning?: string; // Added meaning field to match schema.json
 };
 
 /**
