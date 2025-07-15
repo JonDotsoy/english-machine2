@@ -1,12 +1,22 @@
 {
   "$schema": "https://json-schema.org/draft-07/schema#",
-  "title": "Base de datos de preguntas y respuestas",
+  "title": "Schema",
   "description": "Un esquema para una base de datos de preguntas, respuestas y ejemplos en inglés.",
   "type": "object",
   "properties": {
     "$schema": {
       "type": "string",
       "default": "./schema.json"
+    },
+    "title": {
+      "type": "string",
+      "title": "Title",
+      "description": "Descriptive title for the question set."
+    },
+    "slug": {
+      "type": "string",
+      "title": "Slug",
+      "description": "Unique identifier for the question set."
     },
     "language": {
       "type": "string",
@@ -23,14 +33,25 @@
         "title": "Pregunta",
         "description": "Una pregunta con su respuesta y ejemplo.",
         "properties": {
-          "question": { "type": "string", "title": "Pregunta" },
-          "answer": { "type": "string", "title": "Respuesta" },
-          "example": { "type": "string", "title": "Ejemplo" },
+          "question": {
+            "type": "string",
+            "title": "Pregunta"
+          },
+          "answer": {
+            "type": "string",
+            "title": "Respuesta"
+          },
+          "example": {
+            "type": "string",
+            "title": "Ejemplo"
+          },
           "choices": {
             "type": "array",
             "title": "Opciones",
             "description": "Opciones de respuesta para la pregunta.",
-            "items": { "type": "string" }
+            "items": {
+              "type": "string"
+            }
           }
         },
         "required": ["question", "answer"]
