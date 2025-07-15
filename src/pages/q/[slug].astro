@@ -1,0 +1,33 @@
+---
+import type { Question, QuestionsDB } from "@/components/dto/question";
+import MultiChoiceLayout from "@/layouts/MultiChoiceLayout.astro";
+import { filterQuestionsDB } from "@/utils/filterQuestionsDB";
+import type { GetStaticPaths } from "astro";
+
+export const prerender = false;
+
+interface Props {
+  slug: string;
+  questionsDB: QuestionsDB;
+}
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const f = filterQuestionsDB(await Astro.glob("../../dbs/*.json"));
+
+  return f.map((questionsDB) => ({
+    params: { slug: questionsDB.slug },
+    props: {
+      slug: questionsDB.slug,
+      questionsDB: questionsDB as QuestionsDB,
+    },
+  }));
+};
+
+const { slug, questionsDB }: Props = Astro.props;
+---
+
+<MultiChoiceLayout
+  id={slug}
+  title={questionsDB.title!}
+  db={questionsDB.questions}
+/>
