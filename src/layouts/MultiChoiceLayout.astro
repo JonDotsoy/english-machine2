@@ -23,7 +23,7 @@ const { db, id, title } = Astro.props;
     </nav>
   </header>
   <div class="max-w-2xl mx-auto">
-    <h1 class="text-2xl font-bold my-6" transition:name={id}>
+    <h1 class="text-2xl font-bold my-6 p-4" transition:name={id}>
       {title}
     </h1>
     <MultiChoice client:load type={id} db={db} />
