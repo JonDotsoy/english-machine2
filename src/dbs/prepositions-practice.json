@@ -1,0 +1,163 @@
+{
+  "$schema": "./schema.json",
+  "title": "Prepositions Practice Quiz",
+  "slug": "prepositions-practice",
+  "language": "en",
+  "questions": [
+    {
+      "question": "The cat is ___ the box.",
+      "answer": "in",
+      "choices": ["in", "on", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The book is ___ the table.",
+      "answer": "on",
+      "choices": ["on", "in", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The shoes are ___ the bed.",
+      "answer": "under",
+      "choices": ["under", "on", "in", "behind", "next to", "between"]
+    },
+    {
+      "question": "The dog is ___ the door.",
+      "answer": "behind",
+      "choices": ["behind", "in", "on", "under", "next to", "between"]
+    },
+    {
+      "question": "The lamp is ___ the sofa.",
+      "answer": "next to",
+      "choices": ["next to", "in", "on", "under", "behind", "between"]
+    },
+    {
+      "question": "The ball is ___ the shoes.",
+      "answer": "between",
+      "choices": ["between", "in", "on", "under", "behind", "next to"]
+    },
+    {
+      "question": "The keys are ___ the table.",
+      "answer": "on",
+      "choices": ["on", "in", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The picture is ___ the wall.",
+      "answer": "on",
+      "choices": ["on", "in", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The shoes are ___ the closet.",
+      "answer": "in",
+      "choices": ["in", "on", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The car is ___ the garage.",
+      "answer": "in",
+      "choices": ["in", "on", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The book is ___ the shelf.",
+      "answer": "on",
+      "choices": ["on", "in", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The cat is ___ the chair.",
+      "answer": "under",
+      "choices": ["under", "on", "in", "behind", "next to", "between"]
+    },
+    {
+      "question": "The lamp is ___ the desk.",
+      "answer": "on",
+      "choices": ["on", "in", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The ball is ___ the corner.",
+      "answer": "in",
+      "choices": ["in", "on", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The dog is ___ the yard.",
+      "answer": "in",
+      "choices": ["in", "on", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The chair is ___ the table.",
+      "answer": "next to",
+      "choices": ["next to", "in", "on", "under", "behind", "between"]
+    },
+    {
+      "question": "The phone is ___ the bed.",
+      "answer": "on",
+      "choices": ["on", "in", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The shoes are ___ the door.",
+      "answer": "behind",
+      "choices": ["behind", "in", "on", "under", "next to", "between"]
+    },
+    {
+      "question": "The keys are ___ the drawer.",
+      "answer": "in",
+      "choices": ["in", "on", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The picture is ___ the frame.",
+      "answer": "in",
+      "choices": ["in", "on", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The lamp is ___ the nightstand.",
+      "answer": "on",
+      "choices": ["on", "in", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The shoes are ___ the mat.",
+      "answer": "on",
+      "choices": ["on", "in", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The book is ___ the backpack.",
+      "answer": "in",
+      "choices": ["in", "on", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The cat is ___ the window.",
+      "answer": "on",
+      "choices": ["on", "in", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The lamp is ___ the ceiling.",
+      "answer": "on",
+      "choices": ["on", "in", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The shoes are ___ the floor.",
+      "answer": "on",
+      "choices": ["on", "in", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The book is ___ the desk.",
+      "answer": "on",
+      "choices": ["on", "in", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The cat is ___ the roof.",
+      "answer": "on",
+      "choices": ["on", "in", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The lamp is ___ the table.",
+      "answer": "on",
+      "choices": ["on", "in", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The shoes are ___ the shelf.",
+      "answer": "on",
+      "choices": ["on", "in", "under", "behind", "next to", "between"]
+    },
+    {
+      "question": "The book is ___ the chair.",
+      "answer": "on",
+      "choices": ["on", "in", "under", "behind", "next to", "between"]
+    }
+  ]
+}
