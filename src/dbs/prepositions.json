@@ -1,0 +1,80 @@
+{
+  "$schema": "./schema.json",
+  "title": "Prepositions Quiz",
+  "slug": "prepositions",
+  "language": "en",
+  "questions": [
+    {
+      "question": "in",
+      "answer": "inside something",
+      "choices": [
+        "inside something",
+        "on the surface of something",
+        "below something",
+        "at the back of something",
+        "beside something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "on",
+      "answer": "on the surface of something",
+      "choices": [
+        "on the surface of something",
+        "inside something",
+        "below something",
+        "at the back of something",
+        "beside something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "under",
+      "answer": "below something",
+      "choices": [
+        "below something",
+        "on the surface of something",
+        "inside something",
+        "at the back of something",
+        "beside something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "behind",
+      "answer": "at the back of something",
+      "choices": [
+        "at the back of something",
+        "inside something",
+        "on the surface of something",
+        "below something",
+        "beside something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "next to",
+      "answer": "beside something",
+      "choices": [
+        "beside something",
+        "inside something",
+        "on the surface of something",
+        "below something",
+        "at the back of something",
+        "in the space separating two things"
+      ]
+    },
+    {
+      "question": "between",
+      "answer": "in the space separating two things",
+      "choices": [
+        "in the space separating two things",
+        "inside something",
+        "on the surface of something",
+        "below something",
+        "at the back of something",
+        "beside something"
+      ]
+    }
+  ]
+}
