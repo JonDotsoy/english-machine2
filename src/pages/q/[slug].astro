@@ -4,7 +4,7 @@ import MultiChoiceLayout from "@/layouts/MultiChoiceLayout.astro";
 import { filterQuestionsDB } from "@/utils/filterQuestionsDB";
 import type { GetStaticPaths } from "astro";
 
-export const prerender = false;
+export const prerender = true;
 
 interface Props {
   slug: string;
