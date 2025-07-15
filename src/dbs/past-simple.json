@@ -32,5 +32,7 @@
       "choices": ["reads", "read", "reading", "readed"],
       "example": "We read that book last year."
     }
-  ]
+  ],
+  "slug": "past-simple",
+  "title": "Past Simple"
 }

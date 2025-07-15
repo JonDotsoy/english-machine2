@@ -48,5 +48,7 @@
       "choices": ["will learn", "will have learned", "learn", "learning"],
       "example": "You will have learned Spanish by the time you move to Spain."
     }
-  ]
+  ],
+  "slug": "future-perfect",
+  "title": "Future Perfect"
 }

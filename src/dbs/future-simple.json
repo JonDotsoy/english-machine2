@@ -32,5 +32,7 @@
       "choices": ["travel", "travels", "will travel", "traveling"],
       "example": "We will travel to Spain next year."
     }
-  ]
+  ],
+  "slug": "future-simple",
+  "title": "Future Simple"
 }

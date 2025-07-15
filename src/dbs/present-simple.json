@@ -302,5 +302,7 @@
       "choices": ["grow", "grows", "growing", "grew"],
       "answer": "grows"
     }
-  ]
+  ],
+  "slug": "present-simple",
+  "title": "Present Simple"
 }

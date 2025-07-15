@@ -38,5 +38,7 @@
       "choices": ["learned", "had been learning", "learn", "learning"],
       "example": "You had been learning Spanish for months before you went to Spain."
     }
-  ]
+  ],
+  "slug": "past-perfect-continuous",
+  "title": "Past Perfect Continuous"
 }

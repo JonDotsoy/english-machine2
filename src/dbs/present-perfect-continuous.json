@@ -38,5 +38,7 @@
       "choices": ["learn", "have been learning", "learned", "learning"],
       "example": "You have been learning French for six months."
     }
-  ]
+  ],
+  "slug": "present-perfect-continuous",
+  "title": "Present Perfect Continuous"
 }
