@@ -28,7 +28,7 @@ const { db, id, title } = Astro.props;
     </h1>
     <MultiChoice client:load type={id} db={db} />
   </div>
-  <footer class="mt-10 text-center text-sm text-gray-500 container m-auto">
+  <footer class="mt-10 text-center text-sm text-gray-500 container m-auto p-4">
     ¿Quieres mejorar o agregar ejemplos? <a
       href={`https://github.com/JonDotsoy/english-machine/blob/HEAD/src/dbs/${id}.json`}
       target="_blank"
