@@ -87,7 +87,6 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
     <div className="container mx-auto p-4">
       {/* Header con estadísticas */}
       <div className="mb-6 p-4 bg-gray-100 rounded-lg">
-        <h2 className="text-xl font-bold mb-2">{type}</h2>
         <div className="flex justify-between items-center">
           <div className="text-sm text-gray-600">
             Pregunta {progress.current} de {progress.total}
