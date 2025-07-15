@@ -5,409 +5,341 @@
     {
       "question": "I need to ___ my homework before dinner.",
       "answer": "finish up",
-      "example": "I need to finish up my homework before dinner.",
       "choices": ["finish up", "give up", "look up", "turn up"]
     },
     {
       "question": "Can you ___ the volume? It's too loud.",
       "answer": "turn down",
-      "example": "Can you turn down the volume? It's too loud.",
       "choices": ["turn down", "turn up", "turn on", "turn off"]
     },
     {
       "question": "I ___ my keys everywhere but I can't find them.",
       "answer": "looked for",
-      "example": "I looked for my keys everywhere but I can't find them.",
       "choices": ["looked for", "looked up", "looked after", "looked into"]
     },
     {
       "question": "She decided to ___ smoking for her health.",
       "answer": "give up",
-      "example": "She decided to give up smoking for her health.",
       "choices": ["give up", "give in", "give out", "give away"]
     },
     {
       "question": "The meeting was ___ until next week.",
       "answer": "put off",
-      "example": "The meeting was put off until next week.",
       "choices": ["put off", "put on", "put up", "put down"]
     },
     {
       "question": "I need to ___ this word in the dictionary.",
       "answer": "look up",
-      "example": "I need to look up this word in the dictionary.",
       "choices": ["look up", "look for", "look after", "look into"]
     },
     {
       "question": "Please ___ your shoes before entering the house.",
       "answer": "take off",
-      "example": "Please take off your shoes before entering the house.",
       "choices": ["take off", "take on", "take up", "take over"]
     },
     {
       "question": "I ___ at 6 AM every morning.",
       "answer": "wake up",
-      "example": "I wake up at 6 AM every morning.",
       "choices": ["wake up", "get up", "stand up", "grow up"]
     },
     {
       "question": "The plane will ___ in ten minutes.",
       "answer": "take off",
-      "example": "The plane will take off in ten minutes.",
       "choices": ["take off", "take up", "take over", "take down"]
     },
     {
       "question": "Can you ___ the children while I'm at work?",
       "answer": "look after",
-      "example": "Can you look after the children while I'm at work?",
       "choices": ["look after", "look for", "look up", "look into"]
     },
     {
       "question": "I ___ my old friend at the grocery store.",
       "answer": "ran into",
-      "example": "I ran into my old friend at the grocery store.",
       "choices": ["ran into", "ran out", "ran away", "ran over"]
     },
     {
       "question": "They ___ the whole building last month.",
       "answer": "tore down",
-      "example": "They tore down the whole building last month.",
       "choices": ["tore down", "tore up", "tore off", "tore apart"]
     },
     {
       "question": "I need to ___ some money for my vacation.",
       "answer": "save up",
-      "example": "I need to save up some money for my vacation.",
       "choices": ["save up", "give up", "use up", "take up"]
     },
     {
       "question": "Please ___ the TV. I want to watch the news.",
       "answer": "turn on",
-      "example": "Please turn on the TV. I want to watch the news.",
       "choices": ["turn on", "turn off", "turn up", "turn down"]
     },
     {
       "question": "The car ___ of gas on the highway.",
       "answer": "ran out",
-      "example": "The car ran out of gas on the highway.",
       "choices": ["ran out", "ran into", "ran over", "ran away"]
     },
     {
       "question": "I ___ early this morning to go jogging.",
       "answer": "got up",
-      "example": "I got up early this morning to go jogging.",
       "choices": ["got up", "got on", "got off", "got over"]
     },
     {
       "question": "She ___ her jacket because it was cold.",
       "answer": "put on",
-      "example": "She put on her jacket because it was cold.",
       "choices": ["put on", "put off", "put up", "put down"]
     },
     {
       "question": "The teacher asked us to ___ our papers.",
       "answer": "hand in",
-      "example": "The teacher asked us to hand in our papers.",
       "choices": ["hand in", "hand out", "hand over", "hand down"]
     },
     {
       "question": "I ___ my old photos last weekend.",
       "answer": "looked through",
-      "example": "I looked through my old photos last weekend.",
       "choices": ["looked through", "looked for", "looked up", "looked after"]
     },
     {
       "question": "The company will ___ 50 new employees next month.",
       "answer": "take on",
-      "example": "The company will take on 50 new employees next month.",
       "choices": ["take on", "take off", "take up", "take over"]
     },
     {
       "question": "I need to ___ this problem with my manager.",
       "answer": "bring up",
-      "example": "I need to bring up this problem with my manager.",
       "choices": ["bring up", "bring down", "bring out", "bring back"]
     },
     {
       "question": "The fire ___ the entire forest.",
       "answer": "burned down",
-      "example": "The fire burned down the entire forest.",
       "choices": ["burned down", "burned up", "burned out", "burned off"]
     },
     {
       "question": "Can you ___ me at the airport tomorrow?",
       "answer": "pick up",
-      "example": "Can you pick up me at the airport tomorrow?",
       "choices": ["pick up", "pick out", "pick on", "pick over"]
     },
     {
       "question": "I ___ playing tennis when I was young.",
       "answer": "took up",
-      "example": "I took up playing tennis when I was young.",
       "choices": ["took up", "took off", "took on", "took over"]
     },
     {
       "question": "The storm ___ many trees in the park.",
       "answer": "knocked down",
-      "example": "The storm knocked down many trees in the park.",
       "choices": ["knocked down", "knocked out", "knocked over", "knocked up"]
     },
     {
       "question": "I need to ___ this application form.",
       "answer": "fill out",
-      "example": "I need to fill out this application form.",
       "choices": ["fill out", "fill in", "fill up", "fill down"]
     },
     {
       "question": "The concert was ___ due to bad weather.",
       "answer": "called off",
-      "example": "The concert was called off due to bad weather.",
       "choices": ["called off", "called up", "called in", "called out"]
     },
     {
       "question": "She ___ her grandmother every Sunday.",
       "answer": "calls on",
-      "example": "She calls on her grandmother every Sunday.",
       "choices": ["calls on", "calls up", "calls off", "calls out"]
     },
     {
       "question": "I ___ my homework after dinner.",
       "answer": "worked on",
-      "example": "I worked on my homework after dinner.",
       "choices": ["worked on", "worked out", "worked up", "worked over"]
     },
     {
       "question": "The police are ___ the robbery case.",
       "answer": "looking into",
-      "example": "The police are looking into the robbery case.",
       "choices": ["looking into", "looking for", "looking up", "looking after"]
     },
     {
       "question": "I ___ my brother at the train station.",
       "answer": "saw off",
-      "example": "I saw off my brother at the train station.",
       "choices": ["saw off", "saw through", "saw out", "saw over"]
     },
     {
       "question": "The company ___ a new product line.",
       "answer": "brought out",
-      "example": "The company brought out a new product line.",
       "choices": ["brought out", "brought up", "brought in", "brought down"]
     },
     {
       "question": "I need to ___ these documents before the meeting.",
       "answer": "go through",
-      "example": "I need to go through these documents before the meeting.",
       "choices": ["go through", "go over", "go up", "go down"]
     },
     {
       "question": "The price of gas ___ again this month.",
       "answer": "went up",
-      "example": "The price of gas went up again this month.",
       "choices": ["went up", "went down", "went out", "went over"]
     },
     {
       "question": "I ___ my old clothes to charity.",
       "answer": "gave away",
-      "example": "I gave away my old clothes to charity.",
       "choices": ["gave away", "gave up", "gave in", "gave out"]
     },
     {
       "question": "The batteries in my phone ___ yesterday.",
       "answer": "ran down",
-      "example": "The batteries in my phone ran down yesterday.",
       "choices": ["ran down", "ran out", "ran up", "ran over"]
     },
     {
       "question": "I ___ my computer because it was frozen.",
       "answer": "turned off",
-      "example": "I turned off my computer because it was frozen.",
       "choices": ["turned off", "turned on", "turned up", "turned down"]
     },
     {
       "question": "The teacher ___ the exam papers to the students.",
       "answer": "handed out",
-      "example": "The teacher handed out the exam papers to the students.",
       "choices": ["handed out", "handed in", "handed over", "handed down"]
     },
     {
       "question": "I ___ my friend's lie immediately.",
       "answer": "saw through",
-      "example": "I saw through my friend's lie immediately.",
       "choices": ["saw through", "saw off", "saw out", "saw over"]
     },
     {
       "question": "The old factory was ___ to make room for apartments.",
       "answer": "torn down",
-      "example": "The old factory was torn down to make room for apartments.",
       "choices": ["torn down", "torn up", "torn off", "torn apart"]
     },
     {
       "question": "I need to ___ some information about the new policy.",
       "answer": "find out",
-      "example": "I need to find out some information about the new policy.",
       "choices": ["find out", "find up", "find off", "find over"]
     },
     {
       "question": "The rain caused the picnic to be ___.",
       "answer": "called off",
-      "example": "The rain caused the picnic to be called off.",
       "choices": ["called off", "called up", "called in", "called out"]
     },
     {
       "question": "She decided to ___ her old habits.",
       "answer": "break away from",
-      "example": "She decided to break away from her old habits.",
       "choices": ["break away from", "break down", "break up", "break in"]
     },
     {
       "question": "The computer suddenly ___.",
       "answer": "broke down",
-      "example": "The computer suddenly broke down.",
       "choices": ["broke down", "broke up", "broke in", "broke out"]
     },
     {
       "question": "They ___ after five years of marriage.",
       "answer": "broke up",
-      "example": "They broke up after five years of marriage.",
       "choices": ["broke up", "broke down", "broke in", "broke out"]
     },
     {
       "question": "The thief tried to ___ the house.",
       "answer": "break into",
-      "example": "The thief tried to break into the house.",
       "choices": ["break into", "break up", "break down", "break out"]
     },
     {
       "question": "War ___ between the two countries.",
       "answer": "broke out",
-      "example": "War broke out between the two countries.",
       "choices": ["broke out", "broke up", "broke down", "broke in"]
     },
     {
       "question": "Can you ___ me ___ at the mall?",
       "answer": "drop off",
-      "example": "Can you drop me off at the mall?",
       "choices": ["drop off", "drop out", "drop by", "drop in"]
     },
     {
       "question": "He decided to ___ of college.",
       "answer": "drop out",
-      "example": "He decided to drop out of college.",
       "choices": ["drop out", "drop off", "drop by", "drop in"]
     },
     {
       "question": "I'll ___ your house later today.",
       "answer": "drop by",
-      "example": "I'll drop by your house later today.",
       "choices": ["drop by", "drop off", "drop out", "drop in"]
     },
     {
       "question": "The manager will ___ the new employee tomorrow.",
       "answer": "show around",
-      "example": "The manager will show around the new employee tomorrow.",
       "choices": ["show around", "show up", "show off", "show out"]
     },
     {
       "question": "Don't ___ in front of your friends.",
       "answer": "show off",
-      "example": "Don't show off in front of your friends.",
       "choices": ["show off", "show up", "show around", "show out"]
     },
     {
       "question": "She didn't ___ to the party.",
       "answer": "show up",
-      "example": "She didn't show up to the party.",
       "choices": ["show up", "show off", "show around", "show out"]
     },
     {
       "question": "The teacher will ___ the homework tomorrow.",
       "answer": "go over",
-      "example": "The teacher will go over the homework tomorrow.",
       "choices": ["go over", "go up", "go down", "go out"]
     },
     {
       "question": "I ___ with my friends last night.",
       "answer": "hung out",
-      "example": "I hung out with my friends last night.",
       "choices": ["hung out", "hung up", "hung on", "hung over"]
     },
     {
       "question": "Please ___ your dirty clothes.",
       "answer": "hang up",
-      "example": "Please hang up your dirty clothes.",
       "choices": ["hang up", "hang out", "hang on", "hang over"]
     },
     {
       "question": "___ a minute, I'll be right there.",
       "answer": "hang on",
-      "example": "Hang on a minute, I'll be right there.",
       "choices": ["hang on", "hang up", "hang out", "hang over"]
     },
     {
       "question": "The store will ___ next month.",
       "answer": "close down",
-      "example": "The store will close down next month.",
       "choices": ["close down", "close up", "close off", "close out"]
     },
     {
       "question": "The police ___ the road due to an accident.",
       "answer": "closed off",
-      "example": "The police closed off the road due to an accident.",
       "choices": ["closed off", "closed down", "closed up", "closed out"]
     },
     {
       "question": "She ___ her business last year.",
       "answer": "shut down",
-      "example": "She shut down her business last year.",
       "choices": ["shut down", "shut up", "shut off", "shut out"]
     },
     {
       "question": "Please ___ the noise!",
       "answer": "shut up",
-      "example": "Please shut up the noise!",
       "choices": ["shut up", "shut down", "shut off", "shut out"]
     },
     {
       "question": "Don't forget to ___ the lights.",
       "answer": "shut off",
-      "example": "Don't forget to shut off the lights.",
       "choices": ["shut off", "shut down", "shut up", "shut out"]
     },
     {
       "question": "I need to ___ this mess.",
       "answer": "clean up",
-      "example": "I need to clean up this mess.",
       "choices": ["clean up", "clean out", "clean off", "clean down"]
     },
     {
       "question": "She ___ her closet yesterday.",
       "answer": "cleaned out",
-      "example": "She cleaned out her closet yesterday.",
       "choices": ["cleaned out", "cleaned up", "cleaned off", "cleaned down"]
     },
     {
       "question": "The project ___ successfully.",
       "answer": "worked out",
-      "example": "The project worked out successfully.",
       "choices": ["worked out", "worked up", "worked on", "worked over"]
     },
     {
       "question": "I ___ at the gym every morning.",
       "answer": "work out",
-      "example": "I work out at the gym every morning.",
       "choices": ["work out", "work up", "work on", "work over"]
     },
     {
       "question": "The kids are ___ too much energy.",
       "answer": "working off",
-      "example": "The kids are working off too much energy.",
       "choices": ["working off", "working out", "working up", "working on"]
     },
     {
       "question": "We need to ___ a solution to this problem.",
       "answer": "come up with",
-      "example": "We need to come up with a solution to this problem.",
       "choices": [
         "come up with",
         "come down with",
@@ -418,7 +350,6 @@
     {
       "question": "I think I'm ___ a cold.",
       "answer": "coming down with",
-      "example": "I think I'm coming down with a cold.",
       "choices": [
         "coming down with",
         "coming up with",
@@ -429,7 +360,6 @@
     {
       "question": "The company will ___ a new product next month.",
       "answer": "come out with",
-      "example": "The company will come out with a new product next month.",
       "choices": [
         "come out with",
         "come up with",
@@ -440,67 +370,56 @@
     {
       "question": "Would you like to ___ for dinner?",
       "answer": "come over",
-      "example": "Would you like to come over for dinner?",
       "choices": ["come over", "come up", "come down", "come out"]
     },
     {
       "question": "The truth will ___ eventually.",
       "answer": "come out",
-      "example": "The truth will come out eventually.",
       "choices": ["come out", "come up", "come down", "come over"]
     },
     {
       "question": "This topic ___ in every meeting.",
       "answer": "comes up",
-      "example": "This topic comes up in every meeting.",
       "choices": ["comes up", "comes down", "comes out", "comes over"]
     },
     {
       "question": "I need to ___ my notes before the exam.",
       "answer": "look over",
-      "example": "I need to look over my notes before the exam.",
       "choices": ["look over", "look up", "look down", "look out"]
     },
     {
       "question": "___ ! There's a car coming.",
       "answer": "look out",
-      "example": "Look out! There's a car coming.",
       "choices": ["look out", "look up", "look down", "look over"]
     },
     {
       "question": "He ___ his father in many ways.",
       "answer": "takes after",
-      "example": "He takes after his father in many ways.",
       "choices": ["takes after", "takes up", "takes down", "takes over"]
     },
     {
       "question": "I ___ what I said about him.",
       "answer": "take back",
-      "example": "I take back what I said about him.",
       "choices": ["take back", "take up", "take down", "take over"]
     },
     {
       "question": "The CEO will ___ next month.",
       "answer": "step down",
-      "example": "The CEO will step down next month.",
       "choices": ["step down", "step up", "step out", "step in"]
     },
     {
       "question": "Someone needs to ___ and take responsibility.",
       "answer": "step up",
-      "example": "Someone needs to step up and take responsibility.",
       "choices": ["step up", "step down", "step out", "step in"]
     },
     {
       "question": "I need to ___ for a moment.",
       "answer": "step out",
-      "example": "I need to step out for a moment.",
       "choices": ["step out", "step up", "step down", "step in"]
     },
     {
       "question": "The substitute teacher will ___ today.",
       "answer": "step in",
-      "example": "The substitute teacher will step in today.",
       "choices": ["step in", "step up", "step down", "step out"]
     }
   ],
