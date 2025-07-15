@@ -30,4 +30,8 @@ const { slug, questionsDB }: Props = Astro.props;
   id={slug}
   title={questionsDB.title!}
   db={questionsDB.questions}
-/>
+>
+  <Fragment slot={"head"}>
+    <meta name="description" content={questionsDB.title} />
+  </Fragment>
+</MultiChoiceLayout>
