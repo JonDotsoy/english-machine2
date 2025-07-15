@@ -1,0 +1,33 @@
+// Types generated to match schema.json for the questions database
+
+/**
+ * Represents a single question entry as defined in schema.json.
+ *
+ * @property question - The question in English.
+ * @property answer - The correct answer to the question.
+ * @property example - (Optional) Example usage of the answer.
+ * @property slug - (Optional) Unique identifier for the question.
+ * @property choices - (Optional) Answer choices for the question.
+ */
+export type Question = {
+  question: string;
+  answer: string;
+  example?: string;
+  choices?: string[];
+};
+
+/**
+ * Represents the root object for a questions database file as defined in schema.json.
+ *
+ * @property $schema - Path to the schema file used to validate this database file.
+ * @property title - Descriptive title for the question set.
+ * @property language - Language of the questions, answers, and examples. Must be 'en'.
+ * @property questions - List of questions with their answers and examples.
+ */
+export type QuestionsDB = {
+  $schema?: string;
+  title?: string;
+  slug?: string;
+  language?: string;
+  questions: Question[];
+};
