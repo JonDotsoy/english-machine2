@@ -1,0 +1,258 @@
+{
+  "$schema": "./schema.json",
+  "title": "This vs That Practice",
+  "slug": "this-that-practice",
+  "language": "en",
+  "questions": [
+    {
+      "question": "___ is my pen.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is your book over there.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is a big problem.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is my favorite song.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the car we rented last week.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is delicious!",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the movie we watched last night.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is my friend from Spain.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the hotel where we stayed.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is easy to understand.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the mountain we climbed.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is my new phone.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the restaurant we loved.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is too heavy to carry.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the train we need to catch.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is a great opportunity.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the bag you forgot.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is my seat.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the building he owns.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is quite interesting.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the girl I met.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is my coffee.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the book you were asking about.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is amazing!",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the bus we take every day.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is my hometown.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the project we completed.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is really helpful.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the field where we play soccer.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is my favorite chair.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the market we visited.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is very expensive.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the path we followed.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is my new address.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the video you sent me.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is absolutely true.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the problem we must solve.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is my little brother.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the meeting room.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is quite tasty.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the lake we swam in.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is my wallet.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the computer I want.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is very kind of you.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the stadium we visited.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is my first car.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the train station.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is just perfect.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is the store I mentioned.",
+      "answer": "that",
+      "choices": ["this", "that"]
+    },
+    {
+      "question": "___ is my favorite part.",
+      "answer": "this",
+      "choices": ["this", "that"]
+    }
+  ]
+}
