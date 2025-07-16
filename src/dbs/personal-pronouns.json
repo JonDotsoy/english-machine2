@@ -1,0 +1,308 @@
+{
+  "$schema": "./schema.json",
+  "title": "Personal Pronouns Practice",
+  "slug": "personal-pronouns",
+  "language": "en",
+  "questions": [
+    {
+      "question": "___ am happy.",
+      "answer": "I",
+      "choices": ["I", "You", "He", "She", "It", "They"]
+    },
+    {
+      "question": "___ are my friend.",
+      "answer": "You",
+      "choices": ["You", "I", "He", "She", "We", "They"]
+    },
+    {
+      "question": "Carlos is tired. ___ wants to rest.",
+      "answer": "He",
+      "choices": ["He", "She", "It", "I", "You", "We"]
+    },
+    {
+      "question": "Maria is a teacher. ___ is kind.",
+      "answer": "She",
+      "choices": ["She", "He", "It", "I", "You", "We"]
+    },
+    {
+      "question": "The cat is sleeping. ___ is quiet.",
+      "answer": "It",
+      "choices": ["It", "He", "She", "I", "You", "We"]
+    },
+    {
+      "question": "Sarah and I are here. ___ are waiting.",
+      "answer": "We",
+      "choices": ["We", "They", "You", "He", "She", "It"]
+    },
+    {
+      "question": "John and Mary are neighbors. ___ are friendly.",
+      "answer": "They",
+      "choices": ["They", "We", "You", "He", "She", "It"]
+    },
+    {
+      "question": "Peter, will ___ come with us?",
+      "answer": "you",
+      "choices": ["you", "I", "he", "she", "we", "they"]
+    },
+    {
+      "question": "My sister loves to read. ___ spends hours with books.",
+      "answer": "She",
+      "choices": ["She", "He", "It", "I", "You", "We"]
+    },
+    {
+      "question": "This is my brother. ___ is from Canada.",
+      "answer": "He",
+      "choices": ["He", "She", "It", "I", "You", "They"]
+    },
+    {
+      "question": "Mark and I are going to the party. ___ are excited.",
+      "answer": "We",
+      "choices": ["We", "They", "You", "He", "She", "It"]
+    },
+    {
+      "question": "Isabella is my best friend. ___ is very funny.",
+      "answer": "She",
+      "choices": ["She", "He", "You", "I", "It", "They"]
+    },
+    {
+      "question": "The dog is barking loudly. ___ wants attention.",
+      "answer": "It",
+      "choices": ["It", "He", "She", "They", "I", "You"]
+    },
+    {
+      "question": "Tom, ___ should finish your homework.",
+      "answer": "you",
+      "choices": ["you", "I", "he", "she", "we", "they"]
+    },
+    {
+      "question": "My parents are on vacation. ___ are in Italy.",
+      "answer": "They",
+      "choices": ["They", "We", "You", "He", "She", "It"]
+    },
+    {
+      "question": "Anna and Pedro, ___ will join us later?",
+      "answer": "you",
+      "choices": ["you", "we", "they", "he", "she", "it"]
+    },
+    {
+      "question": "The weather is nice today. ___ is sunny.",
+      "answer": "It",
+      "choices": ["It", "He", "She", "They", "You", "We"]
+    },
+    {
+      "question": "Lucy is calling you. ___ needs help.",
+      "answer": "She",
+      "choices": ["She", "He", "It", "I", "You", "We"]
+    },
+    {
+      "question": "David and Sam are late. ___ will be here soon.",
+      "answer": "They",
+      "choices": ["They", "We", "You", "He", "She", "It"]
+    },
+    {
+      "question": "My phone is on the table. ___ is new.",
+      "answer": "It",
+      "choices": ["It", "He", "She", "They", "I", "You"]
+    },
+    {
+      "question": "Sarah loves ice cream. ___ eats it every day.",
+      "answer": "She",
+      "choices": ["She", "He", "You", "I", "They", "It"]
+    },
+    {
+      "question": "Mike, can ___ help me with this?",
+      "answer": "you",
+      "choices": ["you", "I", "he", "she", "we", "they"]
+    },
+    {
+      "question": "My brother and I play soccer. ___ practice a lot.",
+      "answer": "We",
+      "choices": ["We", "They", "You", "He", "She", "It"]
+    },
+    {
+      "question": "The flowers are blooming. ___ look beautiful.",
+      "answer": "They",
+      "choices": ["They", "It", "He", "She", "We", "You"]
+    },
+    {
+      "question": "Paul is my neighbor. ___ lives next door.",
+      "answer": "He",
+      "choices": ["He", "She", "You", "I", "It", "They"]
+    },
+    {
+      "question": "Emily and her sister are musicians. ___ play guitar.",
+      "answer": "They",
+      "choices": ["They", "We", "You", "He", "She", "It"]
+    },
+    {
+      "question": "The book is open. ___ is interesting.",
+      "answer": "It",
+      "choices": ["It", "He", "She", "I", "You", "They"]
+    },
+    {
+      "question": "___ have a meeting at noon.",
+      "answer": "I",
+      "choices": ["I", "You", "He", "She", "We", "They"]
+    },
+    {
+      "question": "Sophie is an artist. ___ paints beautifully.",
+      "answer": "She",
+      "choices": ["She", "He", "You", "I", "They", "It"]
+    },
+    {
+      "question": "Andrew and I will visit soon. ___ can't wait.",
+      "answer": "We",
+      "choices": ["We", "They", "You", "He", "She", "It"]
+    },
+    {
+      "question": "The cat and dog are friends. ___ play together.",
+      "answer": "They",
+      "choices": ["They", "We", "It", "He", "She", "You"]
+    },
+    {
+      "question": "Your teacher is here. ___ wants to see you.",
+      "answer": "He",
+      "choices": ["He", "She", "They", "You", "It", "We"]
+    },
+    {
+      "question": "That computer is slow. ___ needs an update.",
+      "answer": "It",
+      "choices": ["It", "He", "She", "They", "I", "You"]
+    },
+    {
+      "question": "The kids are hungry. ___ want lunch.",
+      "answer": "They",
+      "choices": ["They", "We", "You", "He", "She", "It"]
+    },
+    {
+      "question": "The cake is delicious. ___ tastes great.",
+      "answer": "It",
+      "choices": ["It", "He", "She", "They", "I", "You"]
+    },
+    {
+      "question": "My friends and I study daily. ___ are very diligent.",
+      "answer": "We",
+      "choices": ["We", "They", "You", "He", "She", "It"]
+    },
+    {
+      "question": "James is on the phone. ___ is talking to his boss.",
+      "answer": "He",
+      "choices": ["He", "She", "You", "I", "It", "They"]
+    },
+    {
+      "question": "Lisa, when will ___ arrive?",
+      "answer": "you",
+      "choices": ["you", "I", "he", "she", "we", "they"]
+    },
+    {
+      "question": "The house is old. ___ needs repairs.",
+      "answer": "It",
+      "choices": ["It", "He", "She", "They", "You", "We"]
+    },
+    {
+      "question": "The birds are chirping. ___ sound lovely.",
+      "answer": "They",
+      "choices": ["They", "It", "He", "She", "You", "We"]
+    },
+    {
+      "question": "My grandparents live nearby. ___ visit often.",
+      "answer": "They",
+      "choices": ["They", "We", "You", "He", "She", "It"]
+    },
+    {
+      "question": "Emma and Liam are siblings. ___ share a room.",
+      "answer": "They",
+      "choices": ["They", "We", "You", "He", "She", "It"]
+    },
+    {
+      "question": "The chair is broken. ___ is missing a leg.",
+      "answer": "It",
+      "choices": ["It", "He", "She", "They", "I", "You"]
+    },
+    {
+      "question": "Rita likes to dance. ___ practices every weekend.",
+      "answer": "She",
+      "choices": ["She", "He", "You", "I", "They", "It"]
+    },
+    {
+      "question": "The movie is long. ___ lasts three hours.",
+      "answer": "It",
+      "choices": ["It", "He", "She", "They", "You", "We"]
+    },
+    {
+      "question": "Tom and Jerry are characters. ___ are famous.",
+      "answer": "They",
+      "choices": ["They", "We", "You", "He", "She", "It"]
+    },
+    {
+      "question": "The milk is cold. ___ is in the fridge.",
+      "answer": "It",
+      "choices": ["It", "He", "She", "They", "I", "You"]
+    },
+    {
+      "question": "John, ___ are very talented.",
+      "answer": "you",
+      "choices": ["you", "I", "he", "she", "we", "they"]
+    },
+    {
+      "question": "The students are studying. ___ have a test tomorrow.",
+      "answer": "They",
+      "choices": ["They", "We", "You", "He", "She", "It"]
+    },
+    {
+      "question": "Our dog is friendly. ___ loves everyone.",
+      "answer": "It",
+      "choices": ["It", "He", "She", "They", "I", "You"]
+    },
+    {
+      "question": "This table is heavy. ___ is made of wood.",
+      "answer": "It",
+      "choices": ["It", "He", "She", "They", "You", "We"]
+    },
+    {
+      "question": "Susan and Mark are doctors. ___ work at the hospital.",
+      "answer": "They",
+      "choices": ["They", "We", "You", "He", "She", "It"]
+    },
+    {
+      "question": "The soup is hot. ___ smells good.",
+      "answer": "It",
+      "choices": ["It", "He", "She", "They", "I", "You"]
+    },
+    {
+      "question": "Thomas is reading a book. ___ enjoys mysteries.",
+      "answer": "He",
+      "choices": ["He", "She", "You", "I", "They", "It"]
+    },
+    {
+      "question": "Julia and I like hiking. ___ go every weekend.",
+      "answer": "We",
+      "choices": ["We", "They", "You", "He", "She", "It"]
+    },
+    {
+      "question": "The tree is tall. ___ provides shade.",
+      "answer": "It",
+      "choices": ["It", "He", "She", "They", "You", "We"]
+    },
+    {
+      "question": "Dogs are loyal pets. ___ make great companions.",
+      "answer": "They",
+      "choices": ["They", "We", "You", "He", "She", "It"]
+    },
+    {
+      "question": "My cousin is visiting. ___ will stay for a week.",
+      "answer": "He",
+      "choices": ["He", "She", "They", "You", "I", "We"]
+    },
+    {
+      "question": "Maria, ___ always bring joy.",
+      "answer": "you",
+      "choices": ["you", "I", "he", "she", "we", "they"]
+    },
+    {
+      "question": "The car is fast. ___ can reach high speeds.",
+      "answer": "It",
+      "choices": ["It", "He", "She", "They", "You", "We"]
+    }
+  ]
+}
