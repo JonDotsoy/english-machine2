@@ -1,0 +1,113 @@
+{
+  "$schema": "./schema.json",
+  "title": "Verb 'to be' Practice",
+  "slug": "verb-to-be",
+  "language": "en",
+  "questions": [
+    {
+      "question": "I ____ happy.",
+      "answer": "am",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "She ____ a teacher.",
+      "answer": "is",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "They ____ friends.",
+      "answer": "are",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "We ____ ready.",
+      "answer": "are",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "He ____ at home.",
+      "answer": "is",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "You ____ late.",
+      "answer": "are",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "It ____ cold today.",
+      "answer": "is",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "The dogs ____ hungry.",
+      "answer": "are",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "She and I ____ best friends.",
+      "answer": "are",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "This ____ my book.",
+      "answer": "is",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "I ____ not hungry.",
+      "answer": "am",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "He ____ a doctor.",
+      "answer": "is",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "We ____ excited about the trip.",
+      "answer": "are",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "The cat ____ on the roof.",
+      "answer": "is",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "You ____ my best friend.",
+      "answer": "are",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "The sky ____ blue.",
+      "answer": "is",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "They ____ at the beach.",
+      "answer": "are",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "That ____ not correct.",
+      "answer": "is",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "The students ____ ready.",
+      "answer": "are",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "This ____ my brother.",
+      "answer": "is",
+      "choices": ["am", "is", "are", "be"]
+    },
+    {
+      "question": "The books ____ on the table.",
+      "answer": "are",
+      "choices": ["am", "is", "are", "be"]
+    }
+  ]
+}
