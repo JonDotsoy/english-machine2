@@ -1,0 +1,393 @@
+{
+  "$schema": "./schema.json",
+  "language": "en",
+  "questions": [
+    {
+      "question": "She ____ (not walk) to school yesterday.",
+      "answer": "didn't walk",
+      "choices": ["didn't walk", "didn't walked", "don't walk", "doesn't walk"]
+    },
+    {
+      "question": "They ____ (not play) football last weekend.",
+      "answer": "didn't play",
+      "choices": ["didn't play", "didn't played", "don't play", "doesn't play"]
+    },
+    {
+      "question": "I ____ (not like) the movie.",
+      "answer": "didn't like",
+      "choices": ["didn't like", "didn't likeed", "don't like", "doesn't like"]
+    },
+    {
+      "question": "He ____ (not go) to the party last night.",
+      "answer": "didn't go",
+      "choices": ["didn't go", "didn't goed", "don't go", "doesn't go"]
+    },
+    {
+      "question": "We ____ (not read) that book last year.",
+      "answer": "didn't read",
+      "choices": ["didn't read", "didn't readed", "don't read", "doesn't read"]
+    },
+    {
+      "question": "You ____ (not see) him yesterday.",
+      "answer": "didn't see",
+      "choices": ["didn't see", "didn't seeed", "don't see", "doesn't see"]
+    },
+    {
+      "question": "The students ____ (not study) for the exam.",
+      "answer": "didn't study",
+      "choices": [
+        "didn't study",
+        "didn't studyed",
+        "don't study",
+        "doesn't study"
+      ]
+    },
+    {
+      "question": "My parents ____ (not buy) a new car last month.",
+      "answer": "didn't buy",
+      "choices": ["didn't buy", "didn't buyed", "don't buy", "doesn't buy"]
+    },
+    {
+      "question": "The teacher ____ (not give) homework last Friday.",
+      "answer": "didn't give",
+      "choices": ["didn't give", "didn't giveed", "don't give", "doesn't give"]
+    },
+    {
+      "question": "Our team ____ (not win) the match.",
+      "answer": "didn't win",
+      "choices": ["didn't win", "didn't wined", "don't win", "doesn't win"]
+    },
+    {
+      "question": "My sister ____ (not eat) breakfast this morning.",
+      "answer": "didn't eat",
+      "choices": ["didn't eat", "didn't eated", "don't eat", "doesn't eat"]
+    },
+    {
+      "question": "His friends ____ (not come) to the concert.",
+      "answer": "didn't come",
+      "choices": ["didn't come", "didn't comeed", "don't come", "doesn't come"]
+    },
+    {
+      "question": "The children ____ (not play) outside because it rained.",
+      "answer": "didn't play",
+      "choices": ["didn't play", "didn't played", "don't play", "doesn't play"]
+    },
+    {
+      "question": "The cat ____ (not chase) the mouse last night.",
+      "answer": "didn't chase",
+      "choices": [
+        "didn't chase",
+        "didn't chaseed",
+        "don't chase",
+        "doesn't chase"
+      ]
+    },
+    {
+      "question": "The dog ____ (not bark) at the mailman yesterday.",
+      "answer": "didn't bark",
+      "choices": ["didn't bark", "didn't barked", "don't bark", "doesn't bark"]
+    },
+    {
+      "question": "Their family ____ (not visit) the museum last summer.",
+      "answer": "didn't visit",
+      "choices": [
+        "didn't visit",
+        "didn't visited",
+        "don't visit",
+        "doesn't visit"
+      ]
+    },
+    {
+      "question": "The workers ____ (not finish) the project on time.",
+      "answer": "didn't finish",
+      "choices": [
+        "didn't finish",
+        "didn't finished",
+        "don't finish",
+        "doesn't finish"
+      ]
+    },
+    {
+      "question": "The neighbors ____ (not hear) the alarm.",
+      "answer": "didn't hear",
+      "choices": ["didn't hear", "didn't heared", "don't hear", "doesn't hear"]
+    },
+    {
+      "question": "Her colleagues ____ (not attend) the meeting.",
+      "answer": "didn't attend",
+      "choices": [
+        "didn't attend",
+        "didn't attended",
+        "don't attend",
+        "doesn't attend"
+      ]
+    },
+    {
+      "question": "Our boss ____ (not approve) the plan.",
+      "answer": "didn't approve",
+      "choices": [
+        "didn't approve",
+        "didn't approveed",
+        "don't approve",
+        "doesn't approve"
+      ]
+    },
+    {
+      "question": "My friend ____ (not call) me back yesterday.",
+      "answer": "didn't call",
+      "choices": ["didn't call", "didn't called", "don't call", "doesn't call"]
+    },
+    {
+      "question": "The scientist ____ (not publish) the study.",
+      "answer": "didn't publish",
+      "choices": [
+        "didn't publish",
+        "didn't published",
+        "don't publish",
+        "doesn't publish"
+      ]
+    },
+    {
+      "question": "The artist ____ (not paint) anything last week.",
+      "answer": "didn't paint",
+      "choices": [
+        "didn't paint",
+        "didn't painted",
+        "don't paint",
+        "doesn't paint"
+      ]
+    },
+    {
+      "question": "The chef ____ (not cook) dinner last night.",
+      "answer": "didn't cook",
+      "choices": ["didn't cook", "didn't cooked", "don't cook", "doesn't cook"]
+    },
+    {
+      "question": "The doctor ____ (not see) patients on Sunday.",
+      "answer": "didn't see",
+      "choices": ["didn't see", "didn't seeed", "don't see", "doesn't see"]
+    },
+    {
+      "question": "The nurse ____ (not check) the room.",
+      "answer": "didn't check",
+      "choices": [
+        "didn't check",
+        "didn't checked",
+        "don't check",
+        "doesn't check"
+      ]
+    },
+    {
+      "question": "The baby ____ (not sleep) well last night.",
+      "answer": "didn't sleep",
+      "choices": [
+        "didn't sleep",
+        "didn't sleeped",
+        "don't sleep",
+        "doesn't sleep"
+      ]
+    },
+    {
+      "question": "The tourists ____ (not visit) the museum yesterday.",
+      "answer": "didn't visit",
+      "choices": [
+        "didn't visit",
+        "didn't visited",
+        "don't visit",
+        "doesn't visit"
+      ]
+    },
+    {
+      "question": "The police ____ (not catch) the thief.",
+      "answer": "didn't catch",
+      "choices": [
+        "didn't catch",
+        "didn't catched",
+        "don't catch",
+        "doesn't catch"
+      ]
+    },
+    {
+      "question": "The manager ____ (not schedule) the meeting.",
+      "answer": "didn't schedule",
+      "choices": [
+        "didn't schedule",
+        "didn't scheduleed",
+        "don't schedule",
+        "doesn't schedule"
+      ]
+    },
+    {
+      "question": "The engineer ____ (not design) the bridge.",
+      "answer": "didn't design",
+      "choices": [
+        "didn't design",
+        "didn't designed",
+        "don't design",
+        "doesn't design"
+      ]
+    },
+    {
+      "question": "The pilot ____ (not fly) because of the storm.",
+      "answer": "didn't fly",
+      "choices": ["didn't fly", "didn't flyed", "don't fly", "doesn't fly"]
+    },
+    {
+      "question": "The farmer ____ (not plant) corn this year.",
+      "answer": "didn't plant",
+      "choices": [
+        "didn't plant",
+        "didn't planted",
+        "don't plant",
+        "doesn't plant"
+      ]
+    },
+    {
+      "question": "The dancer ____ (not practice) yesterday.",
+      "answer": "didn't practice",
+      "choices": [
+        "didn't practice",
+        "didn't practiceed",
+        "don't practice",
+        "doesn't practice"
+      ]
+    },
+    {
+      "question": "The singer ____ (not perform) at the show.",
+      "answer": "didn't perform",
+      "choices": [
+        "didn't perform",
+        "didn't performed",
+        "don't perform",
+        "doesn't perform"
+      ]
+    },
+    {
+      "question": "The actor ____ (not appear) in the movie.",
+      "answer": "didn't appear",
+      "choices": [
+        "didn't appear",
+        "didn't appeared",
+        "don't appear",
+        "doesn't appear"
+      ]
+    },
+    {
+      "question": "The writer ____ (not finish) the book.",
+      "answer": "didn't finish",
+      "choices": [
+        "didn't finish",
+        "didn't finished",
+        "don't finish",
+        "doesn't finish"
+      ]
+    },
+    {
+      "question": "The painter ____ (not complete) the portrait.",
+      "answer": "didn't complete",
+      "choices": [
+        "didn't complete",
+        "didn't completeed",
+        "don't complete",
+        "doesn't complete"
+      ]
+    },
+    {
+      "question": "The photographer ____ (not take) pictures.",
+      "answer": "didn't take",
+      "choices": ["didn't take", "didn't takeed", "don't take", "doesn't take"]
+    },
+    {
+      "question": "The driver ____ (not stop) at the sign.",
+      "answer": "didn't stop",
+      "choices": ["didn't stop", "didn't stoped", "don't stop", "doesn't stop"]
+    },
+    {
+      "question": "The programmer ____ (not fix) the bug.",
+      "answer": "didn't fix",
+      "choices": ["didn't fix", "didn't fixed", "don't fix", "doesn't fix"]
+    },
+    {
+      "question": "The analyst ____ (not report) the results.",
+      "answer": "didn't report",
+      "choices": [
+        "didn't report",
+        "didn't reported",
+        "don't report",
+        "doesn't report"
+      ]
+    },
+    {
+      "question": "The designer ____ (not update) the logo.",
+      "answer": "didn't update",
+      "choices": [
+        "didn't update",
+        "didn't updateed",
+        "don't update",
+        "doesn't update"
+      ]
+    },
+    {
+      "question": "The consultant ____ (not recommend) that solution.",
+      "answer": "didn't recommend",
+      "choices": [
+        "didn't recommend",
+        "didn't recommended",
+        "don't recommend",
+        "doesn't recommend"
+      ]
+    },
+    {
+      "question": "The receptionist ____ (not answer) the phone.",
+      "answer": "didn't answer",
+      "choices": [
+        "didn't answer",
+        "didn't answered",
+        "don't answer",
+        "doesn't answer"
+      ]
+    },
+    {
+      "question": "The agent ____ (not sell) the house.",
+      "answer": "didn't sell",
+      "choices": ["didn't sell", "didn't selled", "don't sell", "doesn't sell"]
+    },
+    {
+      "question": "The host ____ (not greet) the guests.",
+      "answer": "didn't greet",
+      "choices": [
+        "didn't greet",
+        "didn't greeted",
+        "don't greet",
+        "doesn't greet"
+      ]
+    },
+    {
+      "question": "The guest ____ (not enjoy) the meal.",
+      "answer": "didn't enjoy",
+      "choices": [
+        "didn't enjoy",
+        "didn't enjoyed",
+        "don't enjoy",
+        "doesn't enjoy"
+      ]
+    },
+    {
+      "question": "The audience ____ (not clap) after the speech.",
+      "answer": "didn't clap",
+      "choices": ["didn't clap", "didn't claped", "don't clap", "doesn't clap"]
+    },
+    {
+      "question": "The crowd ____ (not cheer) at the game.",
+      "answer": "didn't cheer",
+      "choices": [
+        "didn't cheer",
+        "didn't cheered",
+        "don't cheer",
+        "doesn't cheer"
+      ]
+    }
+  ],
+  "slug": "past-simple-negative",
+  "title": "Past Simple Negative"
+}
