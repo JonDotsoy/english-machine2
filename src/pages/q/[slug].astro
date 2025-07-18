@@ -12,7 +12,13 @@ interface Props {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const f = filterQuestionsDB(await Astro.glob("../../dbs/*.json"));
+  const f = filterQuestionsDB(
+    await Array.fromAsync(
+      Object.values(await import.meta.glob("../../dbs/*.json")),
+      async (e) => ((await e()) as any).default as QuestionsDB,
+    ),
+    true, // Show private questions
+  );
 
   return f.map((questionsDB) => ({
     params: { slug: questionsDB.slug },

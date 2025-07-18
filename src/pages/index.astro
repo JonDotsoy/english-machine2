@@ -4,7 +4,10 @@ import Layout from "../layouts/Layout.astro";
 import { filterQuestionsDB } from "@/utils/filterQuestionsDB";
 
 const questionFiles: QuestionsDB[] = filterQuestionsDB(
-  await Astro.glob(`../dbs/*.json`),
+  await Array.fromAsync(
+    Object.values(await import.meta.glob(`../dbs/*.json`)),
+    async (e) => ((await e()) as any).default as QuestionsDB,
+  ),
 );
 ---
 

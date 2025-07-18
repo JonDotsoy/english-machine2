@@ -27,6 +27,7 @@ export type Question = {
  * @property questions - List of questions with their answers and examples.
  */
 export type QuestionsDB = {
+  private?: boolean; // Added private property to match schema
   $schema?: string;
   title?: string;
   slug?: string;

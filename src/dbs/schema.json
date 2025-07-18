@@ -18,6 +18,12 @@
       "title": "Slug",
       "description": "Unique identifier for the question set."
     },
+    "private": {
+      "type": "boolean",
+      "title": "Private",
+      "description": "If true, this question set is hidden from the public listing.",
+      "default": false
+    },
     "language": {
       "type": "string",
       "title": "Lenguaje",
