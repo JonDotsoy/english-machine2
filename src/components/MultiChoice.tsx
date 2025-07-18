@@ -161,7 +161,7 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
         <div className="space-y-2">
           {currentQuestion.shuffledChoices.map((choice, index) => (
             <Button
-              key={choice}
+              key={`${choice}-${index}`}
               onClick={() => handleAnswerSelect(choice)}
               variant={getButtonVariant(choice)}
               className={getButtonClassName(choice)}
