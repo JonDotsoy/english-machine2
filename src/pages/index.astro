@@ -2,9 +2,10 @@
 import type { QuestionsDB } from "@/components/dto/question";
 import Layout from "../layouts/Layout.astro";
 import { filterQuestionsDB } from "@/utils/filterQuestionsDB";
+import { arrayFromAsync } from "@/lib/arrayFromAsync";
 
 const questionFiles: QuestionsDB[] = filterQuestionsDB(
-  await Array.fromAsync(
+  await arrayFromAsync(
     Object.values(await import.meta.glob(`../dbs/*.json`)),
     async (e) => ((await e()) as any).default as QuestionsDB,
   ),

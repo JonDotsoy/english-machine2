@@ -1,6 +1,7 @@
 ---
 import type { Question, QuestionsDB } from "@/components/dto/question";
 import MultiChoiceLayout from "@/layouts/MultiChoiceLayout.astro";
+import { arrayFromAsync } from "@/lib/arrayFromAsync";
 import { filterQuestionsDB } from "@/utils/filterQuestionsDB";
 import type { GetStaticPaths } from "astro";
 
@@ -13,7 +14,7 @@ interface Props {
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const f = filterQuestionsDB(
-    await Array.fromAsync(
+    await arrayFromAsync(
       Object.values(await import.meta.glob("../../dbs/*.json")),
       async (e) => ((await e()) as any).default as QuestionsDB,
     ),
