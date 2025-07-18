@@ -1,0 +1,118 @@
+{
+  "$schema": "./schema.json",
+  "title": "Negative Imperative Practice",
+  "slug": "negative-imperative",
+  "language": "en",
+  "questions": [
+    {
+      "question": "____ (eat) in class.",
+      "answer": "Don't eat",
+      "choices": ["Don't eat", "Don't eats", "Doesn't eat", "Eat not"]
+    },
+    {
+      "question": "____ (run) in the hall.",
+      "answer": "Don't run",
+      "choices": ["Don't run", "Don't runs", "Doesn't run", "Run not"]
+    },
+    {
+      "question": "____ (speak) during the movie.",
+      "answer": "Don't speak",
+      "choices": ["Don't speak", "Don't speaks", "Doesn't speak", "Speak not"]
+    },
+    {
+      "question": "____ (touch) that button.",
+      "answer": "Don't touch",
+      "choices": ["Don't touch", "Don't touches", "Doesn't touch", "Touch not"]
+    },
+    {
+      "question": "____ (forget) your homework.",
+      "answer": "Don't forget",
+      "choices": [
+        "Don't forget",
+        "Don't forgets",
+        "Doesn't forget",
+        "Forget not"
+      ]
+    },
+    {
+      "question": "____ (tell) lies.",
+      "answer": "Don't tell",
+      "choices": ["Don't tell", "Don't tells", "Doesn't tell", "Tell not"]
+    },
+    {
+      "question": "____ (open) the window.",
+      "answer": "Don't open",
+      "choices": ["Don't open", "Don't opens", "Doesn't open", "Open not"]
+    },
+    {
+      "question": "____ (use) your phone.",
+      "answer": "Don't use",
+      "choices": ["Don't use", "Don't uses", "Doesn't use", "Use not"]
+    },
+    {
+      "question": "____ (shout) at me.",
+      "answer": "Don't shout",
+      "choices": ["Don't shout", "Don't shouts", "Doesn't shout", "Shout not"]
+    },
+    {
+      "question": "____ (turn) the TV on.",
+      "answer": "Don't turn",
+      "choices": ["Don't turn", "Don't turns", "Doesn't turn", "Turn not"]
+    },
+    {
+      "question": "____ (drink) that water.",
+      "answer": "Don't drink",
+      "choices": ["Don't drink", "Don't drinks", "Doesn't drink", "Drink not"]
+    },
+    {
+      "question": "____ (fight) with your sister.",
+      "answer": "Don't fight",
+      "choices": ["Don't fight", "Don't fights", "Doesn't fight", "Fight not"]
+    },
+    {
+      "question": "____ (drop) the glass.",
+      "answer": "Don't drop",
+      "choices": ["Don't drop", "Don't drops", "Doesn't drop", "Drop not"]
+    },
+    {
+      "question": "____ (leave) your shoes here.",
+      "answer": "Don't leave",
+      "choices": ["Don't leave", "Don't leaves", "Doesn't leave", "Leave not"]
+    },
+    {
+      "question": "____ (forget) to lock the door.",
+      "answer": "Don't forget",
+      "choices": [
+        "Don't forget",
+        "Don't forgets",
+        "Doesn't forget",
+        "Forget not"
+      ]
+    },
+    {
+      "question": "____ (worry) about it.",
+      "answer": "Don't worry",
+      "choices": ["Don't worry", "Don't worries", "Doesn't worry", "Worry not"]
+    },
+    {
+      "question": "____ (make) a mess.",
+      "answer": "Don't make",
+      "choices": ["Don't make", "Don't makes", "Doesn't make", "Make not"]
+    },
+    {
+      "question": "____ (lose) the key.",
+      "answer": "Don't lose",
+      "choices": ["Don't lose", "Don't loses", "Doesn't lose", "Lose not"]
+    },
+    {
+      "question": "____ (drive) so fast.",
+      "answer": "Don't drive",
+      "choices": ["Don't drive", "Don't drives", "Doesn't drive", "Drive not"]
+    },
+    {
+      "question": "____ (sit) there.",
+      "answer": "Don't sit",
+      "choices": ["Don't sit", "Don't sits", "Doesn't sit", "Sit not"]
+    }
+  ]
+}
