@@ -3,6 +3,8 @@
   "title": "This vs That Practice",
   "slug": "this-that-practice",
   "language": "en",
+  "description": "Practice the difference between 'this' and 'that' with fill-in-the-blank questions.",
+  "questionType": "fill_in_the_blank",
   "questions": [
     {
       "question": "___ is my pen.",

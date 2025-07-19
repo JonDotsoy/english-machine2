@@ -1,6 +1,8 @@
 {
   "$schema": "./schema.json",
   "language": "en",
+  "description": "Practice the meanings of common phrasal verbs using definition matching questions.",
+  "questionType": "definition_matching",
   "questions": [
     {
       "question": "give up",

@@ -1,6 +1,8 @@
 {
   "$schema": "./schema.json",
   "language": "en",
+  "description": "Practice the meanings and usage of phrasal verbs with 'get' using definition matching questions.",
+  "questionType": "definition_matching",
   "questions": [
     {
       "question": "get up",

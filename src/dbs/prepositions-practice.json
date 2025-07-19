@@ -3,6 +3,8 @@
   "title": "Prepositions Practice Quiz",
   "slug": "prepositions-practice",
   "language": "en",
+  "description": "Practice English prepositions with fill-in-the-blank questions.",
+  "questionType": "fill_in_the_blank",
   "questions": [
     {
       "question": "The cat is ___ the box.",

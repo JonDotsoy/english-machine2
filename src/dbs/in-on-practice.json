@@ -3,6 +3,8 @@
   "title": "In vs On Practice",
   "slug": "in-on-practice",
   "language": "en",
+  "description": "Practice the difference between 'in' and 'on' with fill-in-the-blank questions.",
+  "questionType": "fill_in_the_blank",
   "questions": [
     {
       "question": "The meeting is ___ Monday.",

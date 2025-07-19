@@ -3,6 +3,8 @@
   "title": "Verb 'to be' Practice",
   "slug": "verb-to-be",
   "language": "en",
+  "description": "Practice the verb 'to be' in English with fill-in-the-blank questions.",
+  "questionType": "fill_in_the_blank",
   "questions": [
     {
       "question": "I ____ happy.",
