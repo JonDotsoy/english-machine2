@@ -7,6 +7,7 @@ English Machine es una plataforma libre y open source diseñada para el desarrol
 - Proyecto open source bajo licencia MIT.
 - Base de datos pública y abierta de preguntas.
 - Cobertura de tiempos verbales y phrasal verbs.
+- Incluye vocabulario básico del hogar con traducción al inglés.
 - Enfoque educativo para el refuerzo del idioma inglés.
 
 ## Setup rápido en ambiente local
