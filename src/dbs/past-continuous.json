@@ -1,6 +1,8 @@
 {
   "$schema": "./schema.json",
   "language": "en",
+  "description": "Practice the past continuous tense with fill-in-the-blank questions.",
+  "questionType": "fill_in_the_blank",
   "questions": [
     {
       "question": "Julie ___ (sleep) at three o'clock.",

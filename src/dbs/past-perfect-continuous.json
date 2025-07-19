@@ -1,6 +1,8 @@
 {
   "$schema": "./schema.json",
   "language": "en",
+  "description": "Practice the past perfect continuous tense with fill-in-the-blank questions.",
+  "questionType": "fill_in_the_blank",
   "questions": [
     {
       "question": "I ____ (work) there for two years when I got promoted.",

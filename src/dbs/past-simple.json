@@ -1,6 +1,8 @@
 {
   "$schema": "./schema.json",
   "language": "en",
+  "description": "Practice the past simple tense with fill-in-the-blank questions.",
+  "questionType": "fill_in_the_blank",
   "questions": [
     {
       "question": "She ____ (walk) to school yesterday.",

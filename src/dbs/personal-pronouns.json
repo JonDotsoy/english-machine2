@@ -3,6 +3,8 @@
   "title": "Personal Pronouns Practice",
   "slug": "personal-pronouns",
   "language": "en",
+  "description": "Practice English personal pronouns with fill-in-the-blank questions.",
+  "questionType": "fill_in_the_blank",
   "questions": [
     {
       "question": "___ am happy.",

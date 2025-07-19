@@ -3,6 +3,8 @@
   "title": "Prepositions Quiz",
   "slug": "prepositions",
   "language": "en",
+  "description": "Practice English prepositions with definition matching questions.",
+  "questionType": "definition_matching",
   "questions": [
     {
       "question": "aboard",
