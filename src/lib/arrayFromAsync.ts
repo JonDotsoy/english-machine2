@@ -6,7 +6,7 @@
  */
 export async function arrayFromAsync<T, R>(
   iterable: Iterable<T>,
-  fn: (item: T, index: number) => Promise<R>
+  fn: (item: T, index: number) => Promise<R>,
 ): Promise<R[]> {
   const arr = Array.from(iterable);
   return Promise.all(arr.map(fn));
