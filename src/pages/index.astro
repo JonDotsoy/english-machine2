@@ -6,6 +6,7 @@ import { arrayFromAsync } from "@/lib/arrayFromAsync";
 import { MagicCard } from "@/components/magicui/magic-card";
 import { questionTypeEmoji } from "@/lib/questionTypeEmoji";
 import classNames from "classnames";
+import { BlurFade } from "@/components/magicui/blur-fade";
 
 const questionFiles: QuestionsDB[] = filterQuestionsDB(
   await arrayFromAsync(
@@ -43,25 +44,27 @@ const questionFiles: QuestionsDB[] = filterQuestionsDB(
               })}
               aria-label={`Go to ${q.title}`}
             >
-              <MagicCard
-                client:load
-                className="p-4 rounded flex gap-2 h-full"
-                gradientOpacity={0.05}
-              >
-                <div>
-                  {q.questionType && questionTypeEmoji[q.questionType] && (
-                    <span class="text-2xl" aria-label={q.questionType}>
-                      {questionTypeEmoji[q.questionType]}
-                    </span>
-                  )}
-                  <span transition:name={q.slug}>{q.title}</span>
-                  {q.description && (
-                    <span class="block text-xs text-gray-500 mt-1">
-                      {q.description}
-                    </span>
-                  )}
-                </div>
-              </MagicCard>
+              <BlurFade client:load delay={0.1} inView>
+                <MagicCard
+                  client:load
+                  className="p-4 rounded flex gap-2 h-full"
+                  gradientOpacity={0.05}
+                >
+                  <div>
+                    {q.questionType && questionTypeEmoji[q.questionType] && (
+                      <span class="text-2xl" aria-label={q.questionType}>
+                        {questionTypeEmoji[q.questionType]}
+                      </span>
+                    )}
+                    <span transition:name={q.slug}>{q.title}</span>
+                    {q.description && (
+                      <span class="block text-xs text-gray-500 mt-1">
+                        {q.description}
+                      </span>
+                    )}
+                  </div>
+                </MagicCard>
+              </BlurFade>
             </a>
           ))
       }
