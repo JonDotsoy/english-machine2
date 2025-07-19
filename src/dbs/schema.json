@@ -13,6 +13,11 @@
       "title": "Title",
       "description": "Descriptive title for the question set."
     },
+    "description": {
+      "type": "string",
+      "title": "Description",
+      "description": "A short description of the question set."
+    },
     "slug": {
       "type": "string",
       "title": "Slug",
