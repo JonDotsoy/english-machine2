@@ -1,0 +1,196 @@
+{
+  "$schema": "./schema.json",
+  "title": "Spanish Restaurant Vocabulary",
+  "slug": "spanish-restaurant-vocabulary",
+  "language": "en",
+  "description": "Common restaurant-related Spanish words with English translation options.",
+  "questionType": "definition_matching",
+  "questions": [
+    {
+      "question": "restaurante",
+      "answer": "restaurant",
+      "choices": ["restaurant", "hotel", "market", "bar", "kitchen"],
+      "meaning": "A place where people pay to sit and eat meals prepared and served on the premises."
+    },
+    {
+      "question": "camarero",
+      "answer": "waiter",
+      "choices": ["waiter", "chef", "manager", "host", "driver"],
+      "meaning": "A male server who takes orders and brings food to customers."
+    },
+    {
+      "question": "camarera",
+      "answer": "waitress",
+      "choices": ["waitress", "cashier", "cook", "hostess", "customer"],
+      "meaning": "A female server who takes orders and brings food to customers."
+    },
+    {
+      "question": "menú",
+      "answer": "menu",
+      "choices": ["menu", "recipe", "bill", "check", "placemat"],
+      "meaning": "A list of dishes available at a restaurant."
+    },
+    {
+      "question": "reserva",
+      "answer": "reservation",
+      "choices": [
+        "reservation",
+        "cancellation",
+        "payment",
+        "order",
+        "delivery"
+      ],
+      "meaning": "An arrangement to have a table held for you at a specific time."
+    },
+    {
+      "question": "mesa",
+      "answer": "table",
+      "choices": ["table", "chair", "counter", "stool", "bench"],
+      "meaning": "A piece of furniture where meals are served and eaten."
+    },
+    {
+      "question": "servilleta",
+      "answer": "napkin",
+      "choices": ["napkin", "towel", "cloth", "dish", "plate"],
+      "meaning": "A piece of cloth or paper used to clean the mouth and hands while eating."
+    },
+    {
+      "question": "cuchillo",
+      "answer": "knife",
+      "choices": ["knife", "fork", "spoon", "plate", "scissors"],
+      "meaning": "A sharp utensil used for cutting food."
+    },
+    {
+      "question": "tenedor",
+      "answer": "fork",
+      "choices": ["fork", "spoon", "knife", "bowl", "cup"],
+      "meaning": "A utensil with prongs used to spear and lift food."
+    },
+    {
+      "question": "cuchara",
+      "answer": "spoon",
+      "choices": ["spoon", "fork", "knife", "ladle", "plate"],
+      "meaning": "A utensil with a small shallow bowl used for eating or serving."
+    },
+    {
+      "question": "plato",
+      "answer": "plate",
+      "choices": ["plate", "bowl", "cup", "glass", "tray"],
+      "meaning": "A flat dish from which food is eaten or served."
+    },
+    {
+      "question": "vaso",
+      "answer": "glass",
+      "choices": ["glass", "cup", "bottle", "jug", "dish"],
+      "meaning": "A container, typically made of glass, used for drinking."
+    },
+    {
+      "question": "copa",
+      "answer": "wine glass",
+      "choices": ["wine glass", "mug", "plate", "pan", "knife"],
+      "meaning": "A stemmed glass for drinking wine."
+    },
+    {
+      "question": "botella",
+      "answer": "bottle",
+      "choices": ["bottle", "glass", "can", "cup", "plate"],
+      "meaning": "A container with a narrow neck used for storing drinks."
+    },
+    {
+      "question": "bebida",
+      "answer": "drink",
+      "choices": ["drink", "dish", "snack", "meal", "dessert"],
+      "meaning": "Any liquid that can be consumed."
+    },
+    {
+      "question": "comida",
+      "answer": "food",
+      "choices": ["food", "drink", "plate", "napkin", "glass"],
+      "meaning": "Items that can be eaten."
+    },
+    {
+      "question": "entrada",
+      "answer": "appetizer",
+      "choices": ["appetizer", "dessert", "main course", "drink", "side"],
+      "meaning": "A small dish served before the main meal."
+    },
+    {
+      "question": "plato principal",
+      "answer": "main course",
+      "choices": ["main course", "dessert", "appetizer", "drink", "salad"],
+      "meaning": "The main dish in a meal."
+    },
+    {
+      "question": "postre",
+      "answer": "dessert",
+      "choices": ["dessert", "salad", "soup", "appetizer", "drink"],
+      "meaning": "A sweet course eaten at the end of a meal."
+    },
+    {
+      "question": "cuenta",
+      "answer": "bill",
+      "choices": ["bill", "menu", "ticket", "invoice", "receipt"],
+      "meaning": "The statement of charges for a meal."
+    },
+    {
+      "question": "propina",
+      "answer": "tip",
+      "choices": ["tip", "tax", "fine", "fee", "loan"],
+      "meaning": "Extra money given to a server for good service."
+    },
+    {
+      "question": "pan",
+      "answer": "bread",
+      "choices": ["bread", "cake", "pie", "cracker", "toast"],
+      "meaning": "A staple food made from flour and water and baked."
+    },
+    {
+      "question": "vino",
+      "answer": "wine",
+      "choices": ["wine", "beer", "juice", "water", "soda"],
+      "meaning": "An alcoholic drink made from fermented grapes."
+    },
+    {
+      "question": "cerveza",
+      "answer": "beer",
+      "choices": ["beer", "wine", "water", "milk", "tea"],
+      "meaning": "An alcoholic drink made from fermented grain."
+    },
+    {
+      "question": "agua",
+      "answer": "water",
+      "choices": ["water", "soda", "beer", "juice", "milk"],
+      "meaning": "A clear liquid that forms the seas, lakes, rivers, and rain."
+    },
+    {
+      "question": "ensalada",
+      "answer": "salad",
+      "choices": ["salad", "soup", "dessert", "bread", "drink"],
+      "meaning": "A mixture of raw vegetables served with a dressing."
+    },
+    {
+      "question": "sopa",
+      "answer": "soup",
+      "choices": ["soup", "salad", "dessert", "drink", "bread"],
+      "meaning": "A liquid dish typically made by boiling ingredients in water."
+    },
+    {
+      "question": "cocina",
+      "answer": "kitchen",
+      "choices": ["kitchen", "bathroom", "bedroom", "garage", "garden"],
+      "meaning": "The room or area where food is prepared and cooked."
+    },
+    {
+      "question": "cocinero",
+      "answer": "cook",
+      "choices": ["cook", "waiter", "manager", "customer", "cashier"],
+      "meaning": "A person who prepares and cooks food."
+    },
+    {
+      "question": "bar",
+      "answer": "bar",
+      "choices": ["bar", "restaurant", "market", "hotel", "school"],
+      "meaning": "A place that serves alcoholic drinks."
+    }
+  ]
+}
