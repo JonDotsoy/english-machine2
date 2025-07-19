@@ -9,92 +9,92 @@
     {
       "question": "plato",
       "answer": "plate",
-      "example": "I put the plate on the table.",
-      "choices": ["plate", "glass", "cup", "knife", "chair"]
+      "choices": ["plate", "glass", "cup", "knife", "chair"],
+      "meaning": "A flat dish used for serving or eating food."
     },
     {
       "question": "losa",
       "answer": "tile",
-      "example": "The bathroom floor has a blue tile.",
-      "choices": ["tile", "roof", "wall", "brick", "door"]
+      "choices": ["tile", "roof", "wall", "brick", "door"],
+      "meaning": "A thin flat piece of stone or ceramic for covering floors or walls."
     },
     {
       "question": "mesa",
       "answer": "table",
-      "example": "We eat dinner at the table.",
-      "choices": ["table", "chair", "sofa", "desk", "bed"]
+      "choices": ["table", "chair", "sofa", "desk", "bed"],
+      "meaning": "A piece of furniture with a flat top supported by legs."
     },
     {
       "question": "servicio",
       "answer": "bathroom",
-      "example": "The bathroom is clean.",
-      "choices": ["bathroom", "kitchen", "bedroom", "living room", "garage"]
+      "choices": ["bathroom", "kitchen", "bedroom", "living room", "garage"],
+      "meaning": "A room containing a toilet and usually a sink."
     },
     {
       "question": "cubierto",
       "answer": "cutlery",
-      "example": "The cutlery is in the drawer.",
-      "choices": ["cutlery", "cupboard", "tablecloth", "bowl", "drawer"]
+      "choices": ["cutlery", "cupboard", "tablecloth", "bowl", "drawer"],
+      "meaning": "Utensils like forks, knives, and spoons used for eating."
     },
     {
       "question": "vaso",
       "answer": "glass",
-      "example": "I drink water from a glass.",
-      "choices": ["glass", "plate", "cup", "bowl", "bottle"]
+      "choices": ["glass", "plate", "cup", "bowl", "bottle"],
+      "meaning": "A container, typically made of glass, used for drinking liquids."
     },
     {
       "question": "silla",
       "answer": "chair",
-      "example": "She sits on the chair.",
-      "choices": ["chair", "table", "sofa", "bench", "bed"]
+      "choices": ["chair", "table", "sofa", "bench", "bed"],
+      "meaning": "A seat for one person that has a back and often four legs."
     },
     {
       "question": "cuchara",
       "answer": "spoon",
-      "example": "I use a spoon to eat soup.",
-      "choices": ["spoon", "fork", "knife", "ladle", "plate"]
+      "choices": ["spoon", "fork", "knife", "ladle", "plate"],
+      "meaning": "A utensil with a shallow bowl used for eating or serving."
     },
     {
       "question": "cuchillo",
       "answer": "knife",
-      "example": "Use a knife to cut the bread.",
-      "choices": ["knife", "fork", "spoon", "plate", "scissors"]
+      "choices": ["knife", "fork", "spoon", "plate", "scissors"],
+      "meaning": "A sharp-edged utensil used for cutting."
     },
     {
       "question": "tenedor",
       "answer": "fork",
-      "example": "He holds his fork in the left hand.",
-      "choices": ["fork", "knife", "spoon", "plate", "cup"]
+      "choices": ["fork", "knife", "spoon", "plate", "cup"],
+      "meaning": "A utensil with prongs used to spear and lift food."
     },
     {
       "question": "taza",
       "answer": "cup",
-      "example": "She drinks coffee from a cup.",
-      "choices": ["cup", "glass", "plate", "spoon", "bowl"]
+      "choices": ["cup", "glass", "plate", "spoon", "bowl"],
+      "meaning": "A small container with a handle used for drinking hot liquids."
     },
     {
       "question": "servilleta",
       "answer": "napkin",
-      "example": "Please use a napkin while eating.",
-      "choices": ["napkin", "towel", "table", "dish", "cloth"]
+      "choices": ["napkin", "towel", "table", "dish", "cloth"],
+      "meaning": "A piece of cloth or paper used to wipe the mouth and hands while eating."
     },
     {
-      "question": "sart\u00e9n",
+      "question": "sartén",
       "answer": "pan",
-      "example": "The eggs are in the pan.",
-      "choices": ["pan", "pot", "tray", "plate", "spatula"]
+      "choices": ["pan", "pot", "tray", "plate", "spatula"],
+      "meaning": "A shallow pan with a handle used for frying or cooking."
     },
     {
       "question": "refrigerador",
       "answer": "fridge",
-      "example": "The fridge keeps the food cold.",
-      "choices": ["fridge", "oven", "microwave", "freezer", "toaster"]
+      "choices": ["fridge", "oven", "microwave", "freezer", "toaster"],
+      "meaning": "An appliance that keeps food and drinks cold."
     },
     {
       "question": "cama",
       "answer": "bed",
-      "example": "The bed is very comfortable.",
-      "choices": ["bed", "sofa", "chair", "table", "desk"]
+      "choices": ["bed", "sofa", "chair", "table", "desk"],
+      "meaning": "A piece of furniture for sleeping or resting."
     }
   ]
 }
