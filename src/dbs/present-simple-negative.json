@@ -1,0 +1,273 @@
+{
+  "$schema": "./schema.json",
+  "language": "en",
+  "questions": [
+    {
+      "question": "I ____ (not like) broccoli.",
+      "answer": "don't like",
+      "choices": ["don't like", "doesn't like", "didn't like", "not like"]
+    },
+    {
+      "question": "You ____ (not play) soccer on Sundays.",
+      "answer": "don't play",
+      "choices": ["don't play", "doesn't play", "didn't play", "not play"]
+    },
+    {
+      "question": "He ____ (not watch) TV before bed.",
+      "answer": "doesn't watch",
+      "choices": ["don't watch", "doesn't watch", "didn't watch", "not watch"]
+    },
+    {
+      "question": "She ____ (not go) to the gym.",
+      "answer": "doesn't go",
+      "choices": ["don't go", "doesn't go", "didn't go", "not go"]
+    },
+    {
+      "question": "It ____ (not rain) in the desert.",
+      "answer": "doesn't rain",
+      "choices": ["don't rain", "doesn't rain", "didn't rain", "not rain"]
+    },
+    {
+      "question": "We ____ (not eat) meat.",
+      "answer": "don't eat",
+      "choices": ["don't eat", "doesn't eat", "didn't eat", "not eat"]
+    },
+    {
+      "question": "They ____ (not work) on weekends.",
+      "answer": "don't work",
+      "choices": ["don't work", "doesn't work", "didn't work", "not work"]
+    },
+    {
+      "question": "My brother ____ (not drive) to school.",
+      "answer": "doesn't drive",
+      "choices": ["don't drive", "doesn't drive", "didn't drive", "not drive"]
+    },
+    {
+      "question": "The dog ____ (not bark) at night.",
+      "answer": "doesn't bark",
+      "choices": ["don't bark", "doesn't bark", "didn't bark", "not bark"]
+    },
+    {
+      "question": "The teacher ____ (not give) homework.",
+      "answer": "doesn't give",
+      "choices": ["don't give", "doesn't give", "didn't give", "not give"]
+    },
+    {
+      "question": "I ____ (not drink) coffee.",
+      "answer": "don't drink",
+      "choices": ["don't drink", "doesn't drink", "didn't drink", "not drink"]
+    },
+    {
+      "question": "You ____ (not smoke) cigarettes.",
+      "answer": "don't smoke",
+      "choices": ["don't smoke", "doesn't smoke", "didn't smoke", "not smoke"]
+    },
+    {
+      "question": "He ____ (not like) spicy food.",
+      "answer": "doesn't like",
+      "choices": ["don't like", "doesn't like", "didn't like", "not like"]
+    },
+    {
+      "question": "She ____ (not play) video games.",
+      "answer": "doesn't play",
+      "choices": ["don't play", "doesn't play", "didn't play", "not play"]
+    },
+    {
+      "question": "It ____ (not snow) here often.",
+      "answer": "doesn't snow",
+      "choices": ["don't snow", "doesn't snow", "didn't snow", "not snow"]
+    },
+    {
+      "question": "We ____ (not watch) scary movies.",
+      "answer": "don't watch",
+      "choices": ["don't watch", "doesn't watch", "didn't watch", "not watch"]
+    },
+    {
+      "question": "They ____ (not live) in the city.",
+      "answer": "don't live",
+      "choices": ["don't live", "doesn't live", "didn't live", "not live"]
+    },
+    {
+      "question": "My sister ____ (not study) biology.",
+      "answer": "doesn't study",
+      "choices": ["don't study", "doesn't study", "didn't study", "not study"]
+    },
+    {
+      "question": "The baby ____ (not sleep) well.",
+      "answer": "doesn't sleep",
+      "choices": ["don't sleep", "doesn't sleep", "didn't sleep", "not sleep"]
+    },
+    {
+      "question": "The car ____ (not start) easily.",
+      "answer": "doesn't start",
+      "choices": ["don't start", "doesn't start", "didn't start", "not start"]
+    },
+    {
+      "question": "I ____ (not cook) dinner today.",
+      "answer": "don't cook",
+      "choices": ["don't cook", "doesn't cook", "didn't cook", "not cook"]
+    },
+    {
+      "question": "You ____ (not read) newspapers.",
+      "answer": "don't read",
+      "choices": ["don't read", "doesn't read", "didn't read", "not read"]
+    },
+    {
+      "question": "He ____ (not clean) his room.",
+      "answer": "doesn't clean",
+      "choices": ["don't clean", "doesn't clean", "didn't clean", "not clean"]
+    },
+    {
+      "question": "She ____ (not wear) glasses.",
+      "answer": "doesn't wear",
+      "choices": ["don't wear", "doesn't wear", "didn't wear", "not wear"]
+    },
+    {
+      "question": "It ____ (not bite) people.",
+      "answer": "doesn't bite",
+      "choices": ["don't bite", "doesn't bite", "didn't bite", "not bite"]
+    },
+    {
+      "question": "We ____ (not take) the bus.",
+      "answer": "don't take",
+      "choices": ["don't take", "doesn't take", "didn't take", "not take"]
+    },
+    {
+      "question": "They ____ (not use) computers at work.",
+      "answer": "don't use",
+      "choices": ["don't use", "doesn't use", "didn't use", "not use"]
+    },
+    {
+      "question": "My friend ____ (not speak) Spanish.",
+      "answer": "doesn't speak",
+      "choices": ["don't speak", "doesn't speak", "didn't speak", "not speak"]
+    },
+    {
+      "question": "The cat ____ (not chase) mice.",
+      "answer": "doesn't chase",
+      "choices": ["don't chase", "doesn't chase", "didn't chase", "not chase"]
+    },
+    {
+      "question": "The students ____ (not listen) to music in class.",
+      "answer": "don't listen",
+      "choices": [
+        "don't listen",
+        "doesn't listen",
+        "didn't listen",
+        "not listen"
+      ]
+    },
+    {
+      "question": "I ____ (not ride) my bike.",
+      "answer": "don't ride",
+      "choices": ["don't ride", "doesn't ride", "didn't ride", "not ride"]
+    },
+    {
+      "question": "You ____ (not write) letters.",
+      "answer": "don't write",
+      "choices": ["don't write", "doesn't write", "didn't write", "not write"]
+    },
+    {
+      "question": "He ____ (not play) guitar.",
+      "answer": "doesn't play",
+      "choices": ["don't play", "doesn't play", "didn't play", "not play"]
+    },
+    {
+      "question": "She ____ (not work) on Saturdays.",
+      "answer": "doesn't work",
+      "choices": ["don't work", "doesn't work", "didn't work", "not work"]
+    },
+    {
+      "question": "It ____ (not make) sense.",
+      "answer": "doesn't make",
+      "choices": ["don't make", "doesn't make", "didn't make", "not make"]
+    },
+    {
+      "question": "We ____ (not go) out often.",
+      "answer": "don't go",
+      "choices": ["don't go", "doesn't go", "didn't go", "not go"]
+    },
+    {
+      "question": "They ____ (not order) pizza.",
+      "answer": "don't order",
+      "choices": ["don't order", "doesn't order", "didn't order", "not order"]
+    },
+    {
+      "question": "My parents ____ (not travel) in winter.",
+      "answer": "don't travel",
+      "choices": [
+        "don't travel",
+        "doesn't travel",
+        "didn't travel",
+        "not travel"
+      ]
+    },
+    {
+      "question": "The bird ____ (not sing) at night.",
+      "answer": "doesn't sing",
+      "choices": ["don't sing", "doesn't sing", "didn't sing", "not sing"]
+    },
+    {
+      "question": "The store ____ (not open) on Sundays.",
+      "answer": "doesn't open",
+      "choices": ["don't open", "doesn't open", "didn't open", "not open"]
+    },
+    {
+      "question": "I ____ (not shop) online.",
+      "answer": "don't shop",
+      "choices": ["don't shop", "doesn't shop", "didn't shop", "not shop"]
+    },
+    {
+      "question": "You ____ (not call) your friends.",
+      "answer": "don't call",
+      "choices": ["don't call", "doesn't call", "didn't call", "not call"]
+    },
+    {
+      "question": "He ____ (not fix) cars.",
+      "answer": "doesn't fix",
+      "choices": ["don't fix", "doesn't fix", "didn't fix", "not fix"]
+    },
+    {
+      "question": "She ____ (not bake) cookies.",
+      "answer": "doesn't bake",
+      "choices": ["don't bake", "doesn't bake", "didn't bake", "not bake"]
+    },
+    {
+      "question": "It ____ (not need) batteries.",
+      "answer": "doesn't need",
+      "choices": ["don't need", "doesn't need", "didn't need", "not need"]
+    },
+    {
+      "question": "We ____ (not exercise) in the morning.",
+      "answer": "don't exercise",
+      "choices": [
+        "don't exercise",
+        "doesn't exercise",
+        "didn't exercise",
+        "not exercise"
+      ]
+    },
+    {
+      "question": "They ____ (not visit) us often.",
+      "answer": "don't visit",
+      "choices": ["don't visit", "doesn't visit", "didn't visit", "not visit"]
+    },
+    {
+      "question": "My coworker ____ (not eat) lunch.",
+      "answer": "doesn't eat",
+      "choices": ["don't eat", "doesn't eat", "didn't eat", "not eat"]
+    },
+    {
+      "question": "The flowers ____ (not bloom) in winter.",
+      "answer": "don't bloom",
+      "choices": ["don't bloom", "doesn't bloom", "didn't bloom", "not bloom"]
+    },
+    {
+      "question": "The team ____ (not train) today.",
+      "answer": "doesn't train",
+      "choices": ["don't train", "doesn't train", "didn't train", "not train"]
+    }
+  ],
+  "slug": "present-simple-negative",
+  "title": "Present Simple Negative"
+}
