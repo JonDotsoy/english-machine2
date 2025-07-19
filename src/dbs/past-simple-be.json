@@ -1,0 +1,308 @@
+{
+  "$schema": "./schema.json",
+  "title": "Past Simple 'was/were' Practice",
+  "slug": "past-simple-be",
+  "language": "en",
+  "questions": [
+    {
+      "question": "I ____ at home yesterday.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Yo estaba en casa ayer."
+    },
+    {
+      "question": "You ____ at the store last night.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Tú estabas en la tienda anoche."
+    },
+    {
+      "question": "He ____ my teacher last year.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Él fue mi maestro el año pasado."
+    },
+    {
+      "question": "She ____ sick last week.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Ella estuvo enferma la semana pasada."
+    },
+    {
+      "question": "It ____ rainy yesterday.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Estuvo lluvioso ayer."
+    },
+    {
+      "question": "We ____ at the party on Saturday.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Estuvimos en la fiesta el sábado."
+    },
+    {
+      "question": "They ____ excited about the trip.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Ellos estaban emocionados por el viaje."
+    },
+    {
+      "question": "The dog ____ in the yard this morning.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "El perro estaba en el patio esta mañana."
+    },
+    {
+      "question": "The students ____ in class earlier.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Los estudiantes estaban en clase más temprano."
+    },
+    {
+      "question": "My phone ____ on the table.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Mi teléfono estaba en la mesa."
+    },
+    {
+      "question": "The lights ____ off during the storm.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Las luces estaban apagadas durante la tormenta."
+    },
+    {
+      "question": "The meeting ____ at nine o'clock.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "La reunión fue a las nueve en punto."
+    },
+    {
+      "question": "The books ____ on the shelf.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Los libros estaban en el estante."
+    },
+    {
+      "question": "I ____ at the library this morning.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Yo estaba en la biblioteca esta mañana."
+    },
+    {
+      "question": "You ____ very busy yesterday.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Tú estabas muy ocupado ayer."
+    },
+    {
+      "question": "She ____ happy with the results.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Ella estaba feliz con los resultados."
+    },
+    {
+      "question": "He ____ in the kitchen when I called.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Él estaba en la cocina cuando llamé."
+    },
+    {
+      "question": "We ____ at the beach all day.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Nosotros estuvimos en la playa todo el día."
+    },
+    {
+      "question": "They ____ late for the class.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Ellos llegaron tarde a la clase."
+    },
+    {
+      "question": "The car ____ in the garage.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "El auto estaba en el garaje."
+    },
+    {
+      "question": "My parents ____ on vacation last month.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Mis padres estuvieron de vacaciones el mes pasado."
+    },
+    {
+      "question": "The movie ____ boring.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "La película fue aburrida."
+    },
+    {
+      "question": "The children ____ in the park.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Los niños estaban en el parque."
+    },
+    {
+      "question": "It ____ sunny yesterday.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Estaba soleado ayer."
+    },
+    {
+      "question": "She ____ at the doctor on Monday.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Ella estuvo en el doctor el lunes."
+    },
+    {
+      "question": "I ____ nervous before the exam.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Yo estaba nervioso antes del examen."
+    },
+    {
+      "question": "You ____ surprised by the news.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Tú estabas sorprendido por la noticia."
+    },
+    {
+      "question": "He ____ late to the meeting.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Él llegó tarde a la reunión."
+    },
+    {
+      "question": "They ____ at home during the storm.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Ellos estaban en casa durante la tormenta."
+    },
+    {
+      "question": "We ____ hungry after the hike.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Nosotros estábamos hambrientos después de la caminata."
+    },
+    {
+      "question": "The store ____ closed yesterday.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "La tienda estaba cerrada ayer."
+    },
+    {
+      "question": "My friends ____ at the concert.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Mis amigos estaban en el concierto."
+    },
+    {
+      "question": "She ____ the best student in the class.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Ella era la mejor estudiante de la clase."
+    },
+    {
+      "question": "He ____ a famous actor years ago.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Él era un actor famoso hace años."
+    },
+    {
+      "question": "The flowers ____ beautiful.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Las flores eran hermosas."
+    },
+    {
+      "question": "The weather ____ perfect for a picnic.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "El clima era perfecto para un picnic."
+    },
+    {
+      "question": "We ____ tired after the long trip.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Estábamos cansados después del largo viaje."
+    },
+    {
+      "question": "It ____ cold in the room.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Hacía frío en la habitación."
+    },
+    {
+      "question": "The kids ____ ready for bed.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Los niños estaban listos para la cama."
+    },
+    {
+      "question": "The answer ____ correct.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "La respuesta era correcta."
+    },
+    {
+      "question": "My grandparents ____ from Spain.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Mis abuelos eran de España."
+    },
+    {
+      "question": "She ____ my best friend in college.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Ella fue mi mejor amiga en la universidad."
+    },
+    {
+      "question": "You ____ at the museum yesterday.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Tú estuviste en el museo ayer."
+    },
+    {
+      "question": "He ____ upset about the mistake.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Él estaba molesto por el error."
+    },
+    {
+      "question": "The team ____ proud of their victory.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "El equipo estaba orgulloso de su victoria."
+    },
+    {
+      "question": "I ____ scared during the movie.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Yo estaba asustado durante la película."
+    },
+    {
+      "question": "The children ____ very quiet today.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Los niños estaban muy callados hoy."
+    },
+    {
+      "question": "It ____ difficult to solve the puzzle.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Fue difícil resolver el rompecabezas."
+    },
+    {
+      "question": "The house ____ built in 1990.",
+      "answer": "was",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "La casa fue construida en 1990."
+    },
+    {
+      "question": "They ____ the champions last year.",
+      "answer": "were",
+      "choices": ["was", "were", "is", "are"],
+      "meaning": "Ellos fueron los campeones el año pasado."
+    }
+  ]
+}
