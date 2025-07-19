@@ -49,11 +49,19 @@ const { slug, questionsDB }: Props = Astro.props;
       content={questionsDB.description ?? questionsDB.title}
     />
     <meta property="og:type" content="article" />
+    <meta
+      property="og:image"
+      content={`${import.meta.env.BASE_URL}favicon.svg`}
+    />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content={questionsDB.title} />
     <meta
       name="twitter:description"
       content={questionsDB.description ?? questionsDB.title}
+    />
+    <meta
+      name="twitter:image"
+      content={`${import.meta.env.BASE_URL}favicon.svg`}
     />
   </Fragment>
 </MultiChoiceLayout>
