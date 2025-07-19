@@ -39,6 +39,21 @@ const { slug, questionsDB }: Props = Astro.props;
   db={questionsDB.questions}
 >
   <Fragment slot={"head"}>
-    <meta name="description" content={questionsDB.title} />
+    <meta
+      name="description"
+      content={questionsDB.description ?? questionsDB.title}
+    />
+    <meta property="og:title" content={questionsDB.title} />
+    <meta
+      property="og:description"
+      content={questionsDB.description ?? questionsDB.title}
+    />
+    <meta property="og:type" content="article" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={questionsDB.title} />
+    <meta
+      name="twitter:description"
+      content={questionsDB.description ?? questionsDB.title}
+    />
   </Fragment>
 </MultiChoiceLayout>
