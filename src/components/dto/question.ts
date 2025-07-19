@@ -30,7 +30,17 @@ export type QuestionsDB = {
   private?: boolean; // Added private property to match schema
   $schema?: string;
   title?: string;
+  description?: string;
   slug?: string;
   language?: string;
+  questionType?:
+    | "fill_in_the_blank"
+    | "definition_matching"
+    | "synonym_selection"
+    | "usage_in_context"
+    | "sentence_transformation"
+    | "multiple_choice_meaning"
+    | "identify_phrasal_verb"
+    | "error_correction";
   questions: Question[];
 };
