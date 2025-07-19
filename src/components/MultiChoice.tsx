@@ -13,6 +13,7 @@ import {
   previousQuestion,
 } from "@/stores/session";
 import { ChevronLeft, ChevronRight } from "lucide-react";
+import confetti from "canvas-confetti";
 
 const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
   type,
@@ -42,6 +43,10 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
 
   const handleAnswerSelect = (selectedAnswer: string) => {
     answerCurrentQuestion(type, selectedAnswer);
+    // Log to console if the selected answer is correct
+    if (selectedAnswer === currentQuestion.answer) {
+      confetti();
+    }
   };
 
   const handleNext = () => {
