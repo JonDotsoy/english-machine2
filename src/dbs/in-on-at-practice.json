@@ -1,0 +1,260 @@
+{
+  "$schema": "./schema.json",
+  "title": "In vs On vs At Practice",
+  "slug": "in-on-at-practice",
+  "language": "en",
+  "description": "Practice the difference between 'in', 'on' and 'at' with fill-in-the-blank questions.",
+  "questionType": "fill_in_the_blank",
+  "questions": [
+    {
+      "question": "The party is ___ Saturday night.",
+      "answer": "on",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "I was born ___ 1988.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "She lives ___ London.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "The meeting is ___ 2 PM.",
+      "answer": "at",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "We'll see you ___ the morning.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "He left his keys ___ the table.",
+      "answer": "on",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "There's milk ___ the fridge.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "I like to jog ___ the evening.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "She arrived ___ the airport early.",
+      "answer": "at",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "My birthday is ___ June.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "The cat is sleeping ___ the sofa.",
+      "answer": "on",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "We met ___ the bus stop.",
+      "answer": "at",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "They were married ___ 2010.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "Please sit ___ the table.",
+      "answer": "at",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "I hung the picture ___ the wall.",
+      "answer": "on",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "He usually wakes up ___ 7 o'clock.",
+      "answer": "at",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "My office is ___ the second floor.",
+      "answer": "on",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "She enjoys swimming ___ the ocean.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "I'll call you ___ lunchtime.",
+      "answer": "at",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "There is a spider ___ the ceiling.",
+      "answer": "on",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "She met him ___ 2015.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "The show starts ___ 8 PM.",
+      "answer": "at",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "They ate breakfast ___ bed.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "We will meet ___ Monday afternoon.",
+      "answer": "on",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "The cookies are ___ the jar.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "He put his books ___ his bag.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "There's a crack ___ the window.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "She left the notes ___ my desk.",
+      "answer": "on",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "I looked ___ the mirror.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "The picture is ___ the top of the page.",
+      "answer": "at",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "We met ___ the train.",
+      "answer": "on",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "I like sitting ___ the garden.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "He was waiting ___ the corner.",
+      "answer": "at",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "My birthday is ___ the first of May.",
+      "answer": "on",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "She lives ___ 45 Main Street.",
+      "answer": "at",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "There's a fly ___ the ceiling.",
+      "answer": "on",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "I'll see you ___ the bus stop.",
+      "answer": "at",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "He got lost ___ the city.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "The kids are playing ___ the yard.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "She is lying ___ the beach.",
+      "answer": "on",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "The clock is ___ the wall.",
+      "answer": "on",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "I'll finish this ___ an hour.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "We left the tickets ___ home.",
+      "answer": "at",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "There's a note ___ the bottom of the page.",
+      "answer": "at",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "I saw it ___ the newspaper.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "I'll meet you ___ lunch.",
+      "answer": "at",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "The dog is sleeping ___ the floor.",
+      "answer": "on",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "She is waiting ___ the parking lot.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "Let's watch a movie ___ the evening.",
+      "answer": "in",
+      "choices": ["in", "on", "at"]
+    },
+    {
+      "question": "He is good ___ playing the guitar.",
+      "answer": "at",
+      "choices": ["in", "on", "at"]
+    }
+  ]
+}
