@@ -1,0 +1,100 @@
+{
+  "$schema": "./schema.json",
+  "title": "Spanish Household Vocabulary",
+  "slug": "spanish-household-vocabulary",
+  "language": "en",
+  "description": "Common household items in Spanish with English translation options.",
+  "questionType": "definition_matching",
+  "questions": [
+    {
+      "question": "plato",
+      "answer": "plate",
+      "example": "I put the plate on the table.",
+      "choices": ["plate", "glass", "cup", "knife", "chair"]
+    },
+    {
+      "question": "losa",
+      "answer": "tile",
+      "example": "The bathroom floor has a blue tile.",
+      "choices": ["tile", "roof", "wall", "brick", "door"]
+    },
+    {
+      "question": "mesa",
+      "answer": "table",
+      "example": "We eat dinner at the table.",
+      "choices": ["table", "chair", "sofa", "desk", "bed"]
+    },
+    {
+      "question": "servicio",
+      "answer": "bathroom",
+      "example": "The bathroom is clean.",
+      "choices": ["bathroom", "kitchen", "bedroom", "living room", "garage"]
+    },
+    {
+      "question": "cubierto",
+      "answer": "cutlery",
+      "example": "The cutlery is in the drawer.",
+      "choices": ["cutlery", "cupboard", "tablecloth", "bowl", "drawer"]
+    },
+    {
+      "question": "vaso",
+      "answer": "glass",
+      "example": "I drink water from a glass.",
+      "choices": ["glass", "plate", "cup", "bowl", "bottle"]
+    },
+    {
+      "question": "silla",
+      "answer": "chair",
+      "example": "She sits on the chair.",
+      "choices": ["chair", "table", "sofa", "bench", "bed"]
+    },
+    {
+      "question": "cuchara",
+      "answer": "spoon",
+      "example": "I use a spoon to eat soup.",
+      "choices": ["spoon", "fork", "knife", "ladle", "plate"]
+    },
+    {
+      "question": "cuchillo",
+      "answer": "knife",
+      "example": "Use a knife to cut the bread.",
+      "choices": ["knife", "fork", "spoon", "plate", "scissors"]
+    },
+    {
+      "question": "tenedor",
+      "answer": "fork",
+      "example": "He holds his fork in the left hand.",
+      "choices": ["fork", "knife", "spoon", "plate", "cup"]
+    },
+    {
+      "question": "taza",
+      "answer": "cup",
+      "example": "She drinks coffee from a cup.",
+      "choices": ["cup", "glass", "plate", "spoon", "bowl"]
+    },
+    {
+      "question": "servilleta",
+      "answer": "napkin",
+      "example": "Please use a napkin while eating.",
+      "choices": ["napkin", "towel", "table", "dish", "cloth"]
+    },
+    {
+      "question": "sart\u00e9n",
+      "answer": "pan",
+      "example": "The eggs are in the pan.",
+      "choices": ["pan", "pot", "tray", "plate", "spatula"]
+    },
+    {
+      "question": "refrigerador",
+      "answer": "fridge",
+      "example": "The fridge keeps the food cold.",
+      "choices": ["fridge", "oven", "microwave", "freezer", "toaster"]
+    },
+    {
+      "question": "cama",
+      "answer": "bed",
+      "example": "The bed is very comfortable.",
+      "choices": ["bed", "sofa", "chair", "table", "desk"]
+    }
+  ]
+}
