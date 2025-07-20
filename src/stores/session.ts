@@ -12,6 +12,7 @@ export type SessionQuestion = {
   selectedAnswer?: string;
   isCorrect?: boolean;
   meaning?: string; // Added meaning field to align with Question type
+  audioBase64?: string; // Optional audio property for playback
 };
 
 // Tipo para el estado de una sesión por tipo de pregunta
@@ -40,14 +41,15 @@ export const currentQuestionTypeStore = atom<string | null>(null);
 export function initializeSession(questionType: string, questions: Question[]) {
   const shuffledQuestions = [...questions]
     .sort(() => Math.random() - 0.5)
-    .map((q, index) => ({
-      question: q.question,
-      answer: q.answer, // mantenemos el typo del esquema original
-      example: q.example,
-      choices: q.choices || [],
+    .map((question, index) => ({
+      question: question.question,
+      answer: question.answer, // mantenemos el typo del esquema original
+      example: question.example,
+      choices: question.choices || [],
       originalIndex: index,
-      shuffledChoices: (q.choices || []).sort(() => Math.random() - 0.5),
-      meaning: q.meaning, // Added meaning field initialization
+      shuffledChoices: (question.choices || []).sort(() => Math.random() - 0.5),
+      meaning: question.meaning, // Added meaning field initialization
+      audioBase64: question.audioBase64, // Optional audio property for playback
     }));
 
   const sessionState: SessionState = {
