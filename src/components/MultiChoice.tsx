@@ -15,10 +15,11 @@ import {
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import confetti from "canvas-confetti";
 import { animationStore } from "@/components/settings/store";
+import { SparklesText } from "./magicui/sparkles-text";
 
-const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
+const MultiChoice: React.FC<{ type: string; questions: Question[] }> = ({
   type,
-  db,
+  questions,
 }) => {
   const sessions = useStore(sessionStore);
   const currentSession = sessions[type];
@@ -30,12 +31,30 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
   // Detect desktop for UI (numeric labels)
   const [isDesktop, setIsDesktop] = React.useState(false);
 
+  // Audio playback state
+  const [isPlaying, setIsPlaying] = React.useState(false);
+  const audioRef = React.useRef<HTMLAudioElement | null>(null);
+
   // Initialize session if it doesn't exist
   useEffect(() => {
-    if (!currentSession && db.length > 0) {
-      initializeSession(type, db);
+    if (!currentSession && questions.length > 0) {
+      initializeSession(type, questions);
     }
-  }, [type, db, currentSession]);
+  }, [type, questions, currentSession]);
+
+  // Play audio from base64 if available
+  const handlePlayAudio = () => {
+    if (!currentQuestion || !currentQuestion.audioBase64) return;
+    const audioSrc = `data:audio/mp3;base64,${currentQuestion.audioBase64}`;
+    if (!audioRef.current) {
+      audioRef.current = new window.Audio(audioSrc);
+      audioRef.current.onended = () => setIsPlaying(false);
+    } else {
+      audioRef.current.src = audioSrc;
+    }
+    setIsPlaying(true);
+    audioRef.current.play();
+  };
 
   // Detect desktop on mount
   useEffect(() => {
@@ -184,6 +203,24 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
       <div className="mb-6 p-4 bg-white rounded-lg border">
         <h3 className="text-lg font-semibold mb-3">
           {currentQuestion.question}
+          {currentQuestion && !!currentQuestion.audioBase64 && (
+            <>
+              {" "}
+              <Button
+                onClick={handlePlayAudio}
+                variant="link"
+                size={"sm"}
+                aria-label="Play audio for question"
+                disabled={isPlaying}
+              >
+                {isPlaying ? (
+                  <SparklesText className="text-sm">Playing...</SparklesText>
+                ) : (
+                  "Play"
+                )}
+              </Button>
+            </>
+          )}
         </h3>
 
         {currentQuestion.example && (
