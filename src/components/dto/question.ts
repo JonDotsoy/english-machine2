@@ -16,6 +16,7 @@ export type Question = {
   example?: string;
   choices?: string[];
   meaning?: string; // Added meaning field to match schema.json
+  audioBase64?: string; // Optional audio property for playback
 };
 
 /**
