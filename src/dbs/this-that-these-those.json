@@ -1,0 +1,110 @@
+{
+  "$schema": "./schema.json",
+  "title": "This, That, These, Those Practice",
+  "slug": "this-that-these-those",
+  "language": "en",
+  "description": "Practice the difference between 'this', 'that', 'these' and 'those' with fill-in-the-blank questions.",
+  "questionType": "fill_in_the_blank",
+  "questions": [
+    {
+      "question": "___ is my laptop.",
+      "answer": "this",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ is your car outside.",
+      "answer": "that",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ are my keys here.",
+      "answer": "these",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ are the books on the shelf over there.",
+      "answer": "those",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ is a great idea!",
+      "answer": "this",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ is the park we went to last week.",
+      "answer": "that",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ are delicious cookies.",
+      "answer": "these",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ are the mountains we climbed.",
+      "answer": "those",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ is very important.",
+      "answer": "this",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ is the restaurant you recommended.",
+      "answer": "that",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ are my new shoes.",
+      "answer": "these",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ are the files you requested.",
+      "answer": "those",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ is my favorite song.",
+      "answer": "this",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ is the movie we watched yesterday.",
+      "answer": "that",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ are tasty apples.",
+      "answer": "these",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ are the pictures from our trip.",
+      "answer": "those",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ is very heavy.",
+      "answer": "this",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ is the building where he works.",
+      "answer": "that",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ are interesting articles.",
+      "answer": "these",
+      "choices": ["this", "that", "these", "those"]
+    },
+    {
+      "question": "___ are the songs we sang last night.",
+      "answer": "those",
+      "choices": ["this", "that", "these", "those"]
+    }
+  ]
+}
