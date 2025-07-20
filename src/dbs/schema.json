@@ -4,6 +4,12 @@
   "description": "Un esquema para una base de datos de preguntas, respuestas y ejemplos en inglés.",
   "type": "object",
   "properties": {
+    "audioSupported": {
+      "type": "boolean",
+      "title": "Audio Supported",
+      "description": "Indicates if questions in this set support audio playback.",
+      "default": false
+    },
     "$schema": {
       "type": "string",
       "default": "./schema.json"
@@ -83,6 +89,11 @@
             "items": {
               "type": "string"
             }
+          },
+          "audioBase64": {
+            "type": "string",
+            "title": "Audio (Base64)",
+            "description": "Audio for the question in base64 encoding."
           }
         },
         "required": ["question", "answer"]
