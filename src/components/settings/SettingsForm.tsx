@@ -26,7 +26,7 @@ const SettingsForm: React.FC = () => {
             id="animation"
             name="animation"
             className="mr-2"
-            checked={checked}
+            defaultChecked={checked}
             onChange={handleChange}
           />
           Enable animations in MultiChoice forms
