@@ -25,12 +25,20 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
   const progress = getSessionProgress(type);
   const stats = getSessionStats(type);
 
+  // Detect desktop for UI (numeric labels)
+  const [isDesktop, setIsDesktop] = React.useState(false);
+
   // Initialize session if it doesn't exist
   useEffect(() => {
     if (!currentSession && db.length > 0) {
       initializeSession(type, db);
     }
   }, [type, db, currentSession]);
+
+  // Detect desktop on mount
+  useEffect(() => {
+    setIsDesktop(window.matchMedia("(pointer:fine)").matches);
+  }, []);
 
   // Keyboard navigation for desktop only
   useEffect(() => {
@@ -43,13 +51,24 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
         handlePrevious();
       } else if (e.key === "ArrowRight") {
         handleNext();
+      } else if (/^[1-9]$/.test(e.key)) {
+        // Select choice by number (1-based)
+        const idx = parseInt(e.key, 10) - 1;
+        if (
+          currentQuestion &&
+          Array.isArray(currentQuestion.shuffledChoices) &&
+          idx >= 0 &&
+          idx < currentQuestion.shuffledChoices.length
+        ) {
+          handleAnswerSelect(currentQuestion.shuffledChoices[idx]);
+        }
       }
     };
     window.addEventListener("keydown", handleKeyDown);
     return () => {
       window.removeEventListener("keydown", handleKeyDown);
     };
-  }, [currentSession]);
+  }, [currentSession, currentQuestion]);
 
   // If there's no session yet, show loading
   if (!currentSession || !currentQuestion) {
@@ -189,7 +208,11 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
               onClick={() => handleAnswerSelect(choice)}
               variant={getButtonVariant(choice)}
               className={getButtonClassName(choice)}
+              aria-label={`Choice ${index + 1}: ${choice}`}
             >
+              {isDesktop && (
+                <span className="mr-2 text-xs text-gray-500">{index + 1}.</span>
+              )}
               {choice}
             </Button>
           ))}
