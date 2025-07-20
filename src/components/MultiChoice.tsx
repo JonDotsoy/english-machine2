@@ -32,6 +32,25 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
     }
   }, [type, db, currentSession]);
 
+  // Keyboard navigation for desktop only
+  useEffect(() => {
+    // Simple desktop detection
+    const isDesktop = window.matchMedia("(pointer:fine)").matches;
+    if (!isDesktop) return;
+
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === "ArrowLeft") {
+        handlePrevious();
+      } else if (e.key === "ArrowRight") {
+        handleNext();
+      }
+    };
+    window.addEventListener("keydown", handleKeyDown);
+    return () => {
+      window.removeEventListener("keydown", handleKeyDown);
+    };
+  }, [currentSession]);
+
   // If there's no session yet, show loading
   if (!currentSession || !currentQuestion) {
     return (
