@@ -7,6 +7,38 @@ const baseUrl = import.meta.env.BASE_URL;
 ---
 
 <Layout>
+  <title slot="title">Settings - English Machine</title>
+  <Fragment slot={"head"}>
+    <meta
+      name="description"
+      content="Adjust your settings for English Machine."
+    />
+    <meta
+      name="keywords"
+      content="settings, English Machine, user preferences"
+    />
+    <meta property="og:title" content="Settings - English Machine" />
+    <meta
+      property="og:description"
+      content="Adjust your settings for English Machine."
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:image"
+      content={`${import.meta.env.BASE_URL}favicon.svg`}
+    />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Settings - English Machine" />
+    <meta
+      name="twitter:description"
+      content="Adjust your settings for English Machine."
+    />
+    <meta
+      name="twitter:image"
+      content={`${import.meta.env.BASE_URL}favicon.svg`}
+    />
+    <meta name="robots" content="noindex, nofollow" />
+  </Fragment>
   <nav class="w-full bg-gray-100 border-b border-gray-200 py-2 mb-6">
     <div class="container mx-auto flex justify-between items-center px-4">
       <a
