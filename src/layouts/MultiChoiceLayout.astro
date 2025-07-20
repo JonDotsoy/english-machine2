@@ -15,6 +15,7 @@ const { db, id, title } = Astro.props;
 ---
 
 <Layout>
+  <title slot="title">{title} - English Machine</title>
   <Fragment slot={"head"}>
     <slot name="head" />
   </Fragment>
