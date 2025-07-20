@@ -1,0 +1,394 @@
+{
+  "$schema": "./schema.json",
+  "language": "en",
+  "title": "English-Spanish Restaurant Vocabulary",
+  "description": "Practice typical restaurant vocabulary: English word, Spanish translation, meaning, and choices.",
+  "slug": "english-spanish-restaurant-vocabulary",
+  "questionType": "definition_matching",
+  "questions": [
+    {
+      "question": "table",
+      "answer": "mesa",
+      "meaning": "A piece of furniture with a flat top and one or more legs, used for eating or working.",
+      "choices": ["mesa", "silla", "plato", "cuchillo"]
+    },
+    {
+      "question": "waiter",
+      "answer": "mesero",
+      "meaning": "A person who serves food and drinks at a restaurant.",
+      "choices": ["mesero", "cocinero", "cliente", "caja"]
+    },
+    {
+      "question": "menu",
+      "answer": "menú",
+      "meaning": "A list of food and drinks available at a restaurant.",
+      "choices": ["menú", "cuenta", "orden", "vaso"]
+    },
+    {
+      "question": "bill",
+      "answer": "cuenta",
+      "meaning": "A statement of money owed for food and drinks at a restaurant.",
+      "choices": ["cuenta", "propina", "menú", "pan"]
+    },
+    {
+      "question": "glass",
+      "answer": "vaso",
+      "meaning": "A container used for drinking liquids.",
+      "choices": ["vaso", "plato", "cuchara", "tenedor"]
+    },
+    {
+      "question": "plate",
+      "answer": "plato",
+      "meaning": "A flat dish used for serving food.",
+      "choices": ["plato", "vaso", "cuchillo", "silla"]
+    },
+    {
+      "question": "fork",
+      "answer": "tenedor",
+      "meaning": "A utensil with prongs used for eating food.",
+      "choices": ["tenedor", "cuchara", "cuchillo", "plato"]
+    },
+    {
+      "question": "knife",
+      "answer": "cuchillo",
+      "meaning": "A utensil with a sharp blade used for cutting food.",
+      "choices": ["cuchillo", "tenedor", "vaso", "mesa"]
+    },
+    {
+      "question": "spoon",
+      "answer": "cuchara",
+      "meaning": "A utensil with a round bowl used for eating or serving food.",
+      "choices": ["cuchara", "tenedor", "plato", "menú"]
+    },
+    {
+      "question": "napkin",
+      "answer": "servilleta",
+      "meaning": "A piece of cloth or paper used to clean your mouth and hands while eating.",
+      "choices": ["servilleta", "plato", "vaso", "cuenta"]
+    },
+    {
+      "question": "chair",
+      "answer": "silla",
+      "meaning": "A seat for one person, with a back, used at a table.",
+      "choices": ["silla", "mesa", "plato", "cuchillo"]
+    },
+    {
+      "question": "reservation",
+      "answer": "reserva",
+      "meaning": "An arrangement to have a table saved for you at a restaurant.",
+      "choices": ["reserva", "orden", "cuenta", "menú"]
+    },
+    {
+      "question": "order",
+      "answer": "orden",
+      "meaning": "A request for food or drinks at a restaurant.",
+      "choices": ["orden", "cuenta", "menú", "vaso"]
+    },
+    {
+      "question": "tip",
+      "answer": "propina",
+      "meaning": "Extra money given to a waiter for good service.",
+      "choices": ["propina", "cuenta", "menú", "plato"]
+    },
+    {
+      "question": "water",
+      "answer": "agua",
+      "meaning": "A clear liquid that people drink.",
+      "choices": ["agua", "vaso", "pan", "plato"]
+    },
+    {
+      "question": "bread",
+      "answer": "pan",
+      "meaning": "A food made from flour, water, and yeast, often served at restaurants.",
+      "choices": ["pan", "plato", "vaso", "menú"]
+    },
+    {
+      "question": "appetizer",
+      "answer": "entrada",
+      "meaning": "A small dish served before the main meal.",
+      "choices": ["entrada", "postre", "plato principal", "bebida"]
+    },
+    {
+      "question": "main course",
+      "answer": "plato principal",
+      "meaning": "The main dish of a meal.",
+      "choices": ["plato principal", "entrada", "postre", "bebida"]
+    },
+    {
+      "question": "dessert",
+      "answer": "postre",
+      "meaning": "Sweet food eaten at the end of a meal.",
+      "choices": ["postre", "entrada", "plato principal", "bebida"]
+    },
+    {
+      "question": "beverage",
+      "answer": "bebida",
+      "meaning": "A drink, especially one other than water.",
+      "choices": ["bebida", "agua", "postre", "plato principal"]
+    },
+    {
+      "question": "wine",
+      "answer": "vino",
+      "meaning": "An alcoholic drink made from grapes.",
+      "choices": ["vino", "cerveza", "agua", "bebida"]
+    },
+    {
+      "question": "beer",
+      "answer": "cerveza",
+      "meaning": "An alcoholic drink made from barley and hops.",
+      "choices": ["cerveza", "vino", "agua", "bebida"]
+    },
+    {
+      "question": "juice",
+      "answer": "jugo",
+      "meaning": "A drink made from the liquid of fruits or vegetables.",
+      "choices": ["jugo", "agua", "vino", "cerveza"]
+    },
+    {
+      "question": "coffee",
+      "answer": "café",
+      "meaning": "A hot drink made from roasted coffee beans.",
+      "choices": ["café", "té", "jugo", "agua"]
+    },
+    {
+      "question": "tea",
+      "answer": "té",
+      "meaning": "A hot drink made by infusing dried leaves in boiling water.",
+      "choices": ["té", "café", "jugo", "agua"]
+    },
+    {
+      "question": "salt",
+      "answer": "sal",
+      "meaning": "A white substance used to season food.",
+      "choices": ["sal", "azúcar", "pimienta", "aceite"]
+    },
+    {
+      "question": "pepper",
+      "answer": "pimienta",
+      "meaning": "A spice used to add flavor to food.",
+      "choices": ["pimienta", "sal", "azúcar", "aceite"]
+    },
+    {
+      "question": "oil",
+      "answer": "aceite",
+      "meaning": "A liquid used in cooking and dressing salads.",
+      "choices": ["aceite", "vinagre", "sal", "azúcar"]
+    },
+    {
+      "question": "vinegar",
+      "answer": "vinagre",
+      "meaning": "A sour liquid used in cooking and salads.",
+      "choices": ["vinagre", "aceite", "sal", "azúcar"]
+    },
+    {
+      "question": "soup",
+      "answer": "sopa",
+      "meaning": "A liquid dish made by boiling meat, vegetables, etc.",
+      "choices": ["sopa", "ensalada", "plato principal", "postre"]
+    },
+    {
+      "question": "salad",
+      "answer": "ensalada",
+      "meaning": "A dish of mixed vegetables, usually served cold.",
+      "choices": ["ensalada", "sopa", "plato principal", "postre"]
+    },
+    {
+      "question": "meat",
+      "answer": "carne",
+      "meaning": "Animal flesh eaten as food.",
+      "choices": ["carne", "pollo", "pescado", "verdura"]
+    },
+    {
+      "question": "chicken",
+      "answer": "pollo",
+      "meaning": "A type of bird eaten as food.",
+      "choices": ["pollo", "carne", "pescado", "verdura"]
+    },
+    {
+      "question": "fish",
+      "answer": "pescado",
+      "meaning": "An aquatic animal eaten as food.",
+      "choices": ["pescado", "pollo", "carne", "verdura"]
+    },
+    {
+      "question": "vegetable",
+      "answer": "verdura",
+      "meaning": "A plant or part of a plant used as food.",
+      "choices": ["verdura", "carne", "pollo", "pescado"]
+    },
+    {
+      "question": "rice",
+      "answer": "arroz",
+      "meaning": "A grain used as food, often served as a side dish.",
+      "choices": ["arroz", "pasta", "pan", "verdura"]
+    },
+    {
+      "question": "pasta",
+      "answer": "pasta",
+      "meaning": "A dish made from wheat flour and water, often served with sauce.",
+      "choices": ["pasta", "arroz", "pan", "verdura"]
+    },
+    {
+      "question": "egg",
+      "answer": "huevo",
+      "meaning": "A round object laid by birds, eaten as food.",
+      "choices": ["huevo", "pollo", "carne", "verdura"]
+    },
+    {
+      "question": "bitter",
+      "answer": "amargo",
+      "meaning": "Having a sharp, unpleasant taste.",
+      "choices": ["amargo", "dulce", "picante", "salado"]
+    },
+    {
+      "question": "cheese",
+      "answer": "queso",
+      "meaning": "A food made from milk, usually solid and yellow or white.",
+      "choices": ["queso", "mantequilla", "leche", "yogur"]
+    },
+    {
+      "question": "milk",
+      "answer": "leche",
+      "meaning": "A white liquid produced by cows, used as a drink or in cooking.",
+      "choices": ["leche", "queso", "yogur", "mantequilla"]
+    },
+    {
+      "question": "yogurt",
+      "answer": "yogur",
+      "meaning": "A creamy food made from milk fermented by bacteria.",
+      "choices": ["yogur", "leche", "queso", "mantequilla"]
+    },
+    {
+      "question": "fruit",
+      "answer": "fruta",
+      "meaning": "The sweet and fleshy product of a tree or plant, eaten as food.",
+      "choices": ["fruta", "verdura", "carne", "pollo"]
+    },
+    {
+      "question": "ice cream",
+      "answer": "helado",
+      "meaning": "A sweet frozen food made from milk and sugar.",
+      "choices": ["helado", "postre", "fruta", "pan"]
+    },
+    {
+      "question": "waitress",
+      "answer": "mesera",
+      "meaning": "A woman who serves food and drinks at a restaurant.",
+      "choices": ["mesera", "mesero", "cocinera", "cliente"]
+    },
+    {
+      "question": "cook",
+      "answer": "cocinero",
+      "meaning": "A person who prepares food in a restaurant.",
+      "choices": ["cocinero", "mesero", "cliente", "caja"]
+    },
+    {
+      "question": "customer",
+      "answer": "cliente",
+      "meaning": "A person who buys food or drinks at a restaurant.",
+      "choices": ["cliente", "mesero", "cocinero", "caja"]
+    },
+    {
+      "question": "cashier",
+      "answer": "cajero",
+      "meaning": "A person who takes payment at a restaurant.",
+      "choices": ["cajero", "mesero", "cocinero", "cliente"]
+    },
+    {
+      "question": "host",
+      "answer": "anfitrión",
+      "meaning": "A person who greets and seats guests at a restaurant.",
+      "choices": ["anfitrión", "mesero", "cocinero", "cliente"]
+    },
+    {
+      "question": "tip jar",
+      "answer": "bote de propinas",
+      "meaning": "A container for collecting tips from customers.",
+      "choices": ["bote de propinas", "cuenta", "menú", "plato"]
+    },
+    {
+      "question": "straw",
+      "answer": "popote",
+      "meaning": "A thin tube used for drinking liquids.",
+      "choices": ["popote", "vaso", "plato", "cuchara"]
+    },
+    {
+      "question": "ice",
+      "answer": "hielo",
+      "meaning": "Frozen water used to cool drinks.",
+      "choices": ["hielo", "agua", "vaso", "pan"]
+    },
+    {
+      "question": "sauce",
+      "answer": "salsa",
+      "meaning": "A liquid or semi-liquid substance served with food to add flavor.",
+      "choices": ["salsa", "sal", "aceite", "vinagre"]
+    },
+    {
+      "question": "waitlist",
+      "answer": "lista de espera",
+      "meaning": "A list of people waiting for a table at a restaurant.",
+      "choices": ["lista de espera", "reserva", "cuenta", "menú"]
+    },
+    {
+      "question": "special",
+      "answer": "especial",
+      "meaning": "A dish offered at a reduced price or for a limited time.",
+      "choices": ["especial", "plato principal", "entrada", "postre"]
+    },
+    {
+      "question": "side dish",
+      "answer": "guarnición",
+      "meaning": "A small dish served with the main course.",
+      "choices": ["guarnición", "plato principal", "entrada", "postre"]
+    },
+    {
+      "question": "grilled",
+      "answer": "a la parrilla",
+      "meaning": "Cooked over direct heat on a grill.",
+      "choices": ["a la parrilla", "frito", "hervido", "horneado"]
+    },
+    {
+      "question": "fried",
+      "answer": "frito",
+      "meaning": "Cooked in hot oil.",
+      "choices": ["frito", "hervido", "horneado", "a la parrilla"]
+    },
+    {
+      "question": "baked",
+      "answer": "horneado",
+      "meaning": "Cooked in an oven.",
+      "choices": ["horneado", "frito", "hervido", "a la parrilla"]
+    },
+    {
+      "question": "boiled",
+      "answer": "hervido",
+      "meaning": "Cooked in boiling water.",
+      "choices": ["hervido", "frito", "horneado", "a la parrilla"]
+    },
+    {
+      "question": "spicy",
+      "answer": "picante",
+      "meaning": "Having a strong, hot flavor.",
+      "choices": ["picante", "dulce", "salado", "amargo"]
+    },
+    {
+      "question": "sweet",
+      "answer": "dulce",
+      "meaning": "Having a sugary flavor.",
+      "choices": ["dulce", "picante", "salado", "amargo"]
+    },
+    {
+      "question": "salty",
+      "answer": "salado",
+      "meaning": "Tasting of salt.",
+      "choices": ["salado", "dulce", "picante", "amargo"]
+    },
+    {
+      "question": "bitter",
+      "answer": "amargo",
+      "meaning": "Having a sharp, unpleasant taste.",
+      "choices": ["amargo", "dulce", "picante", "salado"]
+    }
+  ]
+}
