@@ -8,10 +8,11 @@ interface Props {
   db: any[];
   id: string;
   title: string;
+  description?: string;
 }
 
-// Props: db, id, title
-const { db, id, title } = Astro.props;
+// Props: db, id, title, description
+const { db, id, title, description } = Astro.props;
 ---
 
 <Layout>
@@ -32,6 +33,11 @@ const { db, id, title } = Astro.props;
         {title}
       </span>
     </h1>
+    {
+      description && (
+        <p class="text-base text-gray-700 mb-6 px-4">{description}</p>
+      )
+    }
     <MultiChoice client:load type={id} db={db} />
   </div>
   <footer class="mt-10 text-center text-sm text-gray-500 container m-auto p-4">

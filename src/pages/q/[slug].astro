@@ -36,6 +36,7 @@ const { slug, questionsDB }: Props = Astro.props;
 <MultiChoiceLayout
   id={slug}
   title={questionsDB.title!}
+  description={questionsDB.description}
   db={questionsDB.questions}
 >
   <Fragment slot={"head"}>
