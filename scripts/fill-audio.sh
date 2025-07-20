@@ -38,7 +38,7 @@ fi
 # Iterate over each question in the file
 QUESTION_COUNT=$(jq '.questions | length' "$DB_FILE")
 for i in $(seq 0 $((QUESTION_COUNT - 1))); do
-  QUESTION=$(jq -r ".questions[$i].question" "$DB_FILE")
+  QUESTION=$(jq -r ".questions[$i].question" "$DB_FILE" | sed 's/___/.../g')
   ANSWER=$(jq -r ".questions[$i].answer" "$DB_FILE")
   echo "Processing question $((i+1))/$QUESTION_COUNT: $QUESTION"
 
