@@ -14,6 +14,7 @@ import {
 } from "@/stores/session";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import confetti from "canvas-confetti";
+import { animationStore } from "@/components/settings/store";
 
 const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
   type,
@@ -24,6 +25,7 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
   const currentQuestion = getCurrentQuestion(type);
   const progress = getSessionProgress(type);
   const stats = getSessionStats(type);
+  const animationEnabled = useStore(animationStore);
 
   // Detect desktop for UI (numeric labels)
   const [isDesktop, setIsDesktop] = React.useState(false);
@@ -81,8 +83,8 @@ const MultiChoice: React.FC<{ type: string; db: Question[] }> = ({
 
   const handleAnswerSelect = (selectedAnswer: string) => {
     answerCurrentQuestion(type, selectedAnswer);
-    // Log to console if the selected answer is correct
-    if (selectedAnswer === currentQuestion.answer) {
+    // Only show confetti if animation is enabled and answer is correct
+    if (animationEnabled && selectedAnswer === currentQuestion.answer) {
       confetti();
     }
   };
