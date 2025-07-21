@@ -381,5 +381,6 @@
       "answer": "on",
       "choices": ["in", "on"]
     }
-  ]
+  ],
+  "labels": ["prepositions"]
 }

@@ -192,5 +192,6 @@
       "choices": ["bar", "restaurant", "market", "hotel", "school"],
       "meaning": "A place that serves alcoholic drinks."
     }
-  ]
+  ],
+  "labels": ["vocabulary", "restaurant"]
 }

@@ -43,5 +43,6 @@ export type QuestionsDB = {
     | "multiple_choice_meaning"
     | "identify_phrasal_verb"
     | "error_correction";
+  labels?: string[];
   questions: Question[];
 };

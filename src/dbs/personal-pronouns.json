@@ -306,5 +306,6 @@
       "answer": "It",
       "choices": ["It", "He", "She", "They", "You", "We"]
     }
-  ]
+  ],
+  "labels": ["pronouns"]
 }

@@ -56,6 +56,14 @@
         "error_correction"
       ]
     },
+    "labels": {
+      "type": "array",
+      "title": "Labels",
+      "description": "Categories for grouping question sets.",
+      "items": {
+        "type": "string"
+      }
+    },
     "questions": {
       "type": "array",
       "title": "Preguntas",

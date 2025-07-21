@@ -306,5 +306,6 @@
       "choices": ["was", "were", "is", "are"],
       "meaning": "Ellos fueron los campeones el año pasado."
     }
-  ]
+  ],
+  "labels": ["verb tense"]
 }

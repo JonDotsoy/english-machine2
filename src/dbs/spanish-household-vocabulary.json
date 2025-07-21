@@ -96,5 +96,6 @@
       "choices": ["bed", "sofa", "chair", "table", "desk"],
       "meaning": "A piece of furniture for sleeping or resting."
     }
-  ]
+  ],
+  "labels": ["vocabulary", "household"]
 }
