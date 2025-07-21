@@ -89,11 +89,6 @@
             "items": {
               "type": "string"
             }
-          },
-          "audioBase64": {
-            "type": "string",
-            "title": "Audio (Base64)",
-            "description": "Audio for the question in base64 encoding."
           }
         },
         "required": ["question", "answer"]
