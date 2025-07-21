@@ -391,5 +391,6 @@
       "meaning": "Having a sharp, unpleasant taste.",
       "choices": ["amargo", "dulce", "picante", "salado"]
     }
-  ]
+  ],
+  "labels": ["vocabulary", "restaurant"]
 }

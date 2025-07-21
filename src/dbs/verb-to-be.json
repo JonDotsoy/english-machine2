@@ -111,5 +111,6 @@
       "answer": "are",
       "choices": ["am", "is", "are", "be"]
     }
-  ]
+  ],
+  "labels": ["verb tense"]
 }

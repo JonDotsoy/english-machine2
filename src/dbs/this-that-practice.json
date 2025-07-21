@@ -256,5 +256,6 @@
       "answer": "this",
       "choices": ["this", "that"]
     }
-  ]
+  ],
+  "labels": ["pronouns"]
 }

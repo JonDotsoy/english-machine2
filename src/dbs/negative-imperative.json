@@ -116,5 +116,6 @@
       "answer": "Don't sit",
       "choices": ["Don't sit", "Don't sits", "Doesn't sit", "Sit not"]
     }
-  ]
+  ],
+  "labels": ["imperative"]
 }
