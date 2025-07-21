@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "title": "Audios",
+  "description": "Schema for audios mapping: key is audio name, value is base64 string.",
+  "type": "object",
+  "properties": {
+    "audios": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string",
+        "description": "Base64-encoded audio string."
+      },
+      "description": "Dictionary of audio names to base64 strings."
+    }
+  },
+  "required": ["audios"]
+}
