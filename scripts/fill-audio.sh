@@ -47,24 +47,39 @@ fi
 # Iterate over each question in the file
 QUESTION_COUNT=$(jq '.questions | length' "$DB_FILE")
 
+function generate_audio_base64() {
+  TEXT="$1"
+
+  # Generate hash for the text
+  AUDIO_HASH=$(echo -n "$TEXT" | tr '[:upper:]' '[:lower:]' | sha256sum | awk '{print $1}')
+
+  # Only write if the key does not exist in audios_map
+  AUDIO_EXISTS=$(jq -r ".audios_map[\"$TEXT\"]" "$AUDIO_JSON_PATH")
+  if [ "$AUDIO_EXISTS" = "null" ]; then
+    echo "Adding hash for: $TEXT"
+    jq ".audios_map[\"$TEXT\"] = \"$AUDIO_HASH\"" "$AUDIO_JSON_PATH" > "$AUDIO_JSON_PATH.tmp" && mv "$AUDIO_JSON_PATH.tmp" "$AUDIO_JSON_PATH"
+  fi
+
+  # Only write if the key does not exist in audios
+  BASE64_EXISTS=$(jq -r ".audios[\"$AUDIO_HASH\"]" "$AUDIO_JSON_PATH")
+  if [ "$BASE64_EXISTS" = "null" ]; then
+    echo "Adding base64 for hash: $AUDIO_HASH"
+    AUDIO_BASE64=$($GTTS_CLI_PATH "$TEXT" | base64 -b 0)
+    jq ".audios[\"$AUDIO_HASH\"] = \"$AUDIO_BASE64\"" "$AUDIO_JSON_PATH" > "$AUDIO_JSON_PATH.tmp" && mv "$AUDIO_JSON_PATH.tmp" "$AUDIO_JSON_PATH"
+  fi
+}
+
 for i in $(seq 0 $((QUESTION_COUNT - 1))); do
   QUESTION=$(jq -r ".questions[$i].question" "$DB_FILE" | sed 's/___/.../g')
   ANSWER=$(jq -r ".questions[$i].answer" "$DB_FILE")
+  CHOICES=$(jq -r ".questions[$i].choices | join(\"|\")" "$DB_FILE")
   echo "Processing question $((i+1))/$QUESTION_COUNT: $QUESTION"
 
-  # Generate base64 audio for the question text
-  AUDIO_BASE64=$($GTTS_CLI_PATH "$QUESTION" | base64 -b 0)
-
-  # Save base64 audio in audios.json under audios property, using a unique key (e.g., question text hash)
-  # Use sha256sum to generate a key from the question text
-  AUDIO_KEY=$(echo -n "$QUESTION" | tr '[:upper:]' '[:lower:]' | sha256sum | awk '{print $1}')
-
-  # Only write if the key does not exist
-  AUDIO_EXISTS=$(jq -r ".audios[\"$AUDIO_KEY\"]" "$AUDIO_JSON_PATH")
-
-  if [ "$AUDIO_EXISTS" = "null" ]; then
-    jq ".audios[\"$AUDIO_KEY\"] = \"$AUDIO_BASE64\"" "$AUDIO_JSON_PATH" > "$AUDIO_JSON_PATH.tmp" && mv "$AUDIO_JSON_PATH.tmp" "$AUDIO_JSON_PATH"
-  fi
+  generate_audio_base64 "$QUESTION"
+  generate_audio_base64 "$ANSWER"
+  for choice in $(echo "$CHOICES" | tr '|' '\n'); do
+    generate_audio_base64 "$choice"
+  done
 done
 
 
