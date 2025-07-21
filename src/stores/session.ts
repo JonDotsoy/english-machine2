@@ -49,7 +49,7 @@ export function initializeSession(questionType: string, questions: Question[]) {
       originalIndex: index,
       shuffledChoices: (question.choices || []).sort(() => Math.random() - 0.5),
       meaning: question.meaning, // Added meaning field initialization
-      audioBase64: question.audioBase64, // Optional audio property for playback
+      audioBase64: question.questionAudioBase64, // Optional audio property for playback
     }));
 
   const sessionState: SessionState = {
