@@ -4,6 +4,14 @@
   "description": "Schema for audios mapping: key is audio name, value is base64 string.",
   "type": "object",
   "properties": {
+    "audios_map": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string",
+        "description": "Hash of the audio string for integrity checks."
+      },
+      "description": "Hash of the audios object for integrity checks."
+    },
     "audios": {
       "type": "object",
       "additionalProperties": {
