@@ -392,5 +392,5 @@
       "choices": ["amargo", "dulce", "picante", "salado"]
     }
   ],
-  "labels": ["vocabulary", "restaurant"]
+  "labels": ["vocabulary", "restaurant", "A1"]
 }

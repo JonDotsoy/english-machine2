@@ -162,5 +162,5 @@
       "choices": ["on", "in", "under", "behind", "next to", "between"]
     }
   ],
-  "labels": ["prepositions"]
+  "labels": ["prepositions", "A1"]
 }
