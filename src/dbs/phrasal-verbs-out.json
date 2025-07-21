@@ -1,0 +1,230 @@
+{
+  "$schema": "./schema.json",
+  "language": "en",
+  "description": "Practice the meanings and usage of phrasal verbs with 'out' using definition matching questions.",
+  "questionType": "definition_matching",
+  "questions": [
+    {
+      "question": "find out",
+      "answer": "To discover information or learn something.",
+      "example": "I need to find out who owns this car.",
+      "choices": [
+        "To discover information or learn something.",
+        "To delay an event.",
+        "To tidy a room.",
+        "To apologize for a mistake."
+      ]
+    },
+    {
+      "question": "run out",
+      "answer": "To have no more of something left.",
+      "example": "We ran out of milk this morning.",
+      "choices": [
+        "To have no more of something left.",
+        "To start something suddenly.",
+        "To fix a broken item.",
+        "To take a short nap."
+      ]
+    },
+    {
+      "question": "break out",
+      "answer": "To start suddenly, often used for fights or wars.",
+      "example": "A fire broke out in the kitchen.",
+      "choices": [
+        "To start suddenly, often used for fights or wars.",
+        "To end a relationship.",
+        "To look for something missing.",
+        "To save money over time."
+      ]
+    },
+    {
+      "question": "burn out",
+      "answer": "To become extremely tired or exhausted from overwork.",
+      "example": "He burned out after months of overtime.",
+      "choices": [
+        "To become extremely tired or exhausted from overwork.",
+        "To turn off a light.",
+        "To cancel an appointment.",
+        "To join a club."
+      ]
+    },
+    {
+      "question": "drop out",
+      "answer": "To leave school or an activity before finishing it.",
+      "example": "She dropped out of college last year.",
+      "choices": [
+        "To leave school or an activity before finishing it.",
+        "To invite someone on a date.",
+        "To check something carefully.",
+        "To arrive at a meeting."
+      ]
+    },
+    {
+      "question": "come out",
+      "answer": "To become known or be released.",
+      "example": "The new book comes out next month.",
+      "choices": [
+        "To become known or be released.",
+        "To repair something damaged.",
+        "To move closer slowly.",
+        "To look after children."
+      ]
+    },
+    {
+      "question": "turn out",
+      "answer": "To result or end in a particular way.",
+      "example": "The party turned out better than we expected.",
+      "choices": [
+        "To result or end in a particular way.",
+        "To distribute goods.",
+        "To defeat an opponent.",
+        "To borrow some money."
+      ]
+    },
+    {
+      "question": "fall out",
+      "answer": "To quarrel or stop being friendly with someone.",
+      "example": "They fell out over a trivial matter.",
+      "choices": [
+        "To quarrel or stop being friendly with someone.",
+        "To clean a room thoroughly.",
+        "To push something aside.",
+        "To wake up very early."
+      ]
+    },
+    {
+      "question": "hand out",
+      "answer": "To distribute something to a group of people.",
+      "example": "The teacher handed out the tests.",
+      "choices": [
+        "To distribute something to a group of people.",
+        "To pick someone up in a car.",
+        "To put clothes on.",
+        "To start a new hobby."
+      ]
+    },
+    {
+      "question": "point out",
+      "answer": "To draw attention to something or someone.",
+      "example": "She pointed out the mistake in my essay.",
+      "choices": [
+        "To draw attention to something or someone.",
+        "To turn down a job offer.",
+        "To make up after a fight.",
+        "To give someone a gift."
+      ]
+    },
+    {
+      "question": "stick out",
+      "answer": "To be noticeable or easily seen.",
+      "example": "His bright tie really sticks out.",
+      "choices": [
+        "To be noticeable or easily seen.",
+        "To avoid doing chores.",
+        "To borrow money from a bank.",
+        "To travel abroad."
+      ]
+    },
+    {
+      "question": "stand out",
+      "answer": "To be very noticeable or superior to others.",
+      "example": "Her talent makes her stand out from the rest.",
+      "choices": [
+        "To be very noticeable or superior to others.",
+        "To end a business agreement.",
+        "To pass time by relaxing.",
+        "To get along with everyone."
+      ]
+    },
+    {
+      "question": "work out",
+      "answer": "To exercise or to find a solution to a problem.",
+      "example": "We finally worked out how to fix the error.",
+      "choices": [
+        "To exercise or to find a solution to a problem.",
+        "To invite someone in.",
+        "To throw something away.",
+        "To congratulate a friend."
+      ]
+    },
+    {
+      "question": "carry out",
+      "answer": "To complete or perform a task.",
+      "example": "The scientists carried out several tests.",
+      "choices": [
+        "To complete or perform a task.",
+        "To search for an item.",
+        "To break up a fight.",
+        "To put furniture away."
+      ]
+    },
+    {
+      "question": "back out",
+      "answer": "To decide not to do something previously agreed.",
+      "example": "He backed out of the deal at the last minute.",
+      "choices": [
+        "To decide not to do something previously agreed.",
+        "To help someone escape.",
+        "To wash dishes quickly.",
+        "To laugh at a joke."
+      ]
+    },
+    {
+      "question": "check out",
+      "answer": "To examine or look at something interesting.",
+      "example": "You should check out that new café downtown.",
+      "choices": [
+        "To examine or look at something interesting.",
+        "To stop a car suddenly.",
+        "To cancel a plan.",
+        "To buy something expensive."
+      ]
+    },
+    {
+      "question": "figure out",
+      "answer": "To understand or solve something.",
+      "example": "We need to figure out how this machine works.",
+      "choices": [
+        "To understand or solve something.",
+        "To hide from someone.",
+        "To postpone an appointment.",
+        "To make a phone call."
+      ]
+    },
+    {
+      "question": "pass out",
+      "answer": "To become unconscious or faint.",
+      "example": "He passed out from the heat.",
+      "choices": [
+        "To become unconscious or faint.",
+        "To start an argument.",
+        "To meet someone for the first time.",
+        "To tidy up a room."
+      ]
+    },
+    {
+      "question": "single out",
+      "answer": "To choose one person or thing from a group for special attention.",
+      "example": "The teacher singled out the best performer.",
+      "choices": [
+        "To choose one person or thing from a group for special attention.",
+        "To delay the beginning of something.",
+        "To travel at night.",
+        "To throw something away."
+      ]
+    },
+    {
+      "question": "turn out",
+      "answer": "To attend or be present at an event.",
+      "example": "A large crowd turned out for the concert.",
+      "choices": [
+        "To attend or be present at an event.",
+        "To escape quickly.",
+        "To solve a puzzle.",
+        "To stay up late."
+      ]
+    }
+  ],
+  "slug": "phrasal-verbs-out",
+  "title": "Phrasal Verbs with 'Out'"
+}
