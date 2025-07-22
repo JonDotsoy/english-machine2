@@ -35,9 +35,35 @@ const sampleQuestions: Question[] = [
   },
 ];
 
+const explanationQuestions: Question[] = [
+  {
+    question: "What is the past participle of 'go'?",
+    answer: "gone",
+    choices: ["go", "went", "gone", "going"],
+    explanation:
+      "'Gone' is the past participle form of 'go'. It is used with 'have/has/had' to form perfect tenses.",
+    example: "She has gone to the store.",
+  },
+  {
+    question: "Which word is a synonym for 'happy'?",
+    answer: "joyful",
+    choices: ["sad", "angry", "joyful", "tired"],
+    explanation:
+      "'Joyful' means feeling, expressing, or causing great pleasure and happiness.",
+    example: "The children were joyful at the party.",
+  },
+];
+
 export const Default: Story = {
   args: {
     type: "storybook-demo",
     questions: sampleQuestions,
+  },
+};
+
+export const WithExplanation: Story = {
+  args: {
+    type: "storybook-explanation",
+    questions: explanationQuestions,
   },
 };

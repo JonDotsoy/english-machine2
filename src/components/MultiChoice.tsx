@@ -334,9 +334,18 @@ const MultiChoice: React.FC<{ type: string; questions: Question[] }> = ({
           </div>
           {/* Only show the correct answer if answered correctly */}
           {currentQuestion.isCorrect && (
-            <p className="text-sm text-gray-600 mt-2">
-              Excellent! You selected the correct answer.
-            </p>
+            <>
+              <p className="text-sm text-gray-600 mt-2">
+                Excellent! You selected the correct answer.
+              </p>
+              {currentQuestion.explanation && (
+                <div className="mt-2 p-3 bg-yellow-50 rounded-lg border-l-4 border-yellow-400">
+                  <p className="text-sm text-yellow-800">
+                    <strong>Explanation:</strong> {currentQuestion.explanation}
+                  </p>
+                </div>
+              )}
+            </>
           )}
         </div>
       )}

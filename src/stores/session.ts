@@ -12,6 +12,7 @@ export type SessionQuestion = {
   selectedAnswer?: string;
   isCorrect?: boolean;
   meaning?: string; // Added meaning field to align with Question type
+  explanation?: string; // Explanation to show when the user selects the correct choice
   audioBase64?: string; // Optional audio property for playback
 };
 
@@ -49,6 +50,7 @@ export function initializeSession(questionType: string, questions: Question[]) {
       originalIndex: index,
       shuffledChoices: (question.choices || []).sort(() => Math.random() - 0.5),
       meaning: question.meaning, // Added meaning field initialization
+      explanation: question.explanation, // Explanation to show when the user selects the correct choice
       audioBase64: question.questionAudioBase64, // Optional audio property for playback
     }));
 
