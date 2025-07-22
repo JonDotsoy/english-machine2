@@ -100,11 +100,25 @@ const MultiChoice: React.FC<{ type: string; questions: Question[] }> = ({
     );
   }
 
-  const handleAnswerSelect = (selectedAnswer: string) => {
+  const handleAnswerSelect = (
+    selectedAnswer: string,
+    e?: React.MouseEvent<HTMLButtonElement>,
+  ) => {
     answerCurrentQuestion(type, selectedAnswer);
     // Only show confetti if animation is enabled and answer is correct
     if (animationEnabled && selectedAnswer === currentQuestion.answer) {
-      confetti();
+      if (e) {
+        const { clientX, clientY, currentTarget } = e;
+        // Calculate origin relative to viewport for canvas-confetti
+        const rect = currentTarget.getBoundingClientRect();
+        const x = clientX || rect.left + rect.width / 2;
+        const y = clientY || rect.top + rect.height / 2;
+        confetti({
+          origin: { x: x / window.innerWidth, y: y / window.innerHeight },
+        });
+      } else {
+        confetti();
+      }
     }
   };
 
@@ -244,7 +258,7 @@ const MultiChoice: React.FC<{ type: string; questions: Question[] }> = ({
           {currentQuestion.shuffledChoices.map((choice, index) => (
             <Button
               key={`${choice}-${index}`}
-              onClick={() => handleAnswerSelect(choice)}
+              onClick={(e) => handleAnswerSelect(choice, e)}
               variant={getButtonVariant(choice)}
               className={getButtonClassName(choice)}
               aria-label={`Choice ${index + 1}: ${choice}`}
