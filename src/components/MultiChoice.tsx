@@ -107,8 +107,12 @@ const MultiChoice: React.FC<{ type: string; questions: Question[] }> = ({
     e?: React.MouseEvent<HTMLButtonElement>,
   ) => {
     answerCurrentQuestion(type, selectedAnswer);
-    // Only show confetti if animation is enabled and answer is correct
-    if (animationEnabled && selectedAnswer === currentQuestion.answer) {
+    // Mostrar confetti solo si la animación está habilitada, la respuesta es correcta y NO está en modo examen
+    if (
+      animationEnabled &&
+      selectedAnswer === currentQuestion.answer &&
+      !examMode
+    ) {
       if (e) {
         const { clientX, clientY, currentTarget } = e;
         // Calculate origin relative to viewport for canvas-confetti
@@ -140,6 +144,10 @@ const MultiChoice: React.FC<{ type: string; questions: Question[] }> = ({
   };
 
   const getButtonVariant = (choice: string) => {
+    // En modo examen y sin mostrar resultados, el seleccionado es gris (outline), sin feedback de correcto/incorrecto
+    if (examMode && !showResults) {
+      return "outline";
+    }
     if (!currentQuestion.selectedAnswer) return "outline";
 
     if (choice === currentQuestion.selectedAnswer) {
@@ -151,6 +159,13 @@ const MultiChoice: React.FC<{ type: string; questions: Question[] }> = ({
   };
 
   const getButtonClassName = (choice: string) => {
+    // En modo examen y sin mostrar resultados, el seleccionado es gris (bg-gray-300), sin feedback de correcto/incorrecto
+    if (examMode && !showResults) {
+      if (choice === currentQuestion.selectedAnswer) {
+        return "w-full mb-2 bg-gray-300 hover:bg-gray-400";
+      }
+      return "w-full mb-2";
+    }
     if (!currentQuestion.selectedAnswer) return "w-full mb-2";
 
     if (choice === currentQuestion.selectedAnswer) {
