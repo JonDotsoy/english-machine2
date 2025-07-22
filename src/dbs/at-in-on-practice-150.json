@@ -262,542 +262,650 @@
     {
       "question": "We left the tickets ___ home.",
       "answer": "at",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'At' is used for specific places like 'at home'."
     },
     {
       "question": "There's a note ___ the bottom of the page.",
       "answer": "at",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'At' is used for specific points like 'at the bottom'."
     },
     {
       "question": "I saw it ___ the newspaper.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for months, years, and enclosed spaces."
     },
     {
       "question": "I'll meet you ___ lunch.",
       "answer": "at",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'At' is used for meal times."
     },
     {
       "question": "The dog is sleeping ___ the floor.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces."
     },
     {
       "question": "She is waiting ___ the parking lot.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for areas and places."
     },
     {
       "question": "Let's watch a movie ___ the evening.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for parts of the day."
     },
     {
       "question": "He is good ___ playing the guitar.",
       "answer": "at",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'At' is used for specific times or places."
     },
     {
       "question": "The meeting is ___ Monday.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for days and dates."
     },
     {
       "question": "My birthday is ___ July.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for months."
     },
     {
       "question": "She was born ___ 1990.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for years."
     },
     {
       "question": "We will meet ___ the afternoon.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for parts of the day."
     },
     {
       "question": "The keys are ___ the table.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces."
     },
     {
       "question": "He lives ___ New York.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for cities and countries."
     },
     {
       "question": "There is a stain ___ your shirt.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces or days."
     },
     {
       "question": "My phone is ___ my pocket.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for months, years, and enclosed spaces."
     },
     {
       "question": "He is lying ___ the bed.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces."
     },
     {
       "question": "The cat is sleeping ___ the box.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used when something is inside something else."
     },
     {
       "question": "The picture is hanging ___ the wall.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces."
     },
     {
       "question": "She works ___ the city center.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for areas and places."
     },
     {
       "question": "I saw the movie ___ TV.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for media like TV or websites."
     },
     {
       "question": "We arrived ___ time.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used in the phrase 'on time'."
     },
     {
       "question": "I'll see you ___ the morning.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for parts of the day."
     },
     {
       "question": "I like to read ___ the train.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for public transport."
     },
     {
       "question": "We visited Paris ___ 2022.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for years."
     },
     {
       "question": "The dog is ___ the garden.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for areas and places."
     },
     {
       "question": "Write your name ___ the line.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces."
     },
     {
       "question": "She put the dishes ___ the cupboard.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used when something is inside something else."
     },
     {
       "question": "I saw it ___ the newspaper.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for months, years, and enclosed spaces."
     },
     {
       "question": "Let's meet ___ Tuesday.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for days and dates."
     },
     {
       "question": "He drew a smiley face ___ the paper.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces."
     },
     {
       "question": "The supermarket is ___ Elm Street.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for street names."
     },
     {
       "question": "The report is ___ my desk.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces."
     },
     {
       "question": "She sat ___ the car.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used when something is inside something else."
     },
     {
       "question": "The kids are playing ___ the yard.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for areas and places."
     },
     {
       "question": "He's hiding ___ the closet.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used when something is inside something else."
     },
     {
       "question": "There's a spider ___ the bathroom.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used when something is inside something else."
     },
     {
       "question": "We stored the boxes ___ the attic.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used when something is inside something else."
     },
     {
       "question": "She works ___ an office downtown.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for areas and places."
     },
     {
       "question": "My wallet is ___ my backpack.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used when something is inside something else."
     },
     {
       "question": "They arrived ___ the lobby.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for areas and places."
     },
     {
       "question": "The baby is asleep ___ the crib.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used when something is inside something else."
     },
     {
       "question": "I found it ___ the drawer.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used when something is inside something else."
     },
     {
       "question": "She sat ___ the front row.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for months, years, and enclosed spaces."
     },
     {
       "question": "There's a fountain ___ the middle of the square.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for areas and places."
     },
     {
       "question": "He lives ___ the south of Spain.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for areas and places."
     },
     {
       "question": "We met ___ the center of town.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for areas and places."
     },
     {
       "question": "The city is located ___ the valley.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for areas and places."
     },
     {
       "question": "The store is ___ the corner of the mall.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for months, years, and enclosed spaces."
     },
     {
       "question": "He got lost ___ the crowd.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for areas and places."
     },
     {
       "question": "We were stuck ___ traffic.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for areas and places."
     },
     {
       "question": "He was born ___ 1985.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for years."
     },
     {
       "question": "The festival is ___ August.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for months."
     },
     {
       "question": "She usually relaxes ___ the evening.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for parts of the day."
     },
     {
       "question": "Winter begins ___ December.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for months."
     },
     {
       "question": "They moved here ___ 2015.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for years."
     },
     {
       "question": "She went abroad ___ 2003.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for years."
     },
     {
       "question": "The museum opened ___ 1989.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for years."
     },
     {
       "question": "I'll finish it ___ an hour.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for periods of time."
     },
     {
       "question": "He returned ___ two weeks.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for periods of time."
     },
     {
       "question": "The coffee spilled ___ the floor.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces."
     },
     {
       "question": "Write the title ___ the top of the page.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces or days."
     },
     {
       "question": "She placed her glasses ___ the shelf.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces."
     },
     {
       "question": "There's dust ___ the window.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces."
     },
     {
       "question": "The label is ___ the bottle.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces."
     },
     {
       "question": "I left a note ___ your desk.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces."
     },
     {
       "question": "The picture is ___ the ceiling.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces."
     },
     {
       "question": "You can see the mountains ___ the horizon.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces."
     },
     {
       "question": "The number is printed ___ the ticket.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces."
     },
     {
       "question": "The exam is ___ Monday morning.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for days and dates."
     },
     {
       "question": "We celebrate Independence Day ___ July 4th.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for days and dates."
     },
     {
       "question": "My appointment is ___ the 21st of March.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for days and dates."
     },
     {
       "question": "She started the job ___ October.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for months."
     },
     {
       "question": "We met ___ Christmas Day.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for days and dates."
     },
     {
       "question": "He graduated ___ 2012.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for years."
     },
     {
       "question": "She will call you ___ Wednesday.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for days and dates."
     },
     {
       "question": "They arrived ___ the weekend.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for days and dates."
     },
     {
       "question": "Our anniversary is ___ June 30th.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for days and dates."
     },
     {
       "question": "She left her book ___ the bus.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for public transport."
     },
     {
       "question": "We met ___ the train.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for public transport."
     },
     {
       "question": "I slept ___ the plane.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for public transport."
     },
     {
       "question": "They ate dinner ___ the ferry.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for public transport."
     },
     {
       "question": "There is Wi-Fi ___ the coach.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for public transport."
     },
     {
       "question": "He works ___ night.",
       "answer": "at",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'At' is used with 'night'."
     },
     {
       "question": "We will meet ___ the station.",
       "answer": "at",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'At' is used for specific locations."
     },
     {
       "question": "I have a meeting ___ 5 PM.",
       "answer": "at",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'At' is used for clock times."
     },
     {
       "question": "The train arrives ___ the morning.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for parts of the day."
     },
     {
       "question": "She left her phone ___ the car.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used when something is inside something else."
     },
     {
       "question": "They moved here ___ May.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for months."
     },
     {
       "question": "He likes to read ___ bed.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used when something is inside something else."
     },
     {
       "question": "The conference is ___ September.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for months."
     },
     {
       "question": "My keys are ___ the kitchen table.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces."
     },
     {
       "question": "We were ___ the bus when it started raining.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for public transport."
     },
     {
       "question": "Let's meet ___ the entrance.",
       "answer": "at",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'At' is used for specific locations."
     },
     {
       "question": "She is staying ___ a hotel downtown.",
       "answer": "at",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'At' is used for specific locations."
     },
     {
       "question": "The cat is sleeping ___ the sofa again.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces."
     },
     {
       "question": "We eat dinner ___ the dining room.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for months, years, and enclosed spaces."
     },
     {
       "question": "I'll see you ___ Monday evening.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for days and dates."
     },
     {
       "question": "The picture hangs ___ the wall.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces."
     },
     {
       "question": "She arrived ___ the last minute.",
       "answer": "at",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'At' is used for precise moments like 'at the last minute'."
     },
     {
       "question": "He put the groceries ___ the trunk.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for months, years, and enclosed spaces."
     },
     {
       "question": "There's a note ___ the refrigerator.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for surfaces or days."
     },
     {
       "question": "My friends live ___ a small town.",
       "answer": "in",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'In' is used for areas and places."
     },
     {
       "question": "You can find it ___ the website.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for media like TV or websites."
     },
     {
       "question": "He usually relaxes ___ the weekend.",
       "answer": "on",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'On' is used for days and dates."
     },
     {
       "question": "We will see each other ___ Christmas.",
       "answer": "at",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'At' is used for specific times or places."
     },
     {
       "question": "The exhibition opens ___ 3 p.m.",
       "answer": "at",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'At' is used for clock times."
     },
     {
       "question": "I parked the car ___ the corner.",
       "answer": "at",
-      "choices": ["in", "on", "at"]
+      "choices": ["in", "on", "at"],
+      "explanation": "'At' is used for specific locations."
     }
   ],
   "labels": ["prepositions", "A2"]
