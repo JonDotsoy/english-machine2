@@ -90,6 +90,11 @@
             "type": "string",
             "title": "Ejemplo"
           },
+          "explanation": {
+            "type": "string",
+            "title": "Explanation",
+            "description": "Explanation to show when the user selects the correct choice."
+          },
           "choices": {
             "type": "array",
             "title": "Opciones",
