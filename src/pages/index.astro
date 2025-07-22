@@ -4,6 +4,7 @@ import Layout from "../layouts/Layout.astro";
 import { filterQuestionsDB } from "@/utils/filterQuestionsDB";
 import { arrayFromAsync } from "@/lib/arrayFromAsync";
 import { MagicCard } from "@/components/magicui/magic-card";
+import { Badge } from "@/components/ui/badge";
 import { questionTypeEmoji } from "@/lib/questionTypeEmoji";
 import classNames from "classnames";
 
@@ -79,6 +80,19 @@ const questionFiles: QuestionsDB[] = filterQuestionsDB(
                     <span class="block text-xs text-gray-500 mt-1">
                       {q.description}
                     </span>
+                  )}
+                  {Array.isArray(q.labels) && q.labels.length > 0 && (
+                    <div class="flex flex-wrap gap-1 mt-2">
+                      {q.labels.map((label) => (
+                        <Badge
+                          key={label}
+                          variant={"outline"}
+                          aria-label={`Label: ${label}`}
+                        >
+                          {label}
+                        </Badge>
+                      ))}
+                    </div>
                   )}
                 </div>
               </MagicCard>
