@@ -14,7 +14,7 @@ import {
 } from "@/stores/session";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import confetti from "canvas-confetti";
-import { animationStore } from "@/components/settings/store";
+import { animationStore, examModeStore } from "@/components/settings/store";
 import { SparklesText } from "./magicui/sparkles-text";
 
 const MultiChoice: React.FC<{ type: string; questions: Question[] }> = ({
@@ -27,6 +27,8 @@ const MultiChoice: React.FC<{ type: string; questions: Question[] }> = ({
   const progress = getSessionProgress(type);
   const stats = getSessionStats(type);
   const animationEnabled = useStore(animationStore);
+  const examMode = useStore(examModeStore);
+  const [showResults, setShowResults] = React.useState(false);
 
   // Detect desktop for UI (numeric labels)
   const [isDesktop, setIsDesktop] = React.useState(false);
@@ -163,16 +165,44 @@ const MultiChoice: React.FC<{ type: string; questions: Question[] }> = ({
 
   return (
     <div className="container mx-auto p-4">
+      {/* Exam mode controls */}
+      <div className="flex justify-end mb-4">
+        <Button
+          onClick={() => examModeStore.set(!examMode)}
+          variant={examMode ? "default" : "outline"}
+          size="sm"
+        >
+          {examMode ? "Salir de examen" : "Modo examen"}
+        </Button>
+        {examMode && (
+          <Button
+            onClick={() => setShowResults(!showResults)}
+            variant="secondary"
+            size="sm"
+            className="ml-2"
+          >
+            Resultados
+          </Button>
+        )}
+      </div>
       {/* Header with statistics */}
       <div className="mb-6 p-4 bg-gray-100 rounded-lg">
         <div className="flex justify-between items-center">
           <div className="text-sm text-gray-600">
             Question {progress.current} of {progress.total}
           </div>
-          <div className="text-sm text-gray-600">
-            Score: {stats.score}/{stats.totalQuestions} (
-            {stats.percentage.toFixed(1)}%)
-          </div>
+          {!examMode && (
+            <div className="text-sm text-gray-600">
+              Score: {stats.score}/{stats.totalQuestions} (
+              {stats.percentage.toFixed(1)}%)
+            </div>
+          )}
+          {examMode && showResults && (
+            <div className="text-sm text-gray-600">
+              Resultado: {stats.score}/{stats.totalQuestions} (
+              {stats.percentage.toFixed(1)}%)
+            </div>
+          )}
         </div>
         <div className="w-full bg-gray-200 rounded-full h-2 mt-2">
           <div
@@ -273,7 +303,7 @@ const MultiChoice: React.FC<{ type: string; questions: Question[] }> = ({
       </div>
 
       {/* Additional information if answered */}
-      {currentQuestion.selectedAnswer && (
+      {currentQuestion.selectedAnswer && (!examMode || showResults) && (
         <div className="p-4 bg-gray-50 rounded-lg">
           <div className="flex items-center justify-between">
             <span className="text-sm">
